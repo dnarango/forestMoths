@@ -1,7 +1,6 @@
 # forestMoths
 
 README: Data from: Tree Composition Mitigates the Negative Effects of Urbanization on Specialist and Generalist Forest Moth Communities
-https://doi.org/10.5061/dryad.8sf7m0cx2
 
 R script, JAGS model, and data used to test relationships between moth community metrics, urbanization and forest characteristics in Delaware and Pennsylvania, USA.
 
