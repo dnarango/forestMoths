@@ -1,0 +1,2227 @@
+plot,mothID,mothID_format,count,total_basal_all,planttype,num_hostplants,category
+1,"Panopoda carneicosta Guenée, 1852",Panopoda carneicosta,1,0.001745567,wood,4,generalist
+1,"Desmia funeralis (Hübner, 1796)",Desmia funeralis,1,0.016505875,wood,2,generalist
+1,"Athetis tarda (Guenée, 1852)",Athetis tarda,2,0,wood,2,generalist
+1,"Hyperstrotia nana (Hübner, 1818) ",Hyperstrotia nana,1,0.001745567,wood,4,generalist
+1,"Besma quercivoraria (Guenée, [1858])",Besma quercivoraria,1,0.331760383,wood,7,generalist
+1,"Tortricidia pallida (Herrich-Schäffer, 1854)",Tortricidia pallida,2,0.585329639,wood,8,generalist
+1,"Udea rubigalis (Guenée, 1854)",Udea rubigalis,2,0,wood,1,specialist
+1,"Ectropis crepuscularia ([Denis & Schiffermüller], 1775)",Ectropis crepuscularia,1,0.513145316,wood,20,generalist
+1,"Euparthenos nubilis (Hübner, 1823)",Euparthenos nubilis,1,0,wood,1,specialist
+1,"Iridopsis larvaria (Guenée, [1858])",Iridopsis larvaria,3,0.520974697,wood,12,generalist
+1,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,1,0.661313137,wood,26,generalist
+1,"Lomographa vestaliata (Guenée, [1858])",Lomographa vestaliata,3,0.520974697,wood,10,generalist
+1,Abagrotis anchocelioides ,Abagrotis anchocelioides,3,0.016505875,wood,2,generalist
+1,"Cyclophora pendulinaria (Guenée, [1858])",Cyclophora pendulinaria,1,0,wood,4,generalist
+1,"Orthodes majuscula Herrich-Schäffer, 1868",Orthodes majuscula,1,0,wood,2,generalist
+1,Acharia stimulea,Acharia stimulea,1,0.699394732,wood,31,generalist
+1,Acronicta hasta,Acronicta hasta,1,0.253569256,wood,3,generalist
+1,"Melanolophia canadaria (Guenée, [1858]) ",Melanolophia canadaria,1,0.661313137,wood,26,generalist
+1,"Abagrotis anchocelioides (Guenée, 1852)",Abagrotis anchocelioides,1,0.016505875,wood,2,generalist
+1,Acronicta retardata,Acronicta retardata,2,0.257830493,wood,4,generalist
+1,"Actias luna (Linnaeus, 1758)",Actias luna,1,3.031125505,wood,22,generalist
+1,"Ancylis burgessiana (Zeller, 1875)",Ancylis burgessiana,1,0.253569256,wood,4,generalist
+1,"Antaeotricha schlaegeri (Zeller, 1854)",Antaeotricha schlaegeri,2,0,wood,2,generalist
+1,"Argyresthia oreasella Clemens, 1860",Argyresthia oreasella,1,0.261193276,wood,3,generalist
+1,"Blastobasis glandulella (Riley, 1871)",Blastobasis glandulella,2,0.001745567,wood,3,generalist
+1,"Calledapteryx dryopterata Grote, 1868",Calledapteryx dryopterata,2,0.000205361,wood,1,specialist
+1,"Callosamia angulifera (Walker, 1855)",Callosamia angulifera,1,2.705936668,wood,6,generalist
+1,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,2,0.253569256,wood,4,generalist
+1,"Choristoneura rosaceana (Harris, 1841)",Choristoneura rosaceana,1,0.595687525,wood,29,generalist
+1,"Clemensia albata Packard, 1864",Clemensia albata,3,0,wood,2,generalist
+1,"Clemensia albata Packard, 1864 ",Clemensia albata,1,0,wood,2,generalist
+1,"Clepsis clemensiana (Fernald, 1879)",Clepsis clemensiana,1,0,wood,1,specialist
+1,"Cyclophora packardi (Prout, 1936)",Cyclophora packardi,2,0,wood,4,generalist
+1,"Datana integerrima Grote & Robinson, 1866",Datana integerrima,1,0.083299477,wood,11,generalist
+1,"Datana integerrima Grote & Robinson, 1866",Datana integerrima,3,0.083299477,wood,11,generalist
+1,"Datana perspicua Grote & Robinson, 1865",Datana perspicua,1,0,wood,2,generalist
+1,"Dryocampa rubicunda (Fabricius, 1793)",Dryocampa rubicunda,2,0.331760383,wood,5,generalist
+1,"Epicallima argenticinctella (Clemens, 1860)",Epicallima argenticinctella,1,0.001745567,wood,4,generalist
+1,"Epimecis hortaria (Fabricius, 1794)",Epimecis hortaria,1,2.455396484,wood,9,generalist
+1,"Epimecis hortaria (Fabricius, 1794) ",Epimecis hortaria,3,2.453650917,wood,5,generalist
+1,Eudryas grata,Eudryas grata,1,0.016505875,wood,3,generalist
+1,"Eudryas grata (Fabricius, 1793)",Eudryas grata,1,0.016505875,wood,3,generalist
+1,"Grapholita prunivora (Walsh, 1868)",Grapholita prunivora,1,0.261193276,wood,7,generalist
+1,"Halysidota tessellaris (Smith, 1797) ",Halysidota tessellaris,2,3.022513187,wood,29,generalist
+1,"Herpetogramma pertextalis (Lederer, 1863)",Herpetogramma pertextalis,2,0.257830493,wood,6,generalist
+1,"Heterocampa guttivitta (Walker, 1855)",Heterocampa guttivitta,1,0.628635099,wood,27,generalist
+1,"Heterocampa subrotata Harvey, 1874",Heterocampa subrotata,1,0.260358998,wood,6,generalist
+1,"Homorthodes lindseyi (Benjamin, 1922)",Homorthodes lindseyi,1,0.253569256,wood,2,generalist
+1,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,1,0.594699226,wood,23,generalist
+1,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,4,0.594699226,wood,23,generalist
+1,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,9,0.594699226,wood,23,generalist
+1,"Hypena scabra (Fabricius, 1798)",Hypena scabra,1,0.512388048,wood,10,generalist
+1,"Hyperstrotia pervertens (Barnes & McDunnough, 1918)",Hyperstrotia pervertens,2,0.07392989,wood,3,generalist
+1,"Hyphantria cunea (Drury, 1773)",Hyphantria cunea,1,3.096545757,wood,48,generalist
+1,"Hyphantria cunea (Drury, 1773)",Hyphantria cunea,2,3.096545757,wood,48,generalist
+1,Hypsopygia olinalis,Hypsopygia olinalis,1,0,wood,3,generalist
+1,"Lascoria ambigualis (Walker, 1866)",Lascoria ambigualis,1,0,wood,3,generalist
+1,"Macaria aemulataria Walker, 1861",Macaria aemulataria,2,0.511399749,wood,5,generalist
+1,"Malacosoma americana (Fabricius, 1793)",Malacosoma americana,3,0.628429738,wood,24,generalist
+1,Mythimna unipuncta,Mythimna unipuncta,1,0,wood,2,generalist
+1,"Mythimna unipuncta (Haworth, 1809)",Mythimna unipuncta,1,0,wood,2,generalist
+1,"Nadata gibbosa (Smith, 1797) ",Nadata gibbosa,1,0.587075206,wood,12,generalist
+1,Olceclostera angelica,Olceclostera angelica,1,0,wood,1,specialist
+1,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,1,0,wood,1,specialist
+1,Panopoda carneicosta,Panopoda carneicosta,1,0.001745567,wood,4,generalist
+1,"Paralobesia liriodendrana (Kearfott, 1904)",Paralobesia liriodendrana,8,2.410319787,wood,2,generalist
+1,Phaecasiophora confixana,Phaecasiophora confixana,1,0.003029072,wood,1,specialist
+1,"Phaecasiophora confixana (Walker, 1863)",Phaecasiophora confixana,1,0.003029072,wood,1,specialist
+1,"Phaecasiophora confixana (Walker, 1863)",Phaecasiophora confixana,3,0.003029072,wood,1,specialist
+1,"Platynota idaeusalis (Walker, 1859) ",Platynota idaeusalis,1,0.270280492,wood,10,generalist
+1,"Pococera asperatella (Clemens, 1860)",Pococera asperatella,1,0.33350595,wood,8,generalist
+1,Pseudeustrotia carneola,Pseudeustrotia carneola,1,0,wood,1,specialist
+1,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,2,0.33350595,wood,8,generalist
+1,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,11,0.33350595,wood,8,generalist
+1,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,19,0.33350595,wood,8,generalist
+1,"Pyrrharctia isabella (Smith, 1797)",Pyrrharctia isabella,1,0.528110985,wood,8,generalist
+1,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,2,0,wood,2,generalist
+1,"Rheumaptera prunivorata (Ferguson, 1955)",Rheumaptera prunivorata,1,0.253569256,wood,3,generalist
+1,"Scopula limboundata (Haworth, 1809)",Scopula limboundata,1,0.253569256,wood,9,generalist
+1,"Scopula limboundata (Haworth, 1809) ",Scopula limboundata,2,0.253569256,wood,9,generalist
+1,Speranza pustularia,Speranza pustularia,1,0.511399749,wood,4,generalist
+1,"Spilosoma virginica (Fabricius, 1798",Spilosoma virginica,2,0.529651191,wood,18,generalist
+1,"Tetanolita floridana Smith, 1895",Tetanolita floridana,2,0,wood,2,generalist
+1,"Xestia dolosa Franclemont, 1980",Xestia dolosa,1,0.258035854,wood,8,generalist
+1,"Athetis tarda (Guenée, 1852) ",Athetis tarda,2,0,wood,3,generalist
+1,"Lomographa vestaliata (Guenée, [1858])",Lomographa vestaliata,7,0.520974697,wood,10,generalist
+1,"Zanclognatha cruralis (Guenée, 1854) ",Zanclognatha cruralis,1,0.07392989,wood,5,generalist
+1,"Bleptina caradrinalis Guenée, 1854",Bleptina caradrinalis,1,0.255314823,wood,4,generalist
+1,"Nemoria bistriaria Hübner, 1818",Nemoria bistriaria,1,0.253569256,wood,5,generalist
+1,"Palthis asopialis (Guenée, 1854)",Palthis asopialis,1,0,wood,1,specialist
+1,"Nemoria bistriaria Hübner, 1818 ",Nemoria bistriaria,3,0.253569256,wood,5,generalist
+1,"Hyperstrotia nana (Hübner, 1818)",Hyperstrotia nana,2,0.001745567,wood,4,generalist
+2,"Athetis tarda (Guenée, 1852)",Athetis tarda,1,0,wood,2,generalist
+2,"Udea rubigalis (Guenée, 1854) ",Udea rubigalis,1,0,wood,1,specialist
+2,"Acleris schalleriana (Linnaeus, 1761)",Acleris schalleriana,1,0.001604381,wood,3,generalist
+2,"Acronicta ovata (Grote, 1873)",Acronicta ovata,2,1.616844135,wood,6,generalist
+2,Acronicta retardata,Acronicta retardata,1,0.947804298,wood,4,generalist
+2,"Agnippe prunifoliella (Chambers, 1873)",Agnippe prunifoliella,1,0.432348673,wood,1,specialist
+2,Automeris io,Automeris io,1,6.728659661,wood,34,generalist
+2,Baileya australis,Baileya australis,1,0,wood,1,specialist
+2,"Callosamia angulifera (Walker, 1855)",Callosamia angulifera,2,5.170946604,wood,6,generalist
+2,"Idia aemula Hübner, 1814",Idia aemula,1,0.432348673,wood,4,generalist
+2,"Athetis tarda (Guenée, 1852)",Athetis tarda,3,0,wood,2,generalist
+2,"Desmia funeralis (Hübner, 1796)",Desmia funeralis,1,0.002104948,wood,2,generalist
+2,"Zanclognatha cruralis (Guenée, 1854)",Zanclognatha cruralis,1,0.596637318,wood,5,generalist
+2,"Desmia funeralis (Hübner, 1796)",Desmia funeralis,3,0.002104948,wood,2,generalist
+2,"Melanolophia canadaria (Guenée, [1858]) ",Melanolophia canadaria,3,2.813815265,wood,26,generalist
+2,"Melanolophia canadaria (Guenée, [1858]) ",Melanolophia canadaria,4,2.813815265,wood,26,generalist
+2,"Chionodes obscurusella (Chambers, 1872)",Chionodes obscurusella,1,0.947804298,wood,1,specialist
+2,"Clemensia albata Packard, 1864",Clemensia albata,1,0,wood,2,generalist
+2,"Coleophora querciella Clemens, 1861",Coleophora querciella,1,0.432348673,wood,3,generalist
+2,"Colocasia flavicornis (Smith, 1884)",Colocasia flavicornis,2,1.616844135,wood,8,generalist
+2,"Datana integerrima Grote & Robinson, 1866",Datana integerrima,1,0.657603807,wood,11,generalist
+2,"Datana integerrima Grote & Robinson, 1866",Datana integerrima,3,0.657603807,wood,11,generalist
+2,"Dichomeris inversella (Zeller, 1873)",Dichomeris inversella,1,0.060850974,wood,1,specialist
+2,"Elophila obliteralis (Walker, 1859)",Elophila obliteralis,1,0,wood,1,specialist
+2,"Endothenia hebesana (Walker, 1863) ",Endothenia hebesana,1,0,wood,2,generalist
+2,"Epicallima argenticinctella (Clemens, 1860)",Epicallima argenticinctella,1,0.060850974,wood,4,generalist
+2,"Epimecis hortaria (Fabricius, 1794)",Epimecis hortaria,3,4.683779431,wood,9,generalist
+2,Eudryas grata,Eudryas grata,1,0.002104948,wood,3,generalist
+2,"Halysidota tessellaris (Smith, 1797)",Halysidota tessellaris,1,6.524428339,wood,29,generalist
+2,"Halysidota tessellaris (Smith, 1797) ",Halysidota tessellaris,2,6.524428339,wood,29,generalist
+2,"Herpetogramma pertextalis (Lederer, 1863)",Herpetogramma pertextalis,1,0.947804298,wood,6,generalist
+2,"Herpetogramma pertextalis (Lederer, 1863)",Herpetogramma pertextalis,10,0.947804298,wood,6,generalist
+2,"Heterocampa guttivitta (Walker, 1855)",Heterocampa guttivitta,3,2.60759451,wood,27,generalist
+2,"Heterocampa guttivitta (Walker, 1855)",Heterocampa guttivitta,4,2.60759451,wood,27,generalist
+2,Heterocampa obliqua,Heterocampa obliqua,2,0,wood,1,specialist
+2,"Homorthodes lindseyi (Benjamin, 1922)",Homorthodes lindseyi,2,0.432348673,wood,2,generalist
+2,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,10,2.049308323,wood,23,generalist
+2,"Hypena abalienalis Walker, 185",Hypena abalienalis,1,0,wood,2,generalist
+2,"Hypena scabra (Fabricius, 1798)",Hypena scabra,1,1.393308897,wood,10,generalist
+2,"Hyphantria cunea (Drury, 1773)",Hyphantria cunea,2,7.628088653,wood,48,generalist
+2,"Lacinipolia renigera (Stephens, 1829)",Lacinipolia renigera,2,0,wood,4,generalist
+2,"Malacosoma americana (Fabricius, 1793)",Malacosoma americana,1,2.605990129,wood,24,generalist
+2,"Meganola phylla (Dyar, 1898)",Meganola phylla,1,0.596637318,wood,2,generalist
+2,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,1,2.049192808,wood,12,generalist
+2,Olethreutes nigranum,Olethreutes nigranum,1,1.008655272,wood,3,generalist
+2,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,2,0,wood,1,specialist
+2,"Paonias excaecata (Smith, 1797)",Paonias excaecata,1,1.99006173,wood,19,generalist
+2,Parallelia bistriaris,Parallelia bistriaris,1,0.959355843,wood,4,generalist
+2,"Paralobesia liriodendrana (Kearfott, 1904)",Paralobesia liriodendrana,2,4.471410687,wood,2,generalist
+2,"Perimede erransella Chambers, 1874",Perimede erransella,2,4.532261661,wood,4,generalist
+2,"Pococera asperatella (Clemens, 1860)",Pococera asperatella,1,1.60529259,wood,8,generalist
+2,Polygrammate hebraeicum,Polygrammate hebraeicum,1,0.556681806,wood,2,generalist
+2,"Prochoerodes lineola (Goeze, 1781)",Prochoerodes lineola,3,1.393308897,wood,18,generalist
+2,"Proteoteras aesculana Riley, 1881",Proteoteras aesculana,1,0.947804298,wood,4,generalist
+2,"Pseudotelphusa quercinigracella (Chambers, 1872)",Pseudotelphusa quercinigracella,1,0,wood,1,specialist
+2,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,3,1.616844135,wood,8,generalist
+2,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,8,1.616844135,wood,8,generalist
+2,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,10,1.616844135,wood,8,generalist
+2,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,1,0,wood,2,generalist
+2,"Scolecocampa liburna (Geyer, 1837) ",Scolecocampa liburna,2,4.964610334,wood,7,generalist
+2,Scopula limboundata,Scopula limboundata,1,0.432348673,wood,9,generalist
+2,"Scopula limboundata (Haworth, 1809)",Scopula limboundata,1,0.432348673,wood,9,generalist
+2,"Scopula limboundata (Haworth, 1809) ",Scopula limboundata,1,0.432348673,wood,9,generalist
+2,"Spilosoma virginica (Fabricius, 1798)",Spilosoma virginica,1,1.454660438,wood,18,generalist
+2,"Symmerista albifrons (Smith, 1797)",Symmerista albifrons,1,1.616844135,wood,10,generalist
+2,"Xestia dolosa Franclemont, 1980",Xestia dolosa,2,0.949408679,wood,8,generalist
+2,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,1,2.813815265,wood,26,generalist
+2,"Cabera erythemaria Guenée, [1858]",Cabera erythemaria,2,0.011551545,wood,3,generalist
+2,"Zanclognatha cruralis (Guenée, 1854) ",Zanclognatha cruralis,3,0.596637318,wood,5,generalist
+2,"Athetis tarda (Guenée, 1852) ",Athetis tarda,4,0,wood,3,generalist
+2,"Hyperstrotia nana (Hübner, 1818)",Hyperstrotia nana,2,0.060850974,wood,4,generalist
+2,"Lomographa vestaliata (Guenée, [1858])",Lomographa vestaliata,2,1.442723841,wood,10,generalist
+2,"Eulithis gracilineata (Guenée, [1858])",Eulithis gracilineata,3,0.002220463,wood,3,generalist
+2,"Idia aemula Hübner, 1814 ",Idia aemula,1,0.432348673,wood,4,generalist
+2,"Udea rubigalis (Guenée, 1854)",Udea rubigalis,1,0,wood,1,specialist
+2,"Anavitrinella pampinaria (Guenée, [1858])",Anavitrinella pampinaria,1,1.454275386,wood,20,generalist
+3,"Catocala palaeogama Guenée, 1852",Catocala palaeogama,1,1.385800393,wood,5,generalist
+3,"Iridopsis larvaria (Guenée, [1858])",Iridopsis larvaria,1,1.776409482,wood,12,generalist
+3,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,1,3.099716015,wood,26,generalist
+3,"Lithacodes fasciola (Herrich-Schäffer, 1854)",Lithacodes fasciola,1,3.054831844,wood,15,generalist
+3,"Zanclognatha cruralis (Guenée, 1854)",Zanclognatha cruralis,1,1.285597155,wood,5,generalist
+3,"Panopoda rufimargo (Hübner, 1818)",Panopoda rufimargo,1,2.076621312,wood,5,generalist
+3,"Cyclophora pendulinaria (Guenée, [1858])",Cyclophora pendulinaria,1,0.944826566,wood,4,generalist
+3,"Orthodes majuscula Herrich-Schäffer, 1868",Orthodes majuscula,1,0,wood,2,generalist
+3,"Tortricidia pallida (Herrich-Schäffer, 1854)",Tortricidia pallida,1,2.578831164,wood,8,generalist
+3,"Nemoria bistriaria Hübner, 1818",Nemoria bistriaria,1,1.298984112,wood,5,generalist
+3,"Bleptina caradrinalis Guenée, 1854 ",Bleptina caradrinalis,2,1.731486806,wood,4,generalist
+3,"Udea rubigalis (Guenée, 1854)",Udea rubigalis,1,0.000333711,wood,1,specialist
+3,"Ectropis crepuscularia ([Denis & Schiffermüller], 1775)",Ectropis crepuscularia,1,2.742465221,wood,20,generalist
+3,"Ectropis crepuscularia ([Denis & Schiffermüller], 1775) ",Ectropis crepuscularia,1,2.742465221,wood,20,generalist
+3,"Eulithis gracilineata (Guenée, [1858])",Eulithis gracilineata,1,0.021408864,wood,3,generalist
+3,"Hypena baltimoralis Guenée, 1854",Hypena baltimoralis,2,2.322977269,wood,3,generalist
+3,"Desmia funeralis (Hübner, 1796) ",Desmia funeralis,2,0.021408864,wood,2,generalist
+3,"Melanolophia canadaria (Guenée, [1858]) ",Melanolophia canadaria,1,3.099716015,wood,26,generalist
+3,"Lomographa vestaliata (Guenée, [1858])",Lomographa vestaliata,5,2.712508214,wood,10,generalist
+3,"Udea rubigalis (Guenée, 1854) ",Udea rubigalis,1,0.000333711,wood,1,specialist
+3,Abagrotis anchocelioides ,Abagrotis anchocelioides,2,0.021408864,wood,2,generalist
+3,"Acleris subnivana (Walker, 1863)",Acleris subnivana,1,0.940462649,wood,1,specialist
+3,"Acronicta ovata (Grote, 1873)",Acronicta ovata,1,2.672475692,wood,6,generalist
+3,Acronicta retardata,Acronicta retardata,2,1.882824885,wood,4,generalist
+3,"Acronicta retardata (Walker, 1861)",Acronicta retardata,1,1.882824885,wood,4,generalist
+3,"Athetis tarda (Guenée, 1852)",Athetis tarda,4,0.940462649,wood,2,generalist
+3,"Orthodes majuscula Herrich-Schäffer, 1868 ",Orthodes majuscula,1,0,wood,2,generalist
+3,"Desmia funeralis (Hübner, 1796)",Desmia funeralis,1,0.021408864,wood,2,generalist
+3,"Athetis tarda (Guenée, 1852) ",Athetis tarda,1,0.940462649,wood,3,generalist
+3,"Agrotis ipsilon (Hufnagel, 1766)",Agrotis ipsilon,1,0.37556641,wood,4,generalist
+3,"Amorpha juglandis (Smith, 1797)",Amorpha juglandis,1,0.789650807,wood,7,generalist
+3,Argyrotaenia velutinana,Argyrotaenia velutinana,1,2.263088923,wood,18,generalist
+3,Autographa precationis,Autographa precationis,1,0,wood,1,specialist
+3,Automeris io,Automeris io,3,5.917985044,wood,34,generalist
+3,"Callosamia angulifera (Walker, 1855)",Callosamia angulifera,1,3.649954626,wood,6,generalist
+3,"Choristoneura rosaceana (Harris, 1841)",Choristoneura rosaceana,1,3.087599727,wood,29,generalist
+3,"Clemensia albata Packard, 1864",Clemensia albata,2,0,wood,2,generalist
+3,"Colocasia flavicornis (Smith, 1884)",Colocasia flavicornis,5,2.672475692,wood,8,generalist
+3,"Cyclophora packardi (Prout, 1936)",Cyclophora packardi,1,0.940462649,wood,4,generalist
+3,"Datana angusii Grote & Robinson, 1866",Datana angusii,1,1.755372835,wood,8,generalist
+3,"Datana integerrima Grote & Robinson, 1866",Datana integerrima,1,1.764408711,wood,11,generalist
+3,"Datana ministra (Drury, 1773)",Datana ministra,1,3.087599727,wood,23,generalist
+3,Desmia funeralis,Desmia funeralis,2,0.021408864,wood,2,generalist
+3,"Episimus argutana (Clemens, 1860)",Episimus argutana,1,0.07641989,wood,8,generalist
+3,"Episimus argutana (Clemens, 1860)",Episimus argutana,2,0.07641989,wood,8,generalist
+3,"Estigmene acrea (Drury, 1773)",Estigmene acrea,1,0.720700916,wood,9,generalist
+3,"Eubaphe mendica (Walker, 1854)",Eubaphe mendica,1,0.942362236,wood,2,generalist
+3,Eudryas grata,Eudryas grata,2,0.021408864,wood,3,generalist
+3,"Euplexia benesimilis McDunnough, 1922",Euplexia benesimilis,1,0.004363917,wood,6,generalist
+3,"Halysidota tessellaris (Smith, 1797)",Halysidota tessellaris,1,5.954808804,wood,29,generalist
+3,"Halysidota tessellaris (Smith, 1797)",Halysidota tessellaris,4,5.954808804,wood,29,generalist
+3,"Halysidota tessellaris (Smith, 1797) ",Halysidota tessellaris,3,5.954808804,wood,29,generalist
+3,"Haploa clymene (Brown, 1776)",Haploa clymene,1,1.291334422,wood,3,generalist
+3,"Herpetogramma pertextalis (Lederer, 1863)",Herpetogramma pertextalis,3,0.942362236,wood,6,generalist
+3,"Heterocampa guttivitta (Walker, 1855)",Heterocampa guttivitta,1,3.115464622,wood,27,generalist
+3,Hyalophora cecropia,Hyalophora cecropia,1,5.94618365,wood,43,generalist
+3,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,2,6.11810915,wood,23,generalist
+3,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,5,3.059054575,wood,23,generalist
+3,"Hypena scabra (Fabricius, 1798)",Hypena scabra,1,1.300883699,wood,10,generalist
+3,"Hypena scabra (Fabricius, 1798) ",Hypena scabra,1,1.300883699,wood,10,generalist
+3,"Hyperstrotia pervertens (Barnes & McDunnough, 1918)",Hyperstrotia pervertens,3,1.285597155,wood,3,generalist
+3,"Hyphantria cunea (Drury, 1773)",Hyphantria cunea,1,6.106262398,wood,48,generalist
+3,"Lacinipolia renigera (Stephens, 1829)",Lacinipolia renigera,3,0,wood,4,generalist
+3,"Leucania ursula (Forbes, 1936)",Leucania ursula,1,0,wood,1,specialist
+3,"Lochmaeus manteo Doubleday, 1841",Lochmaeus manteo,1,1.733399229,wood,12,generalist
+3,"Malacosoma americana (Fabricius, 1793)",Malacosoma americana,2,3.115798333,wood,24,generalist
+3,"Mythimna unipuncta (Haworth, 1809)",Mythimna unipuncta,1,0.003285773,wood,2,generalist
+3,"Oneida lunulalis (Hulst, 1887)",Oneida lunulalis,1,1.285597155,wood,2,generalist
+3,"Oreta rosea (Walker, 1855)",Oreta rosea,1,0.004363917,wood,2,generalist
+3,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,1,0.035373399,wood,1,specialist
+3,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,2,0.035373399,wood,1,specialist
+3,"Paralobesia liriodendrana (Kearfott, 1904)",Paralobesia liriodendrana,1,2.846133924,wood,2,generalist
+3,"Pero honestaria (Walker, 1860)",Pero honestaria,1,0.350871773,wood,1,specialist
+3,"Phaecasiophora confixana (Walker, 1863)",Phaecasiophora confixana,1,0.002798041,wood,1,specialist
+3,Phobetron pithecium,Phobetron pithecium,1,3.062006637,wood,15,generalist
+3,Polygrammate hebraeicum,Polygrammate hebraeicum,1,0.028198606,wood,2,generalist
+3,"Prochoerodes lineola (Goeze, 1781)",Prochoerodes lineola,2,2.241346348,wood,18,generalist
+3,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,4,2.672475692,wood,8,generalist
+3,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,11,2.672475692,wood,8,generalist
+3,"Psilocorsis reflexella Clemens, 1860 ",Psilocorsis reflexella,1,2.672475692,wood,8,generalist
+3,"Pubitelphusa latifasciella (Chambers, 1875)",Pubitelphusa latifasciella,1,0.940462649,wood,1,specialist
+3,"Pyrrharctia isabella (Smith, 1797)",Pyrrharctia isabella,1,1.31900679,wood,8,generalist
+3,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,1,0,wood,2,generalist
+3,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,2,0,wood,2,generalist
+3,"Renia adspergillus (Bosc, [1800]) ",Renia adspergillus,2,0,wood,2,generalist
+3,"Scolecocampa liburna (Geyer, 1837) ",Scolecocampa liburna,1,4.57762073,wood,7,generalist
+3,Scopula limboundata,Scopula limboundata,1,0.379416925,wood,9,generalist
+3,"Scopula limboundata (Haworth, 1809)",Scopula limboundata,1,0.379416925,wood,9,generalist
+3,"Scopula limboundata (Haworth, 1809) ",Scopula limboundata,1,0.379416925,wood,9,generalist
+3,Speranza pustularia,Speranza pustularia,1,2.238060575,wood,4,generalist
+3,"Spilosoma virginica (Fabricius, 1798",Spilosoma virginica,1,1.794532573,wood,18,generalist
+3,"Tetanolita floridana Smith, 1895",Tetanolita floridana,2,0.940462649,wood,2,generalist
+3,"Xestia dolosa Franclemont, 1980",Xestia dolosa,2,0.945648009,wood,8,generalist
+3,"Xestia dolosa Franclemont, 1980",Xestia dolosa,3,0.945648009,wood,8,generalist
+3,"Lomographa vestaliata (Guenée, [1858])",Lomographa vestaliata,7,2.712508214,wood,10,generalist
+4,"Zanclognatha cruralis (Guenée, 1854)",Zanclognatha cruralis,1,0,wood,5,generalist
+4,"Lomographa vestaliata (Guenée, [1858])",Lomographa vestaliata,2,0.32077358,wood,10,generalist
+4,"Acronicta interrupta (Guenée, 1852) ",Acronicta interrupta,2,1.145464074,wood,12,generalist
+4,"Panopoda rufimargo (Hübner, 1818)",Panopoda rufimargo,1,0.264093997,wood,5,generalist
+4,"Cabera erythemaria Guenée, [1858]",Cabera erythemaria,2,1.086936244,wood,3,generalist
+4,"Hypomecis umbrosaria (Hübner, [1813])",Hypomecis umbrosaria,1,1.086936244,wood,2,generalist
+4,"Tetracis cachexiata Guenée, [1858]",Tetracis cachexiata,1,1.409442556,wood,20,generalist
+4,"Orthodes majuscula Herrich-Schäffer, 1868 ",Orthodes majuscula,1,0,wood,2,generalist
+4,Abagrotis anchocelioides ,Abagrotis anchocelioides,1,0,wood,2,generalist
+4,"Acronicta lithospila (Grote, 1874",Acronicta lithospila,1,0.26224575,wood,4,generalist
+4,Acronicta retardata,Acronicta retardata,2,0.056679583,wood,4,generalist
+4,"Antaeotricha schlaegeri (Zeller, 1854)",Antaeotricha schlaegeri,3,1.086936244,wood,2,generalist
+4,Automeris io,Automeris io,1,13.50080448,wood,34,generalist
+4,"Automeris io (Fabricius, 1775)",Automeris io,2,13.50080448,wood,34,generalist
+4,"Calledapteryx dryopterata Grote, 1868",Calledapteryx dryopterata,2,0,wood,1,specialist
+4,"Cenopis reticulatana (Clemens, 1860)",Cenopis reticulatana,1,1.145464074,wood,14,generalist
+4,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,1,0.001848247,wood,4,generalist
+4,"Choristoneura rosaceana (Harris, 1841)",Choristoneura rosaceana,1,1.407709824,wood,29,generalist
+4,"Colocasia flavicornis (Smith, 1884)",Colocasia flavicornis,2,1.405861577,wood,8,generalist
+4,"Colocasia propinquilinea (Grote, 1873)",Colocasia propinquilinea,2,1.143615827,wood,10,generalist
+4,Condylolomia participalis,Condylolomia participalis,1,0,wood,1,specialist
+4,"Cyclophora packardi (Prout, 1936)",Cyclophora packardi,1,0,wood,4,generalist
+4,"Datana integerrima Grote & Robinson, 1866",Datana integerrima,1,0.26224575,wood,11,generalist
+4,"Dryocampa rubicunda (Fabricius, 1793)",Dryocampa rubicunda,1,0.056679583,wood,5,generalist
+4,"Elaphria versicolor (Grote, 1875)",Elaphria versicolor,1,1.143615827,wood,7,generalist
+4,"Elophila obliteralis (Walker, 1859)",Elophila obliteralis,1,0,wood,1,specialist
+4,"Epimecis hortaria (Fabricius, 1794)",Epimecis hortaria,2,12.10269528,wood,9,generalist
+4,"Episimus argutana (Clemens, 1860)",Episimus argutana,1,0.001655722,wood,8,generalist
+4,"Eubaphe mendica (Walker, 1854)",Eubaphe mendica,1,0.056679583,wood,2,generalist
+4,Eudryas grata,Eudryas grata,2,0,wood,3,generalist
+4,"Eudryas grata (Fabricius, 1793)",Eudryas grata,1,0,wood,3,generalist
+4,"Eupithecia miserulata Grote, 1863",Eupithecia miserulata,1,0.05852783,wood,22,generalist
+4,"Euplexia benesimilis McDunnough, 1922",Euplexia benesimilis,1,1.086936244,wood,6,generalist
+4,"Euzophera ostricolorella Hulst, 1890",Euzophera ostricolorella,1,12.09261976,wood,2,generalist
+4,"Halysidota tessellaris (Smith, 1797)",Halysidota tessellaris,1,13.50032958,wood,29,generalist
+4,"Halysidota tessellaris (Smith, 1797)",Halysidota tessellaris,4,13.50032958,wood,29,generalist
+4,"Halysidota tessellaris (Smith, 1797) ",Halysidota tessellaris,10,13.50032958,wood,29,generalist
+4,"Haploa clymene (Brown, 1776)",Haploa clymene,1,0.001848247,wood,3,generalist
+4,"Herpetogramma bipunctalis (Fabricius, 1794)",Herpetogramma bipunctalis,1,0,wood,1,specialist
+4,"Herpetogramma pertextalis (Lederer, 1863)",Herpetogramma pertextalis,1,0.056679583,wood,6,generalist
+4,"Herpetogramma thestealis (Walker, 1859)",Herpetogramma thestealis,1,0.000487732,wood,6,generalist
+4,"Heterocampa biundata Walker, 1855",Heterocampa biundata,1,1.407709824,wood,14,generalist
+4,Heterocampa obliqua,Heterocampa obliqua,5,0,wood,1,specialist
+4,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,9,1.407709824,wood,23,generalist
+4,"Hypena scabra (Fabricius, 1798)",Hypena scabra,2,1.145464074,wood,10,generalist
+4,"Hyperstrotia pervertens (Barnes & McDunnough, 1918)",Hyperstrotia pervertens,1,0,wood,3,generalist
+4,Isa textula,Isa textula,1,1.407709824,wood,11,generalist
+4,"Lacinipolia renigera (Stephens, 1829)",Lacinipolia renigera,1,0,wood,4,generalist
+4,"Lochmaeus manteo Doubleday, 1841",Lochmaeus manteo,1,1.349181994,wood,12,generalist
+4,"Lochmaeus manteo Doubleday, 1841",Lochmaeus manteo,2,1.349181994,wood,12,generalist
+4,"Macaria bisignata Walker, 1866",Macaria bisignata,1,1.086936244,wood,3,generalist
+4,"Macrurocampa marthesia (Cramer, 1780)",Macrurocampa marthesia,1,0.318925333,wood,6,generalist
+4,"Malacosoma americana (Fabricius, 1793)",Malacosoma americana,1,1.408954824,wood,24,generalist
+4,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,2,1.407709824,wood,12,generalist
+4,"Orgyia leucostigma (Smith, 1797) ",Orgyia leucostigma,1,13.50204948,wood,50,generalist
+4,"Orthonama obstipata (Fabricius, 1794)",Orthonama obstipata,2,0,wood,1,specialist
+4,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,4,0,wood,1,specialist
+4,"Platynota flavedana Clemens, 1860",Platynota flavedana,2,0.059002727,wood,11,generalist
+4,Pleuroprucha insulsaria,Pleuroprucha insulsaria,1,0.000487732,wood,7,generalist
+4,"Psilocorsis quercicella Clemens, 1860",Psilocorsis quercicella,1,0,wood,3,generalist
+4,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,9,1.405861577,wood,8,generalist
+4,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,11,1.405861577,wood,8,generalist
+4,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,56,1.405861577,wood,8,generalist
+4,"Pyrrharctia isabella (Smith, 1797) ",Pyrrharctia isabella,1,1.145464074,wood,8,generalist
+4,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,1,0,wood,2,generalist
+4,"Schizura ipomaeae Doubleday, 1841",Schizura ipomaeae,1,1.407709824,wood,26,generalist
+4,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,2,0,wood,1,specialist
+4,"Scopula limboundata (Haworth, 1809) ",Scopula limboundata,2,0.001848247,wood,9,generalist
+4,"Tetanolita floridana Smith, 1895",Tetanolita floridana,1,0,wood,2,generalist
+4,"Tortricidia flexuosa (Grote, 1880)",Tortricidia flexuosa,1,1.407709824,wood,7,generalist
+4,"Xestia dolosa Franclemont, 1980",Xestia dolosa,1,0.056679583,wood,8,generalist
+4,"Charadra deridens (Guenée, 1852)",Charadra deridens,1,1.405861577,wood,6,generalist
+4,"Nemoria bistriaria Hübner, 1818 ",Nemoria bistriaria,2,1.088784491,wood,5,generalist
+4,"Protoboarmia porcelaria (Guenée, [1858])",Protoboarmia porcelaria,1,1.405861577,wood,11,generalist
+4,"Bleptina caradrinalis Guenée, 1854",Bleptina caradrinalis,1,0.264093997,wood,4,generalist
+4,"Melanolophia canadaria (Guenée, [1858]) ",Melanolophia canadaria,2,1.409429721,wood,26,generalist
+4,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,2,1.409429721,wood,26,generalist
+4,"Iridopsis defectaria (Guenée, [1858])",Iridopsis defectaria,1,0.058938552,wood,12,generalist
+4,"Desmia funeralis (Hübner, 1796)",Desmia funeralis,1,0,wood,2,generalist
+4,"Athetis tarda (Guenée, 1852)",Athetis tarda,2,0,wood,2,generalist
+4,"Abagrotis anchocelioides (Guenée, 1852)",Abagrotis anchocelioides,1,0,wood,2,generalist
+4,"Eulithis gracilineata (Guenée, [1858])",Eulithis gracilineata,1,0,wood,3,generalist
+4,"Ectropis crepuscularia ([Denis & Schiffermüller], 1775)",Ectropis crepuscularia,2,1.407709824,wood,20,generalist
+4,"Elaphria grata Hübner, 1818",Elaphria grata,1,0,wood,4,generalist
+4,"Iridopsis larvaria (Guenée, [1858])",Iridopsis larvaria,3,1.407709824,wood,12,generalist
+5,"Pseudeustrotia carneola (Guenée, 1852)",Pseudeustrotia carneola,1,3.522656596,wood,1,specialist
+5,"Idia aemula Hübner, 1814 ",Idia aemula,1,3.522656596,wood,4,generalist
+5,"Hyperstrotia nana (Hübner, 1818)",Hyperstrotia nana,3,3.943556404,wood,4,generalist
+5,"Hyperstrotia nana (Hübner, 1818)",Hyperstrotia nana,11,3.943556404,wood,4,generalist
+5,"Palthis asopialis (Guenée, 1854)",Palthis asopialis,2,3.522656596,wood,1,specialist
+5,"Nemoria bistriaria Hübner, 1818",Nemoria bistriaria,3,3.937190219,wood,5,generalist
+5,"Elaphria grata Hübner, 1818 ",Elaphria grata,1,3.522656596,wood,3,generalist
+5,"Elaphria grata Hübner, 1818 ",Elaphria grata,2,3.522656596,wood,3,generalist
+5,"Idia americalis (Guenée, 1854)",Idia americalis,1,0,wood,3,generalist
+5,"Tetracis crocallata Guenée, [1858]",Tetracis crocallata,1,0.965324141,wood,8,generalist
+5,"Udea rubigalis (Guenée, 1854)",Udea rubigalis,1,0,wood,1,specialist
+5,"Iridopsis larvaria (Guenée, [1858])",Iridopsis larvaria,1,1.384824929,wood,12,generalist
+5,"Athetis tarda (Guenée, 1852)",Athetis tarda,1,3.522656596,wood,2,generalist
+5,"Probole amicaria (Herrich-Schäffer, [1855])",Probole amicaria,1,6.057078485,wood,19,generalist
+5,"Furcula borealis (Guérin-Méneville, 1844)",Furcula borealis,1,3.522656596,wood,3,generalist
+5,"Athetis tarda (Guenée, 1852)",Athetis tarda,7,3.522656596,wood,2,generalist
+5,"Besma quercivoraria (Guenée, [1858])",Besma quercivoraria,2,6.03292292,wood,7,generalist
+5,"Elaphria grata Hübner, 1818",Elaphria grata,3,3.522656596,wood,4,generalist
+5,"Euchlaena amoenaria (Guenée, [1858])",Euchlaena amoenaria,1,0.414533623,wood,2,generalist
+5,"Polygrammate hebraeicum Hübner, 1818",Polygrammate hebraeicum,1,0,wood,2,generalist
+5,"Melanolophia canadaria (Guenée, [1858]) ",Melanolophia canadaria,1,6.452423708,wood,26,generalist
+5,"Panopoda rufimargo (Hübner, 1818)",Panopoda rufimargo,4,5.485700547,wood,5,generalist
+5,"Idia aemula Hübner, 1814",Idia aemula,2,3.522656596,wood,4,generalist
+5,"Anavitrinella pampinaria (Guenée, [1858])",Anavitrinella pampinaria,1,4.908880545,wood,20,generalist
+5,"Cabera variolaria Guenée, [1858]",Cabera variolaria,1,0,wood,2,generalist
+5,"Abagrotis alternata (Grote, 1864)",Abagrotis alternata,2,3.942157384,wood,9,generalist
+5,"Prionoxystus macmurtrei (Guérin-Méneville, 1829)",Prionoxystus macmurtrei,1,4.073447114,wood,4,generalist
+5,Abagrotis anchocelioides ,Abagrotis anchocelioides,1,0,wood,2,generalist
+5,Acronicta increta,Acronicta increta,1,5.480733382,wood,5,generalist
+5,"Acronicta ovata (Grote, 1873)",Acronicta ovata,2,6.451024688,wood,6,generalist
+5,"Acronicta ovata (Grote, 1873)",Acronicta ovata,3,6.451024688,wood,6,generalist
+5,"Acronicta retardata (Walker, 1861)",Acronicta retardata,1,4.073447114,wood,4,generalist
+5,"Anavitrinella pampinaria (Guenée, [1858]) ",Anavitrinella pampinaria,1,4.908880545,wood,20,generalist
+5,"Phosphila miselioides (Guenée, 1852)",Phosphila miselioides,1,0,wood,1,specialist
+5,"Melanolophia canadaria (Guenée, [1858]) ",Melanolophia canadaria,2,6.452423708,wood,26,generalist
+5,"Zanclognatha cruralis (Guenée, 1854)",Zanclognatha cruralis,1,5.066199759,wood,5,generalist
+5,"Zanclognatha cruralis (Guenée, 1854)",Zanclognatha cruralis,2,5.066199759,wood,5,generalist
+5,"Acronicta tristis (Smith, 1911)",Acronicta tristis,1,5.616990277,wood,3,generalist
+5,Antaeotricha schlaegeri,Antaeotricha schlaegeri,3,3.937190219,wood,2,generalist
+5,"Antaeotricha schlaegeri (Zeller, 1854)",Antaeotricha schlaegeri,2,3.937190219,wood,2,generalist
+5,Apoda biguttata,Apoda biguttata,1,5.485700547,wood,4,generalist
+5,"Argyrotaenia quercifoliana (Fitch, 1858",Argyrotaenia quercifoliana,1,4.096486029,wood,5,generalist
+5,"Balsa tristrigella (Walker, 1866)",Balsa tristrigella,1,0,wood,3,generalist
+5,"Blastobasis glandulella (Riley, 1871)",Blastobasis glandulella,2,3.942157384,wood,3,generalist
+5,"Bucculatrix coronatella Clemens, 1860",Bucculatrix coronatella,1,0.414533623,wood,1,specialist
+5,"Catocala dejecta Strecker, 1880",Catocala dejecta,1,3.942157384,wood,2,generalist
+5,"Catocala flebilis Grote, 1872 ",Catocala flebilis,1,0.419500788,wood,2,generalist
+5,Catocala ilia,Catocala ilia,1,3.522656596,wood,1,specialist
+5,"Chionodes obscurusella (Chambers, 1872)",Chionodes obscurusella,1,0.550790518,wood,1,specialist
+5,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,7,3.522656596,wood,4,generalist
+5,"Choristoneura parallela (Robinson, 1869)",Choristoneura parallela,1,0.574946083,wood,9,generalist
+5,"Coleophora atromarginata Braun, 1914",Coleophora atromarginata,1,4.356691007,wood,6,generalist
+5,"Colocasia flavicornis (Smith, 1884)",Colocasia flavicornis,1,6.451024688,wood,8,generalist
+5,"Colocasia flavicornis (Smith, 1884)",Colocasia flavicornis,2,6.451024688,wood,8,generalist
+5,"Colocasia propinquilinea (Grote, 1873)",Colocasia propinquilinea,2,6.03292292,wood,10,generalist
+5,Condylolomia participalis,Condylolomia participalis,1,0,wood,1,specialist
+5,"Cyclophora packardi (Prout, 1936)",Cyclophora packardi,1,3.522656596,wood,4,generalist
+5,"Cydia latiferreana (Walsingham, 1879) ",Cydia latiferreana,2,5.480733382,wood,7,generalist
+5,"Datana drexelii Edwards, 1884",Datana drexelii,1,0.437572538,wood,6,generalist
+5,"Datana integerrima Grote & Robinson, 1866",Datana integerrima,3,5.485700547,wood,11,generalist
+5,"Datana perspicua Grote & Robinson, 1865",Datana perspicua,1,3.522656596,wood,2,generalist
+5,"Drepana arcuata Walker, 1855",Drepana arcuata,1,0.414533623,wood,1,specialist
+5,"Dryocampa rubicunda (Fabricius, 1793)",Dryocampa rubicunda,2,5.616990277,wood,5,generalist
+5,"Dryocampa rubicunda (Fabricius, 1793)",Dryocampa rubicunda,4,5.616990277,wood,5,generalist
+5,Elaphria grata,Elaphria grata,1,3.522656596,wood,3,generalist
+5,"Epiblema strenuana (Walker, 1863)",Epiblema strenuana,1,0,wood,1,specialist
+5,"Epicallima argenticinctella (Clemens, 1860)",Epicallima argenticinctella,1,3.943556404,wood,4,generalist
+5,"Epimecis hortaria (Fabricius, 1794)",Epimecis hortaria,1,0.643857469,wood,9,generalist
+5,"Eubaphe mendica (Walker, 1854) ",Eubaphe mendica,1,0.550790518,wood,2,generalist
+5,"Euchlaena marginaria (Minot, 1869)",Euchlaena marginaria,1,0.415932643,wood,9,generalist
+5,Eudryas grata,Eudryas grata,1,0,wood,3,generalist
+5,"Eumarozia malachitana (Zeller, 1875)",Eumarozia malachitana,1,0,wood,3,generalist
+5,"Eupithecia miserulata Grote, 1863",Eupithecia miserulata,1,4.097885049,wood,22,generalist
+5,"Eupithecia miserulata Grote, 1863 ",Eupithecia miserulata,1,4.097885049,wood,22,generalist
+5,Euplexia benesimilis,Euplexia benesimilis,1,0.414533623,wood,6,generalist
+5,"Halysidota tessellaris (Smith, 1797)",Halysidota tessellaris,1,7.119320092,wood,29,generalist
+5,"Halysidota tessellaris (Smith, 1797)",Halysidota tessellaris,2,7.119320092,wood,29,generalist
+5,"Haploa clymene (Brown, 1776)",Haploa clymene,7,3.522656596,wood,3,generalist
+5,Herpetogramma pertextalis,Herpetogramma pertextalis,2,0.552189538,wood,6,generalist
+5,"Herpetogramma pertextalis (Lederer, 1863)",Herpetogramma pertextalis,1,0.552189538,wood,6,generalist
+5,"Heterocampa guttivitta (Walker, 1855)",Heterocampa guttivitta,2,6.475462623,wood,27,generalist
+5,"Heterocampa guttivitta (Walker, 1855) ",Heterocampa guttivitta,1,6.475462623,wood,27,generalist
+5,"Heterocampa obliqua Packard, 1864",Heterocampa obliqua,1,3.522656596,wood,1,specialist
+5,"Heterocampa subrotata Harvey, 1874",Heterocampa subrotata,1,1.407863844,wood,6,generalist
+5,Heterocampa umbrata,Heterocampa umbrata,1,3.522656596,wood,5,generalist
+5,"Heterocampa umbrata Walker, 1855",Heterocampa umbrata,1,4.487980737,wood,5,generalist
+5,"Homorthodes lindseyi (Benjamin, 1922)",Homorthodes lindseyi,1,3.522656596,wood,2,generalist
+5,Hypagyrtis unipunctata,Hypagyrtis unipunctata,1,6.452423708,wood,23,generalist
+5,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,1,6.452423708,wood,23,generalist
+5,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,3,6.452423708,wood,23,generalist
+5,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,7,6.452423708,wood,23,generalist
+5,"Hypena palparia Walker, 1861",Hypena palparia,1,3.522656596,wood,4,generalist
+5,Hyperstrotia pervertens,Hyperstrotia pervertens,6,5.067598779,wood,3,generalist
+5,Hyperstrotia secta,Hyperstrotia secta,1,3.522656596,wood,1,specialist
+5,"Hyperstrotia secta (Grote, 1879)",Hyperstrotia secta,1,3.522656596,wood,1,specialist
+5,"Hyphantria cunea (Drury, 1773)",Hyphantria cunea,2,7.143475657,wood,48,generalist
+5,Hypsopygia olinalis,Hypsopygia olinalis,1,3.522656596,wood,3,generalist
+5,Isa textula,Isa textula,1,6.452423708,wood,11,generalist
+5,"Lacinipolia renigera (Stephens, 1829)",Lacinipolia renigera,1,0,wood,4,generalist
+5,"Lacinipolia renigera (Stephens, 1829)",Lacinipolia renigera,2,0,wood,4,generalist
+5,Lambdina pellucidaria,Lambdina pellucidaria,1,4.492947902,wood,4,generalist
+5,"Lochmaeus manteo Doubleday, 1841",Lochmaeus manteo,2,11.80326638,wood,12,generalist
+5,Macaria aemulataria,Macaria aemulataria,3,0.965324141,wood,5,generalist
+5,"Macaria bisignata Walker, 1866",Macaria bisignata,1,0.414533623,wood,3,generalist
+5,"Macrurocampa marthesia (Cramer, 1780)",Macrurocampa marthesia,1,6.036491065,wood,6,generalist
+5,"Macrurocampa marthesia (Cramer, 1780) ",Macrurocampa marthesia,1,6.036491065,wood,6,generalist
+5,"Malacosoma americana (Fabricius, 1793)",Malacosoma americana,1,6.475462623,wood,24,generalist
+5,"Meganola minuscula (Zeller, 1872)",Meganola minuscula,2,3.522656596,wood,2,generalist
+5,"Meganola phylla (Dyar, 1898)",Meganola phylla,2,5.066199759,wood,2,generalist
+5,"Meganola phylla (Dyar, 1898)",Meganola phylla,8,5.066199759,wood,2,generalist
+5,Melanolophia canadaria,Melanolophia canadaria,1,6.452423708,wood,26,generalist
+5,"Mythimna unipuncta (Haworth, 1809)",Mythimna unipuncta,1,0,wood,2,generalist
+5,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,4,6.451024688,wood,12,generalist
+5,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,6,6.451024688,wood,12,generalist
+5,"Nadata gibbosa (Smith, 1797) ",Nadata gibbosa,1,6.451024688,wood,12,generalist
+5,"Natada nasoni (Grote, 1876)",Natada nasoni,1,5.485700547,wood,8,generalist
+5,"Natada nasoni (Grote, 1876)",Natada nasoni,2,5.485700547,wood,8,generalist
+5,Nemoria bistriaria,Nemoria bistriaria,1,3.937190219,wood,5,generalist
+5,"Olceclostera angelica (Grote, 1864)",Olceclostera angelica,1,0,wood,1,specialist
+5,Olethreutes nigranum,Olethreutes nigranum,1,0.970291306,wood,3,generalist
+5,"Olethreutes olivaceana (Fernald, 1882)",Olethreutes olivaceana,2,0,wood,1,specialist
+5,"Oligocentria semirufescens (Walker, 1865) ",Oligocentria semirufescens,1,6.03292292,wood,11,generalist
+5,"Oneida lunulalis (Hulst, 1887)",Oneida lunulalis,2,5.066199759,wood,2,generalist
+5,"Orgyia leucostigma (Smith, 1797)",Orgyia leucostigma,2,7.143475657,wood,50,generalist
+5,"Orthonama obstipata (Fabricius, 1794)",Orthonama obstipata,1,0.00139902,wood,1,specialist
+5,Palpita magniferalis,Palpita magniferalis,2,0,wood,1,specialist
+5,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,2,0,wood,1,specialist
+5,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,8,0,wood,1,specialist
+5,"Pandemis lamprosana (Robinson, 1869)",Pandemis lamprosana,1,6.055961835,wood,14,generalist
+5,"Pandemis lamprosana (Robinson, 1869) ",Pandemis lamprosana,1,6.055961835,wood,14,generalist
+5,Pero ancetaria,Pero ancetaria,2,0.966723161,wood,5,generalist
+5,Phaecasiophora confixana,Phaecasiophora confixana,1,0,wood,1,specialist
+5,"Phaecasiophora confixana (Walker, 1863)",Phaecasiophora confixana,7,0,wood,1,specialist
+5,"Phobetron pithecium (Smith, 1797)",Phobetron pithecium,1,6.451024688,wood,15,generalist
+5,"Platynota flavedana Clemens, 1860",Platynota flavedana,1,0.552189538,wood,11,generalist
+5,"Platynota idaeusalis (Walker, 1859)",Platynota idaeusalis,1,0.414533623,wood,10,generalist
+5,Pleuroprucha insulsaria,Pleuroprucha insulsaria,1,3.522656596,wood,7,generalist
+5,"Prochoerodes lineola (Goeze, 1781)",Prochoerodes lineola,1,4.489379757,wood,18,generalist
+5,"Proteoteras aesculana Riley, 1881",Proteoteras aesculana,1,0.550790518,wood,4,generalist
+5,"Psilocorsis cryptolechiella (Chambers, 1872)",Psilocorsis cryptolechiella,1,6.451024688,wood,7,generalist
+5,Psilocorsis reflexella,Psilocorsis reflexella,2,6.451024688,wood,8,generalist
+5,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,2,6.451024688,wood,8,generalist
+5,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,5,6.451024688,wood,8,generalist
+5,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,11,6.451024688,wood,8,generalist
+5,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,15,6.451024688,wood,8,generalist
+5,"Psilocorsis reflexella Clemens, 1860 ",Psilocorsis reflexella,1,6.451024688,wood,8,generalist
+5,"Pyrrharctia isabella (Smith, 1797)",Pyrrharctia isabella,1,0.966723161,wood,8,generalist
+5,"Pyrrharctia isabella (Smith, 1797)",Pyrrharctia isabella,2,0.966723161,wood,8,generalist
+5,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,3,0,wood,2,generalist
+5,"Schizura leptinoides (Grote, 1864)",Schizura leptinoides,1,5.90023417,wood,14,generalist
+5,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,1,0,wood,1,specialist
+5,"Scolecocampa liburna (Geyer, 1837)",Scolecocampa liburna,1,4.586014853,wood,7,generalist
+5,"Scopula limboundata (Haworth, 1809) ",Scopula limboundata,1,0.024437935,wood,9,generalist
+5,"Spilosoma virginica (Fabricius, 1798",Spilosoma virginica,1,1.386223949,wood,18,generalist
+5,"Spilosoma virginica (Fabricius, 1798)",Spilosoma virginica,1,1.386223949,wood,18,generalist
+5,"Spilosoma virginica (Fabricius, 1798) ",Spilosoma virginica,1,1.386223949,wood,18,generalist
+5,Symmerista albifrons,Symmerista albifrons,1,6.452423708,wood,10,generalist
+5,Tetanolita floridana,Tetanolita floridana,1,3.522656596,wood,2,generalist
+5,"Tortricidia flexuosa (Grote, 1880)",Tortricidia flexuosa,1,4.907481525,wood,7,generalist
+5,"Xestia dolosa Franclemont, 1980",Xestia dolosa,1,0.550790518,wood,8,generalist
+6,"Besma quercivoraria (Guenée, [1858])",Besma quercivoraria,1,5.538377215,wood,7,generalist
+6,"Hyperstrotia nana (Hübner, 1818)",Hyperstrotia nana,1,3.209083479,wood,4,generalist
+6,"Udea rubigalis (Guenée, 1854)",Udea rubigalis,1,0,wood,1,specialist
+6,"Udea rubigalis (Guenée, 1854)",Udea rubigalis,2,0,wood,1,specialist
+6,"Panopoda rufimargo (Hübner, 1818)",Panopoda rufimargo,1,5.241425489,wood,5,generalist
+6,"Lomographa vestaliata (Guenée, [1858])",Lomographa vestaliata,1,3.375104856,wood,10,generalist
+6,"Pero ancetaria (Hübner, 1806)",Pero ancetaria,1,0.296951726,wood,5,generalist
+6,"Eulithis gracilineata (Guenée, [1858]) ",Eulithis gracilineata,1,0,wood,3,generalist
+6,"Hyperstrotia nana (Hübner, 1818)",Hyperstrotia nana,4,3.209083479,wood,4,generalist
+6,"Idia americalis (Guenée, 1854) ",Idia americalis,1,0,wood,3,generalist
+6,"Idia aemula Hübner, 1814",Idia aemula,2,3.209083479,wood,4,generalist
+6,"Ulolonche culea (Guenée, 1852)",Ulolonche culea,1,3.209083479,wood,1,specialist
+6,"Zanclognatha cruralis (Guenée, 1854) ",Zanclognatha cruralis,2,5.553381389,wood,5,generalist
+6,"Nemoria bistriaria Hübner, 1818 ",Nemoria bistriaria,1,3.340013828,wood,5,generalist
+6,"Tortricidia pallida (Herrich-Schäffer, 1854)",Tortricidia pallida,1,5.407446866,wood,8,generalist
+6,"Hypena madefactalis Guenée, 1854",Hypena madefactalis,1,0,wood,2,generalist
+6,"Acronicta hasta (Guenée, 1852)",Acronicta hasta,1,3.209083479,wood,2,generalist
+6,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,2,5.666586534,wood,26,generalist
+6,"Hypomecis umbrosaria (Hübner, [1813])",Hypomecis umbrosaria,2,3.340013828,wood,2,generalist
+6,"Campaea perlata (Guenée, [1858])",Campaea perlata,1,3.817991105,wood,13,generalist
+6,"Adoneta spinuloides (Herrich-Schäffer, 1854)",Adoneta spinuloides,1,5.50268294,wood,14,generalist
+6,"Polygrammate hebraeicum Hübner, 1818",Polygrammate hebraeicum,2,0.128209319,wood,2,generalist
+6,"Hymenia perspectalis (Hübner, 1796)",Hymenia perspectalis,1,0,wood,4,generalist
+6,"Panopoda carneicosta Guenée, 1852",Panopoda carneicosta,1,3.209083479,wood,4,generalist
+6,"Abagrotis alternata (Grote, 1864)",Abagrotis alternata,1,3.209083479,wood,9,generalist
+6,"Abagrotis alternata (Grote, 1864) ",Abagrotis alternata,1,3.209083479,wood,9,generalist
+6,Abagrotis anchocelioides ,Abagrotis anchocelioides,2,0,wood,2,generalist
+6,Acronicta increta,Acronicta increta,2,5.684311738,wood,5,generalist
+6,Acronicta ovata,Acronicta ovata,1,5.538377215,wood,6,generalist
+6,"Acronicta ovata (Grote, 1873)",Acronicta ovata,1,5.538377215,wood,6,generalist
+6,"Acronicta ovata (Grote, 1873)",Acronicta ovata,2,5.538377215,wood,6,generalist
+6,"Actias luna (Linnaeus, 1758) ",Actias luna,1,6.307119725,wood,22,generalist
+6,"Antaeotricha humilis (Zeller, 1855)",Antaeotricha humilis,2,3.209083479,wood,1,specialist
+6,"Antaeotricha schlaegeri (Zeller, 1854)",Antaeotricha schlaegeri,1,3.340013828,wood,2,generalist
+6,"Antaeotricha schlaegeri (Zeller, 1854)",Antaeotricha schlaegeri,7,3.340013828,wood,2,generalist
+6,Argyrotaenia velutinana,Argyrotaenia velutinana,2,3.506035205,wood,18,generalist
+6,"Automeris io (Fabricius, 1775)",Automeris io,4,6.178910406,wood,34,generalist
+6,Blastobasis glandulella,Blastobasis glandulella,1,3.209083479,wood,3,generalist
+6,"Blastobasis glandulella (Riley, 1871)",Blastobasis glandulella,2,3.209083479,wood,3,generalist
+6,Caloptilia sassafrasella,Caloptilia sassafrasella,1,0,wood,1,specialist
+6,"Catocala vidua (Smith, 1797) ",Catocala vidua,1,3.209083479,wood,4,generalist
+6,Ceratomia amyntor,Ceratomia amyntor,1,5.372355838,wood,7,generalist
+6,"Chionodes obscurusella (Chambers, 1872)",Chionodes obscurusella,1,0.166021377,wood,1,specialist
+6,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,1,3.209083479,wood,4,generalist
+6,"Clemensia albata Packard, 1864",Clemensia albata,2,0,wood,2,generalist
+6,"Clemensia albata Packard, 1864",Clemensia albata,3,0,wood,2,generalist
+6,"Colocasia flavicornis (Smith, 1884)",Colocasia flavicornis,1,5.538377215,wood,8,generalist
+6,"Colocasia flavicornis (Smith, 1884)",Colocasia flavicornis,5,5.538377215,wood,8,generalist
+6,"Colocasia flavicornis (Smith, 1884)",Colocasia flavicornis,6,5.538377215,wood,8,generalist
+6,Condylolomia participalis,Condylolomia participalis,2,0,wood,1,specialist
+6,"Cydia latiferreana (Walsingham, 1879) ",Cydia latiferreana,4,5.684311738,wood,7,generalist
+6,"Datana integerrima Grote & Robinson, 1866",Datana integerrima,2,5.241425489,wood,11,generalist
+6,Datana ministra,Datana ministra,3,5.852450898,wood,23,generalist
+6,"Datana ministra (Drury, 1773)",Datana ministra,2,5.852450898,wood,23,generalist
+6,"Decantha boreasella (Chambers, 1873) ",Decantha boreasella,1,0,wood,1,specialist
+6,"Drepana arcuata Walker, 1855",Drepana arcuata,1,0.130930349,wood,1,specialist
+6,Dryocampa rubicunda,Dryocampa rubicunda,1,5.407446866,wood,5,generalist
+6,"Dryocampa rubicunda (Fabricius, 1793)",Dryocampa rubicunda,2,5.407446866,wood,5,generalist
+6,"Dryocampa rubicunda (Fabricius, 1793)",Dryocampa rubicunda,3,5.407446866,wood,5,generalist
+6,"Endothenia hebesana (Walker, 1863)",Endothenia hebesana,1,0,wood,2,generalist
+6,"Episimus argutana (Clemens, 1860)",Episimus argutana,1,0.130327102,wood,8,generalist
+6,Eudryas grata,Eudryas grata,1,0,wood,3,generalist
+6,"Eupithecia miserulata Grote, 1863 ",Eupithecia miserulata,1,3.377222639,wood,22,generalist
+6,"Euzophera semifuneralis (Walker, 1863",Euzophera semifuneralis,1,3.209083479,wood,13,generalist
+6,"Euzophera semifuneralis (Walker, 1863)",Euzophera semifuneralis,1,3.209083479,wood,13,generalist
+6,"Halysidota tessellaris (Smith, 1797)",Halysidota tessellaris,1,6.181028189,wood,29,generalist
+6,"Halysidota tessellaris (Smith, 1797) ",Halysidota tessellaris,1,6.181028189,wood,29,generalist
+6,"Haploa clymene (Brown, 1776)",Haploa clymene,1,3.209083479,wood,3,generalist
+6,"Hedya separatana (Kearfott, 1907)",Hedya separatana,1,0.130930349,wood,7,generalist
+6,"Herpetogramma pertextalis (Lederer, 1863)",Herpetogramma pertextalis,1,0.166021377,wood,6,generalist
+6,"Herpetogramma pertextalis (Lederer, 1863) ",Herpetogramma pertextalis,1,0.166021377,wood,6,generalist
+6,"Heterocampa guttivitta (Walker, 1855)",Heterocampa guttivitta,2,5.980660217,wood,27,generalist
+6,"Heterocampa obliqua Packard, 1864",Heterocampa obliqua,2,3.209083479,wood,1,specialist
+6,"Homorthodes lindseyi (Benjamin, 1922)",Homorthodes lindseyi,1,3.209083479,wood,2,generalist
+6,Hypagyrtis unipunctata,Hypagyrtis unipunctata,2,5.850333115,wood,23,generalist
+6,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,10,5.850333115,wood,23,generalist
+6,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,11,5.850333115,wood,23,generalist
+6,Hyperstrotia nana,Hyperstrotia nana,1,3.209083479,wood,4,generalist
+6,"Hyphantria cunea (Drury, 1773)",Hyphantria cunea,2,6.310058951,wood,48,generalist
+6,"Ilexia intractata (Walker, [1863])",Ilexia intractata,2,0,wood,1,specialist
+6,"Lacinipolia renigera (Stephens, 1829) ",Lacinipolia renigera,1,0,wood,4,generalist
+6,"Lambdina pellucidaria (Grote & Robinson, 1867)",Lambdina pellucidaria,1,3.375104856,wood,4,generalist
+6,"Lascoria ambigualis (Walker, 1866)",Lascoria ambigualis,1,3.209083479,wood,3,generalist
+6,"Lochmaeus manteo Doubleday, 1841",Lochmaeus manteo,2,5.372355838,wood,12,generalist
+6,"Lochmaeus manteo Doubleday, 1841",Lochmaeus manteo,3,5.372355838,wood,12,generalist
+6,"Lophocampa caryae Harris, 1841",Lophocampa caryae,1,5.540494998,wood,24,generalist
+6,"Lycophotia phyllophora (Grote, 1874) ",Lycophotia phyllophora,1,0.130930349,wood,5,generalist
+6,Macaria aemulataria,Macaria aemulataria,1,0.296951726,wood,5,generalist
+6,"Machimia tentoriferella Clemens, 1860 ",Machimia tentoriferella,1,5.850333115,wood,19,generalist
+6,"Malacosoma americana (Fabricius, 1793)",Malacosoma americana,5,5.980660217,wood,24,generalist
+6,"Meganola minuscula (Zeller, 1872)",Meganola minuscula,2,3.209083479,wood,2,generalist
+6,"Meganola phylla (Dyar, 1898)",Meganola phylla,2,5.241425489,wood,2,generalist
+6,Melanolophia canadaria,Melanolophia canadaria,1,5.666586534,wood,26,generalist
+6,"Mythimna unipuncta (Haworth, 1809)",Mythimna unipuncta,1,0,wood,2,generalist
+6,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,1,5.850333115,wood,12,generalist
+6,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,4,5.850333115,wood,12,generalist
+6,"Nadata gibbosa (Smith, 1797) ",Nadata gibbosa,3,5.850333115,wood,12,generalist
+6,"Natada nasoni (Grote, 1876)",Natada nasoni,1,5.369634808,wood,8,generalist
+6,"Olceclostera angelica (Grote, 1864)",Olceclostera angelica,1,0,wood,1,specialist
+6,"Oligocentria semirufescens (Walker, 1865) ",Oligocentria semirufescens,1,5.538377215,wood,11,generalist
+6,"Oneida lunulalis (Hulst, 1887)",Oneida lunulalis,1,5.241425489,wood,2,generalist
+6,Orgyia leucostigma,Orgyia leucostigma,1,6.310058951,wood,50,generalist
+6,"Orgyia leucostigma (Smith, 1797) ",Orgyia leucostigma,1,6.310058951,wood,50,generalist
+6,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,2,0,wood,1,specialist
+6,"Pandemis lamprosana (Robinson, 1869) ",Pandemis lamprosana,3,5.540494998,wood,14,generalist
+6,Parallelia bistriaris,Parallelia bistriaris,2,3.506035205,wood,4,generalist
+6,"Paralobesia liriodendrana (Kearfott, 1904)",Paralobesia liriodendrana,1,0.328577291,wood,2,generalist
+6,"Phaecasiophora confixana (Walker, 1863)",Phaecasiophora confixana,1,0,wood,1,specialist
+6,"Pococera asperatella (Clemens, 1860)",Pococera asperatella,1,5.407446866,wood,8,generalist
+6,Prochoerodes lineola,Prochoerodes lineola,1,3.506035205,wood,18,generalist
+6,"Prochoerodes lineola (Goeze, 1781)",Prochoerodes lineola,1,3.506035205,wood,18,generalist
+6,"Pseudotelphusa quercinigracella (Chambers, 1872) ",Pseudotelphusa quercinigracella,1,3.209083479,wood,1,specialist
+6,Psilocorsis reflexella,Psilocorsis reflexella,1,5.850333115,wood,8,generalist
+6,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,3,5.850333115,wood,8,generalist
+6,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,6,5.850333115,wood,8,generalist
+6,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,13,5.850333115,wood,8,generalist
+6,"Pyrrharctia isabella (Smith, 1797)",Pyrrharctia isabella,1,0.296951726,wood,8,generalist
+6,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,2,0,wood,2,generalist
+6,"Schizura ipomaeae Doubleday, 1841",Schizura ipomaeae,1,5.540494998,wood,26,generalist
+6,Sciota uvinella,Sciota uvinella,1,0,wood,1,specialist
+6,"Scolecocampa liburna (Geyer, 1837) ",Scolecocampa liburna,1,3.53766077,wood,7,generalist
+6,Scopula limboundata,Scopula limboundata,2,0.002117783,wood,9,generalist
+6,Speranza pustularia,Speranza pustularia,1,3.506035205,wood,4,generalist
+6,"Spilosoma virginica (Fabricius, 1798",Spilosoma virginica,2,0.608907626,wood,18,generalist
+6,"Spilosoma virginica (Fabricius, 1798)",Spilosoma virginica,1,0.608907626,wood,18,generalist
+6,"Spilosoma virginica (Fabricius, 1798) ",Spilosoma virginica,1,0.608907626,wood,18,generalist
+6,"Tortricidia testacea Packard, 1864",Tortricidia testacea,2,5.668704317,wood,11,generalist
+6,"Xestia dolosa Franclemont, 1980",Xestia dolosa,1,0,wood,8,generalist
+6,"Xestia dolosa Franclemont, 1980",Xestia dolosa,2,0.166021377,wood,8,generalist
+7,"Besma quercivoraria (Guenée, [1858])",Besma quercivoraria,1,5.355411949,wood,7,generalist
+7,"Iridopsis larvaria (Guenée, [1858])",Iridopsis larvaria,3,0.358431618,wood,12,generalist
+7,"Hypomecis umbrosaria (Hübner, [1813])",Hypomecis umbrosaria,3,3.530999378,wood,2,generalist
+7,"Abagrotis alternata (Grote, 1864) ",Abagrotis alternata,1,3.334392076,wood,9,generalist
+7,"Idia americalis (Guenée, 1854) ",Idia americalis,1,0,wood,3,generalist
+7,"Udea rubigalis (Guenée, 1854)",Udea rubigalis,1,0,wood,1,specialist
+7,"Acharia stimulea (Clemens, 1860)",Acharia stimulea,1,5.204638611,wood,31,generalist
+7,"Palthis angulalis (Hübner, 1796)",Palthis angulalis,1,0.384653626,wood,18,generalist
+7,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,3,5.400758182,wood,26,generalist
+7,"Agrotis ipsilon (Hufnagel, 1766)",Agrotis ipsilon,1,0,wood,4,generalist
+7,"Antaeotricha schlaegeri (Zeller, 1854)",Antaeotricha schlaegeri,2,3.530999378,wood,2,generalist
+7,"Argyrotaenia velutinana (Walker, 1863)",Argyrotaenia velutinana,1,3.692823694,wood,18,generalist
+7,"Automeris io (Fabricius, 1775)",Automeris io,1,5.758599388,wood,34,generalist
+7,"Baileya australis (Grote, 1881)",Baileya australis,1,0,wood,1,specialist
+7,"Blastobasis glandulella (Riley, 1871)",Blastobasis glandulella,1,3.334392076,wood,3,generalist
+7,"Blastobasis glandulella (Riley, 1871)",Blastobasis glandulella,2,3.334392076,wood,3,generalist
+7,"Callosamia angulifera (Walker, 1855)",Callosamia angulifera,1,0.400094192,wood,6,generalist
+7,"Ceratomia undulosa (Walker, 1856)",Ceratomia undulosa,1,3.334392076,wood,5,generalist
+7,"Choristoneura rosaceana (Harris, 1841)",Choristoneura rosaceana,1,5.382044679,wood,29,generalist
+7,Clemensia albata,Clemensia albata,1,0,wood,2,generalist
+7,"Clemensia albata Packard, 1864",Clemensia albata,1,0,wood,2,generalist
+7,"Clemensia albata Packard, 1864",Clemensia albata,2,0,wood,2,generalist
+7,"Clemensia albata Packard, 1864 ",Clemensia albata,1,0,wood,2,generalist
+7,"Colocasia flavicornis (Smith, 1884)",Colocasia flavicornis,2,10.71659967,wood,8,generalist
+7,"Colocasia propinquilinea (Grote, 1873)",Colocasia propinquilinea,1,5.358299835,wood,10,generalist
+7,"Colocasia propinquilinea (Grote, 1873) ",Colocasia propinquilinea,1,5.358299835,wood,10,generalist
+7,"Datana integerrima Grote & Robinson, 1866",Datana integerrima,2,4.997185692,wood,11,generalist
+7,"Datana ministra (Drury, 1773)",Datana ministra,1,5.384727204,wood,23,generalist
+7,"Dryocampa rubicunda (Fabricius, 1793)",Dryocampa rubicunda,2,5.158804647,wood,5,generalist
+7,"Elaphria versicolor (Grote, 1875)",Elaphria versicolor,1,0.358226257,wood,7,generalist
+7,"Elophila obliteralis (Walker, 1859)",Elophila obliteralis,1,0,wood,1,specialist
+7,"Epicallima argenticinctella (Clemens, 1860)",Epicallima argenticinctella,2,3.334392076,wood,4,generalist
+7,"Epimecis hortaria (Fabricius, 1794)",Epimecis hortaria,1,0.400209707,wood,9,generalist
+7,"Eubaphe mendica (Walker, 1854) ",Eubaphe mendica,1,0.161618955,wood,2,generalist
+7,"Euchlaena marginaria (Minot, 1869)",Euchlaena marginaria,1,0.196812663,wood,9,generalist
+7,"Eupithecia miserulata Grote, 1863",Eupithecia miserulata,2,3.522643761,wood,22,generalist
+7,Glyptocera consobrinella,Glyptocera consobrinella,2,0.000205361,wood,1,specialist
+7,"Halysidota tessellaris (Smith, 1797)",Halysidota tessellaris,1,5.782511087,wood,29,generalist
+7,"Halysidota tessellaris (Smith, 1797)",Halysidota tessellaris,2,5.782511087,wood,29,generalist
+7,"Haploa clymene (Brown, 1776)",Haploa clymene,1,3.334392076,wood,3,generalist
+7,Harrisimemna trisignata,Harrisimemna trisignata,1,0.000205361,wood,13,generalist
+7,"Herpetogramma pertextalis (Lederer, 1863)",Herpetogramma pertextalis,1,0.161618955,wood,6,generalist
+7,"Herpetogramma pertextalis (Lederer, 1863) ",Herpetogramma pertextalis,2,0.161618955,wood,6,generalist
+7,"Heterocampa guttivitta (Walker, 1855)",Heterocampa guttivitta,1,5.427557767,wood,27,generalist
+7,"Heterocampa obliqua Packard, 1864",Heterocampa obliqua,1,3.334392076,wood,1,specialist
+7,Heterocampa umbrata,Heterocampa umbrata,1,3.334392076,wood,5,generalist
+7,Hypagyrtis unipunctata,Hypagyrtis unipunctata,2,5.355411949,wood,23,generalist
+7,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,5,5.355411949,wood,23,generalist
+7,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,6,5.355411949,wood,23,generalist
+7,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,7,5.355411949,wood,23,generalist
+7,Hypena palparia,Hypena palparia,1,3.337279962,wood,4,generalist
+7,"Hypena palparia Walker, 1861 ",Hypena palparia,1,3.337279962,wood,4,generalist
+7,"Hypena scabra (Fabricius, 1798)",Hypena scabra,2,0.358431618,wood,10,generalist
+7,Hyperstrotia pervertens,Hyperstrotia pervertens,1,4.997185692,wood,3,generalist
+7,"Hyphantria cunea (Drury, 1773)",Hyphantria cunea,2,5.860214482,wood,48,generalist
+7,Iridopsis larvaria,Iridopsis larvaria,1,0.358431618,wood,12,generalist
+7,"Lacinipolia renigera (Stephens, 1829)",Lacinipolia renigera,1,0,wood,4,generalist
+7,"Leucania ursula (Forbes, 1936)",Leucania ursula,1,0,wood,1,specialist
+7,"Lochmaeus manteo Doubleday, 1841",Lochmaeus manteo,1,5.193792994,wood,12,generalist
+7,"Lochmaeus manteo Doubleday, 1841",Lochmaeus manteo,4,5.193792994,wood,12,generalist
+7,Macaria aemulataria,Macaria aemulataria,1,0.358226257,wood,5,generalist
+7,"Macaria multilineata Packard, 1873",Macaria multilineata,1,0,wood,1,specialist
+7,"Macrurocampa marthesia (Cramer, 1780)",Macrurocampa marthesia,1,5.158804647,wood,6,generalist
+7,"Malacosoma americana (Fabricius, 1793)",Malacosoma americana,13,5.427352406,wood,24,generalist
+7,Melanolophia canadaria,Melanolophia canadaria,2,5.400758182,wood,26,generalist
+7,"Metarranthis indeclinata (Walker, 1861)",Metarranthis indeclinata,1,0,wood,1,specialist
+7,"Mythimna unipuncta (Haworth, 1809)",Mythimna unipuncta,1,0,wood,2,generalist
+7,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,2,10.7108239,wood,12,generalist
+7,"Olethreutes olivaceana (Fernald, 1882)",Olethreutes olivaceana,2,0,wood,1,specialist
+7,"Orgyia leucostigma (Smith, 1797)",Orgyia leucostigma,1,5.860214482,wood,50,generalist
+7,"Orgyia leucostigma (Smith, 1797) ",Orgyia leucostigma,2,5.860214482,wood,50,generalist
+7,"Orthonama obstipata (Fabricius, 1794)",Orthonama obstipata,1,0,wood,1,specialist
+7,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,1,0,wood,1,specialist
+7,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,7,0,wood,1,specialist
+7,"Pandemis lamprosana (Robinson, 1869)",Pandemis lamprosana,2,5.384727204,wood,14,generalist
+7,Paralobesia liriodendrana,Paralobesia liriodendrana,1,0.400094192,wood,2,generalist
+7,"Paralobesia liriodendrana (Kearfott, 1904)",Paralobesia liriodendrana,1,0.400094192,wood,2,generalist
+7,"Phaecasiophora confixana (Walker, 1863)",Phaecasiophora confixana,3,0.000115515,wood,1,specialist
+7,"Phyllocnistis liriodendronella Clemens, 1863",Phyllocnistis liriodendronella,1,0.400094192,wood,2,generalist
+7,"Platynota idaeusalis (Walker, 1859)",Platynota idaeusalis,1,0.196812663,wood,10,generalist
+7,"Prochoerodes lineola (Goeze, 1781)",Prochoerodes lineola,1,3.692823694,wood,18,generalist
+7,Psilocorsis reflexella,Psilocorsis reflexella,2,5.355411949,wood,8,generalist
+7,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,2,5.355411949,wood,8,generalist
+7,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,9,5.355411949,wood,8,generalist
+7,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,10,5.355411949,wood,8,generalist
+7,"Pyrrharctia isabella (Smith, 1797)",Pyrrharctia isabella,4,0.358431618,wood,8,generalist
+7,"Pyrrharctia isabella (Smith, 1797) ",Pyrrharctia isabella,1,0.358431618,wood,8,generalist
+7,"Schizura leptinoides (Grote, 1864)",Schizura leptinoides,2,5.239306082,wood,14,generalist
+7,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,1,0,wood,1,specialist
+7,Scopula inductata,Scopula inductata,1,0,wood,1,specialist
+7,"Scopula limboundata (Haworth, 1809)",Scopula limboundata,1,0.026427369,wood,9,generalist
+7,"Spilosoma virginica (Fabricius, 1798",Spilosoma virginica,1,0.358226257,wood,18,generalist
+7,"Spilosoma virginica (Fabricius, 1798)",Spilosoma virginica,1,0.358226257,wood,18,generalist
+7,"Symmerista albifrons (Smith, 1797)",Symmerista albifrons,1,5.355411949,wood,10,generalist
+7,"Tortricidia testacea Packard, 1864",Tortricidia testacea,1,5.42446452,wood,11,generalist
+7,"Bleptina caradrinalis Guenée, 1854 ",Bleptina caradrinalis,1,3.334392076,wood,4,generalist
+7,"Athetis tarda (Guenée, 1852)",Athetis tarda,6,3.334392076,wood,2,generalist
+7,"Abagrotis anchocelioides (Guenée, 1852)",Abagrotis anchocelioides,1,0,wood,2,generalist
+7,"Desmia funeralis (Hübner, 1796) ",Desmia funeralis,1,0,wood,2,generalist
+7,"Autographa precationis (Guenée, 1852) ",Autographa precationis,1,0,wood,1,specialist
+7,"Hyperaeschra georgica (Herrich-Schäffer, 1855)",Hyperaeschra georgica,1,3.334392076,wood,1,specialist
+7,"Eulithis gracilineata (Guenée, [1858])",Eulithis gracilineata,1,0,wood,3,generalist
+7,"Panopoda carneicosta Guenée, 1852",Panopoda carneicosta,1,3.334392076,wood,4,generalist
+7,"Hyperstrotia nana (Hübner, 1818)",Hyperstrotia nana,2,3.334392076,wood,4,generalist
+7,"Lithacodes fasciola (Herrich-Schäffer, 1854)",Lithacodes fasciola,1,5.400925037,wood,15,generalist
+7,"Zale horrida Hübner, 1819",Zale horrida,1,0.000205361,wood,1,specialist
+7,"Anavitrinella pampinaria (Guenée, [1858])",Anavitrinella pampinaria,1,3.69571158,wood,20,generalist
+7,"Parasa chloris (Herrich-Schäffer, 1854)",Parasa chloris,1,5.193792994,wood,13,generalist
+8,"Bleptina caradrinalis Guenée, 1854 ",Bleptina caradrinalis,1,4.456085637,wood,4,generalist
+8,"Cabera variolaria Guenée, [1858]",Cabera variolaria,1,0.119365969,wood,2,generalist
+8,"Allotria elonympha (Hübner, 1818)",Allotria elonympha,1,0.180884365,wood,3,generalist
+8,"Cabera erythemaria Guenée, [1858]",Cabera erythemaria,2,0.336894403,wood,3,generalist
+8,"Panopoda rufimargo (Hübner, 1818)",Panopoda rufimargo,2,4.791067618,wood,5,generalist
+8,"Nemoria bistriaria Hübner, 1818",Nemoria bistriaria,2,4.619488664,wood,5,generalist
+8,"Hypomecis umbrosaria (Hübner, [1813])",Hypomecis umbrosaria,1,4.500122695,wood,2,generalist
+8,"Elaphria grata Hübner, 1818 ",Elaphria grata,1,4.163228292,wood,3,generalist
+8,"Tetracis cachexiata Guenée, [1858]",Tetracis cachexiata,1,5.054481356,wood,20,generalist
+8,"Iridopsis larvaria (Guenée, [1858])",Iridopsis larvaria,2,0.841350389,wood,12,generalist
+8,"Abagrotis alternata (Grote, 1864)",Abagrotis alternata,1,4.456085637,wood,9,generalist
+8,"Abagrotis alternata (Grote, 1864) ",Abagrotis alternata,3,4.456085637,wood,9,generalist
+8,Acronicta increta,Acronicta increta,1,4.835104676,wood,5,generalist
+8,"Agrotis ipsilon (Hufnagel, 1766)",Agrotis ipsilon,1,0.119365969,wood,4,generalist
+8,Antaeotricha schlaegeri,Antaeotricha schlaegeri,1,4.500122695,wood,2,generalist
+8,Argyrotaenia velutinana,Argyrotaenia velutinana,1,4.83763318,wood,18,generalist
+8,"Blastobasis glandulella (Riley, 1871)",Blastobasis glandulella,2,4.336719668,wood,3,generalist
+8,"Catocala grynea (Cramer, 1779)",Catocala grynea,1,4.282594261,wood,5,generalist
+8,"Chionodes fuscomaculella (Chambers, 1872)",Chionodes fuscomaculella,1,4.671701649,wood,3,generalist
+8,"Chionodes pereyra Clarke, 1947",Chionodes pereyra,1,4.163228292,wood,1,specialist
+8,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,3,4.282594261,wood,4,generalist
+8,"Choristoneura rosaceana (Harris, 1841)",Choristoneura rosaceana,2,5.348545197,wood,29,generalist
+8,"Clemensia albata Packard, 1864",Clemensia albata,1,0,wood,2,generalist
+8,"Coleophora querciella Clemens, 1861",Coleophora querciella,1,0.125282927,wood,3,generalist
+8,"Colocasia flavicornis (Smith, 1884)",Colocasia flavicornis,2,5.261164173,wood,8,generalist
+8,"Colocasia flavicornis (Smith, 1884)",Colocasia flavicornis,3,5.261164173,wood,8,generalist
+8,"Datana drexelii Edwards, 1884",Datana drexelii,1,0.363783834,wood,6,generalist
+8,"Datana integerrima Grote & Robinson, 1866",Datana integerrima,1,4.671701649,wood,11,generalist
+8,"Datana major Grote & Robinson, 1866",Datana major,1,0.00243866,wood,5,generalist
+8,"Datana perspicua Grote & Robinson, 1865",Datana perspicua,2,4.163228292,wood,2,generalist
+8,"Dryocampa rubicunda (Fabricius, 1793)",Dryocampa rubicunda,1,4.708846285,wood,5,generalist
+8,"Dryocampa rubicunda (Fabricius, 1793) ",Dryocampa rubicunda,1,4.708846285,wood,5,generalist
+8,"Epiblema strenuana (Walker, 1863)",Epiblema strenuana,1,0,wood,1,specialist
+8,"Epicallima argenticinctella (Clemens, 1860)",Epicallima argenticinctella,1,4.336719668,wood,4,generalist
+8,"Epimecis hortaria (Fabricius, 1794)",Epimecis hortaria,1,5.425324469,wood,9,generalist
+8,"Eudryas grata (Fabricius, 1793)",Eudryas grata,2,0,wood,3,generalist
+8,"Euplexia benesimilis McDunnough, 1922",Euplexia benesimilis,2,0.337857032,wood,6,generalist
+8,"Gretchena deludana (Clemens, 1864)",Gretchena deludana,1,0.173491376,wood,1,specialist
+8,"Halysidota tessellaris (Smith, 1797)",Halysidota tessellaris,2,10.79072209,wood,29,generalist
+8,"Halysidota tessellaris (Smith, 1797) ",Halysidota tessellaris,3,10.79072209,wood,29,generalist
+8,"Hedya separatana (Kearfott, 1907)",Hedya separatana,1,0.456260372,wood,7,generalist
+8,Herpetogramma pertextalis,Herpetogramma pertextalis,1,0.217181887,wood,6,generalist
+8,"Holcocera chalcofrontella Clemens, 1863",Holcocera chalcofrontella,1,0,wood,2,generalist
+8,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,2,5.344514991,wood,23,generalist
+8,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,3,5.344514991,wood,23,generalist
+8,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,6,5.344514991,wood,23,generalist
+8,"Hyperstrotia pervertens (Barnes & McDunnough, 1918)",Hyperstrotia pervertens,1,4.498210273,wood,3,generalist
+8,"Ilexia intractata (Walker, [1863])",Ilexia intractata,1,0.000628917,wood,1,specialist
+8,"Lacinipolia renigera (Stephens, 1829)",Lacinipolia renigera,1,0,wood,4,generalist
+8,"Lascoria ambigualis (Walker, 1866)",Lascoria ambigualis,1,4.163857209,wood,3,generalist
+8,Lochmaeus manteo,Lochmaeus manteo,1,5.01451301,wood,12,generalist
+8,Macaria aemulataria,Macaria aemulataria,1,0.666896384,wood,5,generalist
+8,"Malacosoma americana (Fabricius, 1793)",Malacosoma americana,3,5.390567152,wood,24,generalist
+8,"Meganola phylla (Dyar, 1898)",Meganola phylla,4,4.498210273,wood,2,generalist
+8,Melanolophia canadaria,Melanolophia canadaria,2,5.371404422,wood,26,generalist
+8,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,1,5.338598033,wood,12,generalist
+8,"Oligocentria lignicolor (Walker, 1855) ",Oligocentria lignicolor,1,5.165106657,wood,6,generalist
+8,"Oligocentria semirufescens (Walker, 1865)",Oligocentria semirufescens,2,5.165106657,wood,11,generalist
+8,"Oneida lunulalis (Hulst, 1887)",Oneida lunulalis,3,4.498210273,wood,2,generalist
+8,"Orgyia leucostigma (Smith, 1797)",Orgyia leucostigma,1,10.82592863,wood,50,generalist
+8,Palpita magniferalis,Palpita magniferalis,1,0,wood,1,specialist
+8,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,2,0,wood,1,specialist
+8,Panopoda rufimargo,Panopoda rufimargo,1,4.791067618,wood,5,generalist
+8,"Paralobesia liriodendrana (Kearfott, 1904)",Paralobesia liriodendrana,1,5.406790656,wood,2,generalist
+8,Pero ancetaria,Pero ancetaria,2,0.666896384,wood,5,generalist
+8,Phaecasiophora confixana,Phaecasiophora confixana,2,0,wood,1,specialist
+8,Phaeoura quernaria,Phaeoura quernaria,1,4.838480294,wood,10,generalist
+8,"Platynota idaeusalis (Walker, 1859)",Platynota idaeusalis,2,0.457223001,wood,10,generalist
+8,Psilocorsis reflexella,Psilocorsis reflexella,5,5.225149022,wood,8,generalist
+8,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,1,5.225149022,wood,8,generalist
+8,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,7,5.225149022,wood,8,generalist
+8,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,10,5.225149022,wood,8,generalist
+8,"Pyrrharctia isabella (Smith, 1797) ",Pyrrharctia isabella,1,0.667859013,wood,8,generalist
+8,Spilosoma virginica,Spilosoma virginica,2,0.84038776,wood,18,generalist
+8,"Spilosoma virginica (Fabricius, 1798",Spilosoma virginica,1,0.84038776,wood,18,generalist
+8,Tetanolita floridana,Tetanolita floridana,1,4.163228292,wood,2,generalist
+8,"Tetanolita floridana Smith, 1895",Tetanolita floridana,1,4.163228292,wood,2,generalist
+8,"Xestia dolosa Franclemont, 1980",Xestia dolosa,1,0.211804002,wood,8,generalist
+8,Zanclognatha jacchusalis,Zanclognatha jacchusalis,1,4.708846285,wood,5,generalist
+8,"Zanclognatha jacchusalis (Walker, 1859)",Zanclognatha jacchusalis,1,4.708846285,wood,5,generalist
+8,"Abagrotis anchocelioides (Guenée, 1852)",Abagrotis anchocelioides,1,0,wood,2,generalist
+8,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,1,5.371404422,wood,26,generalist
+8,"Spodoptera ornithogalli (Guenée, 1852)",Spodoptera ornithogalli,1,0.119365969,wood,5,generalist
+8,"Palthis angulalis (Hübner, 1796)",Palthis angulalis,2,0.675252002,wood,18,generalist
+8,"Palthis asopialis (Guenée, 1854)",Palthis asopialis,3,4.163228292,wood,1,specialist
+8,"Eugonobapta nivosaria (Guenée, [1858])",Eugonobapta nivosaria,2,0.119365969,wood,2,generalist
+8,"Athetis tarda (Guenée, 1852)",Athetis tarda,1,4.163228292,wood,2,generalist
+8,"Desmia funeralis (Hübner, 1796)",Desmia funeralis,1,0,wood,2,generalist
+8,"Athetis tarda (Guenée, 1852)",Athetis tarda,2,4.163228292,wood,2,generalist
+9,"Anania tertialis (Guenée, 1854)",Anania tertialis,1,0.36169172,wood,5,generalist
+9,"Melanolophia canadaria (Guenée, [1858]) ",Melanolophia canadaria,1,2.853911964,wood,26,generalist
+9,"Iridopsis larvaria (Guenée, [1858])",Iridopsis larvaria,1,0.663135713,wood,12,generalist
+9,"Nematocampa resistaria (Herrich-Schäffer, [1856])",Nematocampa resistaria,1,2.654686311,wood,21,generalist
+9,"Macaria pustularia (Guenée, [1858])",Macaria pustularia,1,2.289529127,wood,4,generalist
+9,"Nemoria bistriaria Hübner, 1818 ",Nemoria bistriaria,1,2.033559717,wood,5,generalist
+9,"Pseudeustrotia carneola (Guenée, 1852)",Pseudeustrotia carneola,1,1.990485288,wood,1,specialist
+9,"Idia aemula Hübner, 1814",Idia aemula,1,2.033559717,wood,4,generalist
+9,"Zanclognatha cruralis (Guenée, 1854)",Zanclognatha cruralis,4,1.99608137,wood,5,generalist
+9,"Athetis tarda (Guenée, 1852)",Athetis tarda,2,1.990485288,wood,2,generalist
+9,"Lomographa vestaliata (Guenée, [1858])",Lomographa vestaliata,3,2.668227288,wood,10,generalist
+9,"Pseudeustrotia carneola (Guenée, 1852) ",Pseudeustrotia carneola,1,1.990485288,wood,1,specialist
+9,"Pseudeustrotia carneola (Guenée, 1852).",Pseudeustrotia carneola,2,1.990485288,wood,1,specialist
+9,"Acleris nivisellana (Walsingham, 1879)",Acleris nivisellana,1,0.045474583,wood,4,generalist
+9,"Hyperstrotia nana (Hübner, 1818)",Hyperstrotia nana,1,2.349250617,wood,4,generalist
+9,"Hyperstrotia nana (Hübner, 1818)",Hyperstrotia nana,2,2.349250617,wood,4,generalist
+9,"Campaea perlata (Guenée, [1858])",Campaea perlata,2,2.652286157,wood,13,generalist
+9,Acleris schalleriana,Acleris schalleriana,1,0.003362783,wood,3,generalist
+9,"Lithacodes fasciola (Herrich-Schäffer, 1854)",Lithacodes fasciola,1,2.863166035,wood,15,generalist
+9,"Acleris schalleriana (Linnaeus, 1761)",Acleris schalleriana,2,0.003362783,wood,3,generalist
+9,"Agrotis ipsilon (Hufnagel, 1766)",Agrotis ipsilon,2,0.043074429,wood,4,generalist
+9,"Antaeotricha schlaegeri (Zeller, 1854)",Antaeotricha schlaegeri,3,1.990485288,wood,2,generalist
+9,"Antispila nysaefoliella Clemens, 1860",Antispila nysaefoliella,300,0.19466921,wood,1,specialist
+9,"Aristotelia roseosuffusella (Clemens, 1860)",Aristotelia roseosuffusella,1,0,wood,1,specialist
+9,Automeris io,Automeris io,1,4.739984116,wood,34,generalist
+9,"Bactra furfurana (Haworth, 1811)",Bactra furfurana,2,0,wood,1,specialist
+9,Blastobasis glandulella,Blastobasis glandulella,3,2.348814225,wood,3,generalist
+9,Cabera erythemaria,Cabera erythemaria,1,0,wood,3,generalist
+9,Caloptilia blandella,Caloptilia blandella,1,0,wood,1,specialist
+9,Catastega aceriella,Catastega aceriella,1,2.254450934,wood,4,generalist
+9,Catocala ultronia,Catocala ultronia,1,2.035959871,wood,7,generalist
+9,"Chionodes fuscomaculella (Chambers, 1872)",Chionodes fuscomaculella,2,2.354410307,wood,3,generalist
+9,"Chionodes obscurusella (Chambers, 1872)",Chionodes obscurusella,1,0.25596941,wood,1,specialist
+9,"Chionodes pereyra Clarke, 1947",Chionodes pereyra,2,1.990485288,wood,1,specialist
+9,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,2,2.033880593,wood,4,generalist
+9,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,8,2.033880593,wood,4,generalist
+9,"Choristoneura parallela (Robinson, 1869)",Choristoneura parallela,1,0.263529255,wood,9,generalist
+9,Chytolita morbidalis,Chytolita morbidalis,4,1.990485288,wood,3,generalist
+9,"Clemensia albata Packard, 1864",Clemensia albata,1,0,wood,2,generalist
+9,"Coleophora laticornella Clemens, 186",Coleophora laticornella,1,0.401403366,wood,3,generalist
+9,"Datana angusii Grote & Robinson, 1866",Datana angusii,1,2.354410307,wood,8,generalist
+9,"Datana integerrima Grote & Robinson, 1866 ",Datana integerrima,1,2.358055461,wood,11,generalist
+9,Datana ministra,Datana ministra,2,2.67488868,wood,23,generalist
+9,"Elophila obliteralis (Walker, 1859)",Elophila obliteralis,2,0,wood,1,specialist
+9,"Epicallima argenticinctella (Clemens, 1860) ",Epicallima argenticinctella,1,2.349250617,wood,4,generalist
+9,Epimecis hortaria,Epimecis hortaria,2,2.09415399,wood,5,generalist
+9,"Epimecis hortaria (Fabricius, 1794)",Epimecis hortaria,1,4.443404607,wood,9,generalist
+9,"Epimecis hortaria (Fabricius, 1794)",Epimecis hortaria,2,2.09415399,wood,9,generalist
+9,"Eupithecia miserulata Grote, 1863 ",Eupithecia miserulata,1,2.294573302,wood,22,generalist
+9,Euplexia benesimilis,Euplexia benesimilis,1,0.003362783,wood,6,generalist
+9,"Eutrapela clemataria (Smith, 1797)",Eutrapela clemataria,1,2.654532291,wood,24,generalist
+9,"Eutrapela clemataria (Smith, 1797) ",Eutrapela clemataria,1,2.654532291,wood,24,generalist
+9,"Eutrapela clemataria (Smith, 1797) ",Eutrapela clemataria,3,2.654532291,wood,24,generalist
+9,Glena cribrataria,Glena cribrataria,1,2.289529127,wood,8,generalist
+9,"Halysidota tessellaris (Smith, 1797) ",Halysidota tessellaris,5,4.733130198,wood,29,generalist
+9,Herpetogramma pertextalis,Herpetogramma pertextalis,1,0.256405802,wood,6,generalist
+9,"Heterocampa guttivitta (Walker, 1855)",Heterocampa guttivitta,2,2.868928972,wood,27,generalist
+9,Heterocampa obliqua,Heterocampa obliqua,1,1.990485288,wood,1,specialist
+9,Heterocampa umbrata,Heterocampa umbrata,1,0.270575697,wood,5,generalist
+9,Heterocampa umbrata,Heterocampa umbrata,2,1.990485288,wood,5,generalist
+9,Hypagyrtis unipunctata,Hypagyrtis unipunctata,1,2.660603269,wood,23,generalist
+9,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,1,2.660603269,wood,23,generalist
+9,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,2,2.660603269,wood,23,generalist
+9,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,10,2.660603269,wood,23,generalist
+9,Hypena baltimoralis,Hypena baltimoralis,1,2.604783635,wood,3,generalist
+9,"Hypena scabra (Fabricius, 1798)",Hypena scabra,1,0.311134457,wood,10,generalist
+9,Lacinipolia renigera,Lacinipolia renigera,1,0,wood,4,generalist
+9,"Lacinipolia renigera (Stephens, 1829)",Lacinipolia renigera,1,0,wood,4,generalist
+9,"Lacinipolia renigera (Stephens, 1829) ",Lacinipolia renigera,2,0,wood,4,generalist
+9,"Laetilia coccidivora (Comstock, 1879)",Laetilia coccidivora,1,2.246454698,wood,4,generalist
+9,Lambdina pellucidaria,Lambdina pellucidaria,4,2.604783635,wood,4,generalist
+9,Lochmaeus manteo,Lochmaeus manteo,2,2.357246853,wood,12,generalist
+9,Macaria aemulataria,Macaria aemulataria,3,0.299043839,wood,5,generalist
+9,"Malacosoma americana (Fabricius, 1793)",Malacosoma americana,2,2.869878766,wood,24,generalist
+9,Melanolophia canadaria,Melanolophia canadaria,2,2.853911964,wood,26,generalist
+9,"Metarranthis indeclinata (Walker, 1861)",Metarranthis indeclinata,1,0.043074429,wood,1,specialist
+9,Mythimna unipuncta,Mythimna unipuncta,1,0,wood,2,generalist
+9,"Mythimna unipuncta (Haworth, 1809)",Mythimna unipuncta,1,0,wood,2,generalist
+9,"Mythimna unipuncta (Haworth, 1809)",Mythimna unipuncta,2,0,wood,2,generalist
+9,Nadata gibbosa,Nadata gibbosa,3,2.657445847,wood,12,generalist
+9,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,2,2.657445847,wood,12,generalist
+9,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,4,2.657445847,wood,12,generalist
+9,Nola clethrae,Nola clethrae,2,0,wood,1,specialist
+9,Nola ovilla,Nola ovilla,2,1.990485288,wood,1,specialist
+9,"Notocelia rosaecolana (Doubleday, 1850)",Notocelia rosaecolana,1,0.049466284,wood,3,generalist
+9,Olethreutes nigranum,Olethreutes nigranum,1,0.614298347,wood,3,generalist
+9,Orgyia leucostigma,Orgyia leucostigma,2,4.941751109,wood,50,generalist
+9,"Orgyia leucostigma (Smith, 1797)",Orgyia leucostigma,1,4.941751109,wood,50,generalist
+9,Orthonama obstipata,Orthonama obstipata,1,0.000436392,wood,1,specialist
+9,Paectes oculatrix,Paectes oculatrix,1,0.000680258,wood,2,generalist
+9,Palthis angulalis,Palthis angulalis,2,0.299043839,wood,18,generalist
+9,Palthis asopialis,Palthis asopialis,3,1.990485288,wood,2,generalist
+9,Paonias excaecata,Paonias excaecata,1,2.319922526,wood,19,generalist
+9,Parallelia bistriaris,Parallelia bistriaris,1,2.246454698,wood,4,generalist
+9,Parallelia bistriaris,Parallelia bistriaris,2,2.246454698,wood,4,generalist
+9,Paralobesia liriodendrana,Paralobesia liriodendrana,4,2.05849822,wood,2,generalist
+9,Pero ancetaria,Pero ancetaria,2,0.299480231,wood,5,generalist
+9,Pococera asperatella,Pococera asperatella,1,2.610816109,wood,8,generalist
+9,"Prochoerodes lineola (Goeze, 1781)",Prochoerodes lineola,1,2.293328302,wood,18,generalist
+9,"Prochoerodes lineola (Goeze, 1781) ",Prochoerodes lineola,1,2.293328302,wood,18,generalist
+9,Pseudeustrotia carneola,Pseudeustrotia carneola,1,1.990485288,wood,1,specialist
+9,Pseudeustrotia carneola,Pseudeustrotia carneola,3,1.990485288,wood,1,specialist
+9,"Psilocorsis cryptolechiella (Chambers, 1872)",Psilocorsis cryptolechiella,1,2.610379717,wood,7,generalist
+9,Psilocorsis reflexella,Psilocorsis reflexella,1,2.610379717,wood,8,generalist
+9,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,2,2.610379717,wood,8,generalist
+9,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,2,0,wood,2,generalist
+9,"Schizura badia (Packard, 1864)",Schizura badia,1,0.003362783,wood,1,specialist
+9,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,1,0.000320876,wood,1,specialist
+9,"Scolecocampa liburna (Geyer, 1837) ",Scolecocampa liburna,1,4.450386874,wood,7,generalist
+9,"Scopula limboundata (Haworth, 1809)",Scopula limboundata,1,0.043510821,wood,9,generalist
+9,Speranza pustularia,Speranza pustularia,1,2.289529127,wood,4,generalist
+9,"Spilosoma virginica (Fabricius, 1798)",Spilosoma virginica,1,0.659105508,wood,18,generalist
+9,Spodoptera frugiperda,Spodoptera frugiperda,1,0.405395067,wood,7,generalist
+9,Tetanolita floridana,Tetanolita floridana,1,1.990485288,wood,2,generalist
+9,"Tetanolita floridana Smith, 1895",Tetanolita floridana,2,1.990485288,wood,2,generalist
+9,Urodus parvula,Urodus parvula,1,1.990485288,wood,1,specialist
+9,"Xanthotype sospeta (Drury, 1773)",Xanthotype sospeta,1,0.665163652,wood,10,generalist
+9,"Xestia dolosa Franclemont, 1980",Xestia dolosa,2,0.259332193,wood,8,generalist
+9,Zale horrida,Zale horrida,5,0.003362783,wood,1,specialist
+9,Zanclognatha cruralis,Zanclognatha cruralis,3,1.99608137,wood,5,generalist
+9,"Hypena baltimoralis Guenée, 1854",Hypena baltimoralis,1,2.604783635,wood,3,generalist
+9,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,2,2.853911964,wood,26,generalist
+10,"Spodoptera ornithogalli (Guenée, 1852)",Spodoptera ornithogalli,1,0.058322469,wood,5,generalist
+10,"Panopoda rufimargo (Hübner, 1818)",Panopoda rufimargo,1,0.902098683,wood,5,generalist
+10,"Parallelia bistriaris Hübner, 1818",Parallelia bistriaris,2,1.04506831,wood,4,generalist
+10,"Lithacodes fasciola (Herrich-Schäffer, 1854)",Lithacodes fasciola,1,1.341147252,wood,15,generalist
+10,"Hypena baltimoralis Guenée, 1854",Hypena baltimoralis,1,1.117034438,wood,3,generalist
+10,"Iridopsis larvaria (Guenée, [1858])",Iridopsis larvaria,1,0.480412856,wood,12,generalist
+10,"Hyperstrotia nana (Hübner, 1818)",Hyperstrotia nana,3,0.785530756,wood,4,generalist
+10,"Zale horrida Hübner, 1819",Zale horrida,2,0.021598309,wood,1,specialist
+10,"Protoboarmia porcelaria (Guenée, [1858])",Protoboarmia porcelaria,1,1.117034438,wood,11,generalist
+10,"Iridopsis defectaria (Guenée, [1858])",Iridopsis defectaria,2,1.598397087,wood,12,generalist
+10,"Athetis tarda (Guenée, 1852)",Athetis tarda,1,0.713564628,wood,2,generalist
+10,"Athetis tarda (Guenée, 1852)",Athetis tarda,2,0.713564628,wood,2,generalist
+10,"Campaea perlata (Guenée, [1858])",Campaea perlata,2,1.181581906,wood,13,generalist
+10,"Anania tertialis (Guenée, 1854)",Anania tertialis,1,0.093564437,wood,5,generalist
+10,Acleris schalleriana,Acleris schalleriana,1,0.021598309,wood,3,generalist
+10,"Agnippe prunifoliella (Chambers, 1873)",Agnippe prunifoliella,1,0.055344737,wood,1,specialist
+10,"Agonopterix eupatoriiella (Chambers, 1878)",Agonopterix eupatoriiella,1,0.071966128,wood,1,specialist
+10,"Antaeotricha schlaegeri (Zeller, 1854)",Antaeotricha schlaegeri,2,0.713564628,wood,2,generalist
+10,"Antaeotricha schlaegeri (Zeller, 1854)",Antaeotricha schlaegeri,3,0.713564628,wood,2,generalist
+10,"Antispila nysaefoliella Clemens, 1860",Antispila nysaefoliella,50,0.0687702,wood,1,specialist
+10,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,2,3.60071321,wood,26,generalist
+10,"Chionodes obscurusella (Chambers, 1872)",Chionodes obscurusella,1,0.331503682,wood,1,specialist
+10,Choristoneura fractivittana,Choristoneura fractivittana,1,1.1062915,wood,6,generalist
+10,"Clemensia albata Packard, 1864",Clemensia albata,3,0,wood,2,generalist
+10,"Colocasia propinquilinea (Grote, 1873)",Colocasia propinquilinea,1,1.145066187,wood,10,generalist
+10,"Datana integerrima Grote & Robinson, 1866",Datana integerrima,1,0.850103894,wood,11,generalist
+10,"Dichomeris inversella (Zeller, 1873)",Dichomeris inversella,1,0.071966128,wood,1,specialist
+10,Epimecis hortaria,Epimecis hortaria,1,1.976045857,wood,5,generalist
+10,"Epimecis hortaria (Fabricius, 1794)",Epimecis hortaria,2,1.976045857,wood,9,generalist
+10,"Eudryas grata (Fabricius, 1793)",Eudryas grata,2,0.00010268,wood,3,generalist
+10,"Eupithecia miserulata Grote, 1863",Eupithecia miserulata,2,1.131586303,wood,22,generalist
+10,"Halysidota tessellaris (Smith, 1797)",Halysidota tessellaris,2,3.732981486,wood,29,generalist
+10,"Herpetogramma pertextalis (Lederer, 1863)",Herpetogramma pertextalis,4,0.343222083,wood,6,generalist
+10,"Heterocampa obliqua Packard, 1864.",Heterocampa obliqua,1,0.713564628,wood,1,specialist
+10,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,2,1.712965828,wood,23,generalist
+10,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,29,1.712965828,wood,23,generalist
+10,"Hypena scabra (Fabricius, 1798)",Hypena scabra,1,0.411796676,wood,10,generalist
+10,"Hyperstrotia secta (Grote, 1879)",Hyperstrotia secta,1,0.713564628,wood,1,specialist
+10,"Hyphantria cunea (Drury, 1773)",Hyphantria cunea,2,3.808079366,wood,48,generalist
+10,"Ilexia intractata (Walker, [1863])",Ilexia intractata,1,0,wood,1,specialist
+10,"Lacinipolia renigera (Stephens, 1829)",Lacinipolia renigera,1,0,wood,4,generalist
+10,"Laetilia coccidivora (Comstock, 1879)",Laetilia coccidivora,1,1.04506831,wood,4,generalist
+10,Lambdina pellucidaria,Lambdina pellucidaria,2,1.117034438,wood,4,generalist
+10,"Lambdina pellucidaria (Grote & Robinson, 1867) ",Lambdina pellucidaria,1,1.117034438,wood,4,generalist
+10,"Lascoria ambigualis (Walker, 1866)",Lascoria ambigualis,1,0.713564628,wood,3,generalist
+10,"Metarranthis angularia Barnes & McDunnough, 1917",Metarranthis angularia,1,0.055344737,wood,1,specialist
+10,"Mythimna unipuncta (Haworth, 1809)",Mythimna unipuncta,2,0,wood,2,generalist
+10,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,2,1.236580097,wood,12,generalist
+10,"Nola ovilla Grote, 1875",Nola ovilla,3,0.713564628,wood,1,specialist
+10,Olethreutes nigranum,Olethreutes nigranum,2,0.409694809,wood,3,generalist
+10,Parallelia bistriaris,Parallelia bistriaris,2,1.04506831,wood,4,generalist
+10,Paralobesia liriodendrana,Paralobesia liriodendrana,2,1.968742713,wood,2,generalist
+10,"Paralobesia liriodendrana (Kearfott, 1904)",Paralobesia liriodendrana,1,1.968742713,wood,2,generalist
+10,Pero ancetaria,Pero ancetaria,1,0.386848419,wood,5,generalist
+10,"Pseudotelphusa quercinigracella (Chambers, 1872)",Pseudotelphusa quercinigracella,1,0.713564628,wood,1,specialist
+10,"Psilocorsis quercicella Clemens, 1860",Psilocorsis quercicella,1,0.774787818,wood,3,generalist
+10,Psilocorsis reflexella,Psilocorsis reflexella,1,1.184482627,wood,8,generalist
+10,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,2,1.184482627,wood,8,generalist
+10,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,13,1.184482627,wood,8,generalist
+10,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,1,0,wood,2,generalist
+10,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,1,0.470160732,wood,1,specialist
+10,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,2,0.470160732,wood,1,specialist
+10,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,5,0.470160732,wood,1,specialist
+10,"Spilosoma virginica (Fabricius, 1798",Spilosoma virginica,1,0.462267175,wood,18,generalist
+10,"Spilosoma virginica (Fabricius, 1798)",Spilosoma virginica,2,0.462267175,wood,18,generalist
+10,"Tetanolita floridana Smith, 1895",Tetanolita floridana,1,0.713564628,wood,2,generalist
+10,"Xestia dolosa Franclemont, 1980",Xestia dolosa,2,0,wood,8,generalist
+10,"Xestia dolosa Franclemont, 1980",Xestia dolosa,4,0.353101991,wood,8,generalist
+10,"Yponomeuta multipunctella (Clemens, 1860)",Yponomeuta multipunctella,7,0,wood,1,specialist
+10,"Palthis angulalis (Hübner, 1796)",Palthis angulalis,1,0.393073418,wood,18,generalist
+10,"Orthodes majuscula Herrich-Schäffer, 1868",Orthodes majuscula,1,0,wood,2,generalist
+10,"Anavitrinella pampinaria (Guenée, [1858])",Anavitrinella pampinaria,1,1.232752171,wood,20,generalist
+10,"Lomographa vestaliata (Guenée, [1858])",Lomographa vestaliata,1,1.226527172,wood,10,generalist
+10,"Euchlaena amoenaria (Guenée, [1858])",Euchlaena amoenaria,1,0.055344737,wood,2,generalist
+10,"Zanclognatha cruralis (Guenée, 1854)",Zanclognatha cruralis,3,0.774787818,wood,5,generalist
+10,"Nemoria bistriaria Hübner, 1818",Nemoria bistriaria,1,0.768909365,wood,5,generalist
+11,"Hypomecis umbrosaria (Hübner, [1813]) ",Hypomecis umbrosaria,1,1.559779501,wood,2,generalist
+11,"Amphipyra pyramidoides Guenée, 1852 ",Amphipyra pyramidoides,1,2.975036336,wood,26,generalist
+11,"Anania tertialis (Guenée, 1854)",Anania tertialis,3,0.130198752,wood,5,generalist
+11,"Bleptina caradrinalis Guenée, 1854 ",Bleptina caradrinalis,1,1.794032007,wood,4,generalist
+11,"Panopoda rufimargo (Hübner, 1818)",Panopoda rufimargo,1,2.241269339,wood,5,generalist
+11,"Phosphila turbulenta Hübner, 1818",Phosphila turbulenta,1,0,wood,1,specialist
+11,"Acronicta hasta (Guenée, 1852)",Acronicta hasta,1,1.664308152,wood,2,generalist
+11,"Iridopsis defectaria (Guenée, [1858])",Iridopsis defectaria,1,2.845440832,wood,12,generalist
+11,"Glena cribrataria (Guenée, [1858])",Glena cribrataria,2,2.43398762,wood,8,generalist
+11,"Prolimacodes badia (Hübner, [1822])",Prolimacodes badia,2,3.55641278,wood,24,generalist
+11,"Palthis asopialis (Guenée, 1854)",Palthis asopialis,1,1.559728161,wood,1,specialist
+11,"Lithacodes fasciola (Herrich-Schäffer, 1854)",Lithacodes fasciola,1,3.149374826,wood,15,generalist
+11,"Pseudeustrotia carneola (Guenée, 1852)",Pseudeustrotia carneola,1,1.559728161,wood,1,specialist
+11,"Zanclognatha cruralis (Guenée, 1854)",Zanclognatha cruralis,2,2.006965493,wood,5,generalist
+11,Acleris schalleriana,Acleris schalleriana,1,0.000423557,wood,3,generalist
+11,"Acleris schalleriana (Linnaeus, 1761",Acleris schalleriana,1,0.000423557,wood,3,generalist
+11,"Hyperstrotia nana (Hübner, 1818)",Hyperstrotia nana,1,1.689503356,wood,4,generalist
+11,"Zanclognatha cruralis (Guenée, 1854)",Zanclognatha cruralis,3,2.006965493,wood,5,generalist
+11,"Euchlaena amoenaria (Guenée, [1858])",Euchlaena amoenaria,1,0.104631331,wood,2,generalist
+11,"Cabera variolaria Guenée, [1858]",Cabera variolaria,2,0.104579991,wood,2,generalist
+11,"Spodoptera ornithogalli (Guenée, 1852)",Spodoptera ornithogalli,1,0.104579991,wood,5,generalist
+11,"Protoboarmia porcelaria (Guenée, [1858])",Protoboarmia porcelaria,3,2.459182824,wood,11,generalist
+11,"Anavitrinella pampinaria (Guenée, [1858])",Anavitrinella pampinaria,2,2.568229413,wood,20,generalist
+11,"Acleris schalleriana (Linnaeus, 1761)",Acleris schalleriana,2,0.000423557,wood,3,generalist
+11,"Acronicta retardata (Walker, 1861)",Acronicta retardata,1,2.739975222,wood,4,generalist
+11,"Agnippe prunifoliella (Chambers, 1873)",Agnippe prunifoliella,1,0.104579991,wood,1,specialist
+11,"Agrotis ipsilon (Hufnagel, 1766)",Agrotis ipsilon,1,0.104579991,wood,4,generalist
+11,"Anacampsis rhoifructella (Clemens, 1860)",Anacampsis rhoifructella,2,0.000423557,wood,1,specialist
+11,"Antispila nysaefoliella Clemens, 1860",Antispila nysaefoliella,24,0.134562669,wood,1,specialist
+11,"Argyrotaenia velutinana (Walker, 1863)",Argyrotaenia velutinana,1,2.435271125,wood,18,generalist
+11,"Blastobasis glandulella (Riley, 1871)",Blastobasis glandulella,2,1.689452016,wood,3,generalist
+11,"Calledapteryx dryopterata Grote, 1868",Calledapteryx dryopterata,1,0.000423557,wood,1,specialist
+11,Catocala ilia,Catocala ilia,1,1.559728161,wood,1,specialist
+11,Catocala ultronia,Catocala ultronia,1,1.664539183,wood,7,generalist
+11,Chionodes obscurusella,Chionodes obscurusella,1,0.769628128,wood,1,specialist
+11,"Chionodes obscurusella (Chambers, 1872)",Chionodes obscurusella,1,0.769628128,wood,1,specialist
+11,"Chionodes pereyra Clarke, 1947",Chionodes pereyra,2,1.559728161,wood,1,specialist
+11,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,1,2.074927085,wood,4,generalist
+11,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,8,2.074927085,wood,4,generalist
+11,"Choristoneura parallela (Robinson, 1869)",Choristoneura parallela,1,0.770051685,wood,9,generalist
+11,Choristoneura rosaceana,Choristoneura rosaceana,1,3.011654735,wood,29,generalist
+11,Chytolita morbidalis,Chytolita morbidalis,3,1.559728161,wood,3,generalist
+11,"Datana integerrima Grote & Robinson, 1866",Datana integerrima,1,2.137728987,wood,11,generalist
+11,Datana ministra,Datana ministra,1,3.015043188,wood,23,generalist
+11,Epimecis hortaria,Epimecis hortaria,2,1.08072408,wood,5,generalist
+11,"Epimecis hortaria (Fabricius, 1794)",Epimecis hortaria,2,1.08072408,wood,9,generalist
+11,Euplexia benesimilis,Euplexia benesimilis,1,0.000474897,wood,6,generalist
+11,Eutrapela clemataria,Eutrapela clemataria,1,2.975267367,wood,24,generalist
+11,"Eutrapela clemataria (Smith, 1797)",Eutrapela clemataria,1,2.975267367,wood,24,generalist
+11,"Eutrapela clemataria (Smith, 1797) ",Eutrapela clemataria,1,2.975267367,wood,24,generalist
+11,"Heterocampa umbrata Walker, 1855",Heterocampa umbrata,1,2.333219639,wood,5,generalist
+11,Hypagyrtis unipunctata,Hypagyrtis unipunctata,1,3.421850111,wood,23,generalist
+11,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,2,3.421850111,wood,23,generalist
+11,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,12,3.421850111,wood,23,generalist
+11,"Hyperstrotia secta (Grote, 1879)",Hyperstrotia secta,1,1.559728161,wood,1,specialist
+11,"Hyphantria cunea (Drury, 1773)",Hyphantria cunea,3,4.630578149,wood,48,generalist
+11,Hypsopygia olinalis,Hypsopygia olinalis,1,1.559728161,wood,3,generalist
+11,Lambdina pellucidaria,Lambdina pellucidaria,2,2.459080144,wood,4,generalist
+11,"Macaria aemulataria Walker, 1861",Macaria aemulataria,1,0.874259459,wood,5,generalist
+11,"Malacosoma americana (Fabricius, 1793)",Malacosoma americana,1,3.56022479,wood,24,generalist
+11,"Meganola phylla (Dyar, 1898)",Meganola phylla,1,2.006965493,wood,2,generalist
+11,Melanolophia canadaria,Melanolophia canadaria,3,3.556605306,wood,26,generalist
+11,"Mythimna unipuncta (Haworth, 1809)",Mythimna unipuncta,2,0,wood,2,generalist
+11,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,1,3.010948807,wood,12,generalist
+11,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,3,3.010948807,wood,12,generalist
+11,Nematocampa resistaria,Nematocampa resistaria,1,2.563993846,wood,21,generalist
+11,"Nerice bidentata Walker, 1855",Nerice bidentata,1,5.13E-05,wood,1,specialist
+11,"Oligocentria semirufescens (Walker, 1865) ",Oligocentria semirufescens,1,2.881507323,wood,11,generalist
+11,Palthis asopialis,Palthis asopialis,3,1.559728161,wood,2,generalist
+11,Paralobesia liriodendrana,Paralobesia liriodendrana,1,1.069005679,wood,2,generalist
+11,"Paralobesia liriodendrana (Kearfott, 1904)",Paralobesia liriodendrana,1,1.069005679,wood,2,generalist
+11,Pero ancetaria,Pero ancetaria,1,0.874310799,wood,5,generalist
+11,Phaecasiophora confixana,Phaecasiophora confixana,1,0.011718401,wood,1,specialist
+11,"Phaecasiophora confixana (Walker, 1863)",Phaecasiophora confixana,2,0.011718401,wood,1,specialist
+11,"Platynota idaeusalis (Walker, 1859) ",Platynota idaeusalis,1,0.105054888,wood,10,generalist
+11,"Pococera asperatella (Clemens, 1860)",Pococera asperatella,1,2.906368816,wood,8,generalist
+11,"Pococera asperatella (Clemens, 1860)",Pococera asperatella,2,2.906368816,wood,8,generalist
+11,Prochoerodes lineola,Prochoerodes lineola,1,2.434462517,wood,18,generalist
+11,"Proteoteras aesculana Riley, 1881",Proteoteras aesculana,3,0.769628128,wood,4,generalist
+11,"Proteoteras crescentana Kearfott, 1907",Proteoteras crescentana,1,0.769628128,wood,1,specialist
+11,Psilocorsis reflexella,Psilocorsis reflexella,2,2.906368816,wood,8,generalist
+11,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,10,2.906368816,wood,8,generalist
+11,"Pyrrharctia isabella (Smith, 1797)",Pyrrharctia isabella,1,0.874734356,wood,8,generalist
+11,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,2,0,wood,2,generalist
+11,"Rheumaptera prunivorata (Ferguson, 1955)",Rheumaptera prunivorata,1,0.104579991,wood,3,generalist
+11,"Schizura badia (Packard, 1864)",Schizura badia,1,0.000423557,wood,1,specialist
+11,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,2,0.410618933,wood,1,specialist
+11,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,4,0.410618933,wood,1,specialist
+11,Spilosoma virginica,Spilosoma virginica,1,1.004843262,wood,18,generalist
+11,"Spilosoma virginica (Fabricius, 1798)",Spilosoma virginica,1,1.004843262,wood,18,generalist
+11,Spodoptera frugiperda,Spodoptera frugiperda,1,0.234303846,wood,7,generalist
+11,Tetanolita floridana,Tetanolita floridana,2,1.559728161,wood,2,generalist
+11,"Tetanolita floridana Smith, 1895",Tetanolita floridana,1,1.559728161,wood,2,generalist
+11,Xestia c-nigrum,Xestia c-nigrum,1,0.770051685,wood,6,generalist
+11,"Xestia dolosa Franclemont, 1980",Xestia dolosa,3,0.770051685,wood,8,generalist
+11,"Yponomeuta multipunctella (Clemens, 1860)",Yponomeuta multipunctella,1,0,wood,1,specialist
+11,"Yponomeuta multipunctella (Clemens, 1860)",Yponomeuta multipunctella,3,0,wood,1,specialist
+11,Zanclognatha cruralis,Zanclognatha cruralis,2,2.006965493,wood,5,generalist
+11,"Palthis asopialis (Guenée, 1854) ",Palthis asopialis,1,1.559728161,wood,1,specialist
+11,"Nematocampa resistaria (Herrich-Schäffer, [1856])",Nematocampa resistaria,2,2.563993846,wood,21,generalist
+11,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,1,3.556605306,wood,26,generalist
+11,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,6,3.556605306,wood,26,generalist
+11,"Polygrammate hebraeicum Hübner, 1818",Polygrammate hebraeicum,1,0.134562669,wood,2,generalist
+12,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,1,3.705970378,wood,26,generalist
+12,"Zale horrida Hübner, 1819",Zale horrida,1,0.017536273,wood,1,specialist
+12,"Orthotaenia undulana ([Denis & Schiffermüller], 1775)",Orthotaenia undulana,1,1.59438639,wood,17,generalist
+12,"Desmia funeralis (Hübner, 1796)",Desmia funeralis,1,0,wood,2,generalist
+12,"Pseudeustrotia carneola (Guenée, 1852)",Pseudeustrotia carneola,1,0.988850789,wood,1,specialist
+12,"Isa textula (Herrich-Schäffer, 1854)",Isa textula,1,1.729638558,wood,11,generalist
+12,"Iridopsis defectaria (Guenée, [1858])",Iridopsis defectaria,1,3.363954791,wood,12,generalist
+12,"Lomographa vestaliata (Guenée, [1858])",Lomographa vestaliata,1,1.605758246,wood,10,generalist
+12,"Zanclognatha cruralis (Guenée, 1854)",Zanclognatha cruralis,1,1.131371188,wood,5,generalist
+12,"Zanclognatha cruralis (Guenée, 1854)",Zanclognatha cruralis,2,1.131371188,wood,5,generalist
+12,"Macaria pustularia (Guenée, [1858])",Macaria pustularia,1,1.572499036,wood,4,generalist
+12,"Pseudeustrotia carneola (Guenée, 1852).",Pseudeustrotia carneola,1,0.988850789,wood,1,specialist
+12,"Cabera erythemaria Guenée, [1858]",Cabera erythemaria,1,0.003144587,wood,3,generalist
+12,"Phosphila turbulenta Hübner, 1818",Phosphila turbulenta,1,0.000154021,wood,1,specialist
+12,"Ectropis crepuscularia ([Denis & Schiffermüller], 1775)",Ectropis crepuscularia,2,1.59146924,wood,20,generalist
+12,"Hypoprepia fucosa Hübner, [1831]",Hypoprepia fucosa,1,0.988850789,wood,5,generalist
+12,"Abagrotis alternata (Grote, 1864) ",Abagrotis alternata,1,1.026560167,wood,9,generalist
+12,Abagrotis anchocelioides,Abagrotis anchocelioides,1,0.003144587,wood,2,generalist
+12,Abagrotis anchocelioides ,Abagrotis anchocelioides,2,0.003144587,wood,2,generalist
+12,"Acleris curvalana (Kearfott, 1907)",Acleris curvalana,1,0.003144587,wood,1,specialist
+12,"Campaea perlata (Guenée, [1858]) ",Campaea perlata,1,1.589428467,wood,13,generalist
+12,Acleris schalleriana,Acleris schalleriana,2,0.02068086,wood,3,generalist
+12,"Acleris semipurpurana (Kearfott, 1905)",Acleris semipurpurana,3,0.988902129,wood,2,generalist
+12,"Agrotis ipsilon (Hufnagel, 1766)",Agrotis ipsilon,1,0.021986441,wood,4,generalist
+12,"Antaeotricha schlaegeri (Zeller, 1854)",Antaeotricha schlaegeri,3,0.988850789,wood,2,generalist
+12,"Apatelodes torrefacta (Smith, 1797)",Apatelodes torrefacta,1,1.612432472,wood,17,generalist
+12,"Argyrotaenia velutinana (Walker, 1863)",Argyrotaenia velutinana,1,1.593231236,wood,18,generalist
+12,Blastobasis glandulella,Blastobasis glandulella,2,1.004573726,wood,3,generalist
+12,"Blastobasis glandulella (Riley, 1871)",Blastobasis glandulella,4,1.004573726,wood,3,generalist
+12,"Calledapteryx dryopterata Grote, 1868",Calledapteryx dryopterata,1,0.017536273,wood,1,specialist
+12,"Carposina fernaldana Busck, 1907",Carposina fernaldana,1,0,wood,2,generalist
+12,"Chionodes fuscomaculella (Chambers, 1872)",Chionodes fuscomaculella,1,1.145990311,wood,3,generalist
+12,"Chionodes obscurusella (Chambers, 1872)",Chionodes obscurusella,1,0.564806393,wood,1,specialist
+12,"Chionodes obscurusella (Chambers, 1872) ",Chionodes obscurusella,1,0.564806393,wood,1,specialist
+12,Chionodes thoraceochrella,Chionodes thoraceochrella,3,2.784756712,wood,4,generalist
+12,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,2,2.784756712,wood,4,generalist
+12,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,10,2.784756712,wood,4,generalist
+12,"Choristoneura rosaceana (Harris, 1841)",Choristoneura rosaceana,3,1.75230885,wood,29,generalist
+12,Chytolita morbidalis,Chytolita morbidalis,1,0.989954603,wood,3,generalist
+12,"Clemensia albata Packard, 1864",Clemensia albata,3,0,wood,2,generalist
+12,"Crambidia pallida Packard, 1864 ",Crambidia pallida,1,0,wood,2,generalist
+12,Datana ministra,Datana ministra,1,1.734772577,wood,23,generalist
+12,"Decantha boreasella (Chambers, 1873)",Decantha boreasella,1,0,wood,1,specialist
+12,Dichomeris inversella,Dichomeris inversella,1,0.015722937,wood,1,specialist
+12,"Dichomeris inversella (Zeller, 1873)",Dichomeris inversella,2,0.015722937,wood,1,specialist
+12,Elaphria grata,Elaphria grata,1,0.991995376,wood,3,generalist
+12,"Elophila obliteralis (Walker, 1859)",Elophila obliteralis,1,0,wood,1,specialist
+12,"Elophila obliteralis (Walker, 1859) ",Elophila obliteralis,1,0,wood,1,specialist
+12,"Endothenia hebesana (Walker, 1863)",Endothenia hebesana,1,0,wood,2,generalist
+12,"Epicallima argenticinctella (Clemens, 1860) ",Epicallima argenticinctella,1,1.004573726,wood,4,generalist
+12,"Epimecis hortaria (Fabricius, 1794)",Epimecis hortaria,1,1.004573726,wood,9,generalist
+12,"Epimecis hortaria (Fabricius, 1794)",Epimecis hortaria,2,0.00510835,wood,9,generalist
+12,"Euplexia benesimilis McDunnough, 1922",Euplexia benesimilis,1,0.017536273,wood,6,generalist
+12,"Eutrapela clemataria (Smith, 1797)",Eutrapela clemataria,2,3.383027676,wood,24,generalist
+12,"Euzophera semifuneralis (Walker, 1863)",Euzophera semifuneralis,2,2.797335062,wood,13,generalist
+12,"Halysidota tessellaris (Smith, 1797)",Halysidota tessellaris,1,3.525394054,wood,29,generalist
+12,"Halysidota tessellaris (Smith, 1797) ",Halysidota tessellaris,1,3.525394054,wood,29,generalist
+12,"Haploa clymene (Brown, 1776)",Haploa clymene,2,1.007692643,wood,3,generalist
+12,"Heterocampa biundata Walker, 1855",Heterocampa biundata,2,1.729689898,wood,14,generalist
+12,"Heterocampa guttivitta (Walker, 1855)",Heterocampa guttivitta,1,1.932050896,wood,27,generalist
+12,"Heterocampa guttivitta (Walker, 1855)",Heterocampa guttivitta,2,1.932050896,wood,27,generalist
+12,Heterocampa obliqua,Heterocampa obliqua,1,0.988850789,wood,1,specialist
+12,"Heterocampa obliqua Packard, 1864",Heterocampa obliqua,1,0.988850789,wood,1,specialist
+12,"Holcocera chalcofrontella Clemens, 1863",Holcocera chalcofrontella,1,0,wood,2,generalist
+12,"Homorthodes lindseyi (Benjamin, 1922) ",Homorthodes lindseyi,1,1.007692643,wood,2,generalist
+12,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,2,3.507909121,wood,23,generalist
+12,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,4,3.507909121,wood,23,generalist
+12,Hypena madefactalis,Hypena madefactalis,1,0.015722937,wood,2,generalist
+12,"Hypena scabra (Fabricius, 1798)",Hypena scabra,1,0.60123586,wood,10,generalist
+12,"Hyperstrotia secta (Grote, 1879)",Hyperstrotia secta,1,0.988850789,wood,1,specialist
+12,"Hyphantria cunea (Drury, 1773)",Hyphantria cunea,3,3.707176873,wood,48,generalist
+12,Hypsopygia olinalis,Hypsopygia olinalis,1,0.988850789,wood,3,generalist
+12,Lacinipolia renigera,Lacinipolia renigera,1,0,wood,4,generalist
+12,"Lacinipolia renigera (Stephens, 1829)",Lacinipolia renigera,1,0,wood,4,generalist
+12,Lambdina pellucidaria,Lambdina pellucidaria,5,1.569380119,wood,4,generalist
+12,"Ledaea perditalis (Walker, 1859)",Ledaea perditalis,1,0,wood,1,specialist
+12,Macaria aemulataria,Macaria aemulataria,1,0.583648247,wood,5,generalist
+12,Machimia tentoriferella,Machimia tentoriferella,1,1.751423232,wood,19,generalist
+12,"Malacosoma americana (Fabricius, 1793)",Malacosoma americana,1,3.689897301,wood,24,generalist
+12,Melanolophia canadaria,Melanolophia canadaria,1,3.705970378,wood,26,generalist
+12,"Misogada unicolor (Packard, 1864)",Misogada unicolor,1,0.564806393,wood,2,generalist
+12,"Mythimna unipuncta (Haworth, 1809)",Mythimna unipuncta,1,0.003144587,wood,2,generalist
+12,Nadata gibbosa,Nadata gibbosa,2,1.730845052,wood,12,generalist
+12,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,1,1.730845052,wood,12,generalist
+12,Nola ovilla,Nola ovilla,8,0.988850789,wood,1,specialist
+12,"Nola ovilla Grote, 1875",Nola ovilla,1,0.988850789,wood,1,specialist
+12,"Nola ovilla Grote, 1875",Nola ovilla,3,0.988850789,wood,1,specialist
+12,"Oreana unicolorella (Hulst, 1887)",Oreana unicolorella,2,1.553657182,wood,8,generalist
+12,"Orthonama obstipata (Fabricius, 1794)",Orthonama obstipata,2,0,wood,1,specialist
+12,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,1,0,wood,1,specialist
+12,Paralobesia liriodendrana,Paralobesia liriodendrana,4,0.000320876,wood,2,generalist
+12,"Parornix melanotella (Dietz, 1907)",Parornix melanotella,1,0,wood,1,specialist
+12,Prochoerodes lineola,Prochoerodes lineola,1,1.640801142,wood,18,generalist
+12,"Prochoerodes lineola (Goeze, 1781)",Prochoerodes lineola,1,1.640801142,wood,18,generalist
+12,Psilocorsis reflexella,Psilocorsis reflexella,2,1.711900518,wood,8,generalist
+12,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,1,1.711900518,wood,8,generalist
+12,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,4,1.711900518,wood,8,generalist
+12,"Pyrrharctia isabella (Smith, 1797)",Pyrrharctia isabella,1,0.648805766,wood,8,generalist
+12,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,1,0,wood,2,generalist
+12,Sciota uvinella,Sciota uvinella,2,1.773919482,wood,1,specialist
+12,Sciota uvinella,Sciota uvinella,3,1.773919482,wood,1,specialist
+12,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,1,1.773919482,wood,1,specialist
+12,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,2,1.773919482,wood,1,specialist
+12,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,5,1.773919482,wood,1,specialist
+12,"Scolecocampa liburna (Geyer, 1837)",Scolecocampa liburna,1,1.02341558,wood,7,generalist
+12,"Scolecocampa liburna (Geyer, 1837) ",Scolecocampa liburna,1,1.02341558,wood,7,generalist
+12,Scopula limboundata,Scopula limboundata,1,0.071802481,wood,9,generalist
+12,"Scopula limboundata (Haworth, 1809)",Scopula limboundata,1,0.071802481,wood,9,generalist
+12,Speranza pustularia,Speranza pustularia,1,1.572499036,wood,4,generalist
+12,"Spoladea recurvalis (Fabricius, 1775)",Spoladea recurvalis,1,0.03325921,wood,2,generalist
+12,Tetanolita floridana,Tetanolita floridana,2,0.988850789,wood,2,generalist
+12,"Tetanolita floridana Smith, 1895",Tetanolita floridana,2,0.988850789,wood,2,generalist
+12,"Xestia dolosa Franclemont, 1980",Xestia dolosa,2,0.586899109,wood,8,generalist
+12,"Yponomeuta multipunctella (Clemens, 1860)",Yponomeuta multipunctella,1,5.13E-05,wood,1,specialist
+12,"Athetis tarda (Guenée, 1852)",Athetis tarda,1,0.988850789,wood,2,generalist
+12,"Athetis tarda (Guenée, 1852)",Athetis tarda,2,0.988850789,wood,2,generalist
+12,"Udea rubigalis (Guenée, 1854)",Udea rubigalis,3,5.13E-05,wood,1,specialist
+12,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,2,3.705970378,wood,26,generalist
+12,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,3,3.705970378,wood,26,generalist
+12,"Allotria elonympha (Hübner, 1818)",Allotria elonympha,1,0.196299261,wood,3,generalist
+13,"Malacosoma disstria Hübner, 1820",Malacosoma disstria,1,6.3943066,wood,25,generalist
+13,Acleris schalleriana,Acleris schalleriana,1,0.075893653,wood,3,generalist
+13,"Agrotis ipsilon (Hufnagel, 1766)",Agrotis ipsilon,1,0.182758283,wood,4,generalist
+13,"Argyrotaenia velutinana (Walker, 1863)",Argyrotaenia velutinana,1,2.74078383,wood,18,generalist
+13,"Zanclognatha cruralis (Guenée, 1854)",Zanclognatha cruralis,1,0.483945576,wood,5,generalist
+13,"Parallelia bistriaris Hübner, 1818",Parallelia bistriaris,1,2.483415399,wood,4,generalist
+13,"Zanclognatha cruralis (Guenée, 1854)",Zanclognatha cruralis,2,0.483945576,wood,5,generalist
+13,"Hypena madefactalis Guenée, 1854",Hypena madefactalis,2,0,wood,2,generalist
+13,"Hypsopygia olinalis (Guenée, 1854)",Hypsopygia olinalis,2,0.481365731,wood,3,generalist
+13,"Euchlaena amoenaria (Guenée, [1858])",Euchlaena amoenaria,1,0.181474778,wood,2,generalist
+13,"Udea rubigalis (Guenée, 1854)",Udea rubigalis,1,0,wood,1,specialist
+13,"Melanolophia canadaria (Guenée, [1858]) ",Melanolophia canadaria,2,6.432182834,wood,26,generalist
+13,"Bucculatrix coronatella Clemens, 1860",Bucculatrix coronatella,1,0,wood,1,specialist
+13,"Carposina fernaldana Busck, 1907",Carposina fernaldana,1,0.000462062,wood,2,generalist
+13,"Catocala ilia (Cramer, 1775)",Catocala ilia,1,0.481365731,wood,1,specialist
+13,"Chionodes obscurusella (Chambers, 1872)",Chionodes obscurusella,6,2.002049668,wood,1,specialist
+13,"Chionodes obscurusella (Chambers, 1872) ",Chionodes obscurusella,1,2.002049668,wood,1,specialist
+13,Chionodes thoraceochrella,Chionodes thoraceochrella,2,4.30015261,wood,4,generalist
+13,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,2,4.30015261,wood,4,generalist
+13,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,8,4.30015261,wood,4,generalist
+13,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,16,4.30015261,wood,4,generalist
+13,"Chionodes thoraceochrella (Chambers, 1872) ",Chionodes thoraceochrella,1,4.30015261,wood,4,generalist
+13,Chytolita morbidalis,Chytolita morbidalis,1,0.483740215,wood,3,generalist
+13,Datana perspicua,Datana perspicua,1,0.481365731,wood,2,generalist
+13,"Epicallima argenticinctella (Clemens, 1860) ",Epicallima argenticinctella,1,0.481365731,wood,4,generalist
+13,Eumarozia malachitana,Eumarozia malachitana,1,0.033897368,wood,3,generalist
+13,"Eupithecia miserulata Grote, 1863",Eupithecia miserulata,1,2.74078383,wood,22,generalist
+13,"Heterocampa subrotata Harvey, 1874",Heterocampa subrotata,1,2.002049668,wood,6,generalist
+13,"Holcocera immaculella McDunnough, 1930 ",Holcocera immaculella,1,0,wood,2,generalist
+13,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,3,6.339141553,wood,23,generalist
+13,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,12,6.339141553,wood,23,generalist
+13,Hypena palparia,Hypena palparia,1,0.517637583,wood,4,generalist
+13,"Hypena scabra (Fabricius, 1798) ",Hypena scabra,1,2.258134594,wood,10,generalist
+13,"Lacinipolia renigera (Stephens, 1829)",Lacinipolia renigera,1,0,wood,4,generalist
+13,"Lochmaeus manteo Doubleday, 1841",Lochmaeus manteo,1,0.515930522,wood,12,generalist
+13,"Macalla zelleri (Grote, 1876)",Macalla zelleri,1,0.000462062,wood,1,specialist
+13,Macaria aemulataria,Macaria aemulataria,1,2.183524446,wood,5,generalist
+13,"Macaria aemulataria Walker, 1861",Macaria aemulataria,1,2.183524446,wood,5,generalist
+13,"Malacosoma americana (Fabricius, 1793)",Malacosoma americana,3,6.3943066,wood,24,generalist
+13,Melanolophia canadaria,Melanolophia canadaria,3,6.432182834,wood,26,generalist
+13,"Nadata gibbosa (Smith, 1797) ",Nadata gibbosa,1,2.667470022,wood,12,generalist
+13,"Olethreutes nigranum (Heinrich, 1923)",Olethreutes nigranum,1,2.002049668,wood,3,generalist
+13,"Orgyia definita Packard, 1864 ",Orgyia definita,1,2.484698904,wood,11,generalist
+13,Palthis asopialis,Palthis asopialis,3,0.481365731,wood,2,generalist
+13,"Patalene olyzonaria (Walker, 1860)",Patalene olyzonaria,1,0,wood,2,generalist
+13,"Phaecasiophora confixana (Walker, 1863)",Phaecasiophora confixana,1,0.01392603,wood,1,specialist
+13,"Phaecasiophora confixana (Walker, 1863) ",Phaecasiophora confixana,1,0.01392603,wood,1,specialist
+13,"Platynota idaeusalis (Walker, 1859)",Platynota idaeusalis,1,0.257368431,wood,10,generalist
+13,"Pococera asperatella (Clemens, 1860)",Pococera asperatella,1,2.517518128,wood,8,generalist
+13,Sciota uvinella,Sciota uvinella,2,3.636028596,wood,1,specialist
+13,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,4,3.636028596,wood,1,specialist
+13,"Sciota uvinella (Ragonot, 1887) ",Sciota uvinella,2,3.636028596,wood,1,specialist
+13,"Scolecocampa liburna (Geyer, 1837) ",Scolecocampa liburna,1,0.662840509,wood,7,generalist
+13,"Symmerista albifrons (Smith, 1797)",Symmerista albifrons,1,2.48362076,wood,10,generalist
+13,Tetanolita floridana,Tetanolita floridana,1,0.481365731,wood,2,generalist
+13,"Tetanolita floridana Smith, 1895",Tetanolita floridana,2,0.481365731,wood,2,generalist
+13,"Tetanolita floridana Smith, 1895 ",Tetanolita floridana,1,0.481365731,wood,2,generalist
+13,"Xestia dolosa Franclemont, 1980",Xestia dolosa,1,0,wood,8,generalist
+13,"Xestia dolosa Franclemont, 1980",Xestia dolosa,3,2.077943321,wood,8,generalist
+13,Zanclognatha cruralis,Zanclognatha cruralis,1,0.483945576,wood,5,generalist
+13,"Orthotaenia undulana ([Denis & Schiffermüller], 1775)",Orthotaenia undulana,4,2.743158314,wood,17,generalist
+13,"Udea rubigalis (Guenée, 1854)",Udea rubigalis,3,0,wood,1,specialist
+13,"Anania tertialis (Guenée, 1854)",Anania tertialis,2,0.075893653,wood,5,generalist
+13,"Bleptina caradrinalis Guenée, 1854",Bleptina caradrinalis,2,0.662840509,wood,4,generalist
+13,"Clostera inclusa (Hübner, [1831])",Clostera inclusa,1,2.485789883,wood,7,generalist
+13,"Desmia funeralis (Hübner, 1796) ",Desmia funeralis,1,0,wood,2,generalist
+14,"Udea rubigalis (Guenée, 1854)",Udea rubigalis,1,0.20234457,wood,1,specialist
+14,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,1,4.358077192,wood,26,generalist
+14,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,2,4.358077192,wood,26,generalist
+14,"Hypsopygia olinalis (Guenée, 1854)",Hypsopygia olinalis,2,0.00513402,wood,3,generalist
+14,"Pero ancetaria (Hübner, 1806)",Pero ancetaria,2,1.169273092,wood,5,generalist
+14,"Melanolophia canadaria (Guenée, [1858]) ",Melanolophia canadaria,1,4.358077192,wood,26,generalist
+14,"Parallelia bistriaris Hübner, 1818",Parallelia bistriaris,3,1.150136032,wood,4,generalist
+14,"Iridopsis humaria (Guenée, [1858])",Iridopsis humaria,1,1.174407112,wood,11,generalist
+14,"Hypsopygia olinalis (Guenée, 1854) ",Hypsopygia olinalis,1,0.00513402,wood,3,generalist
+14,"Zanclognatha cruralis (Guenée, 1854) ",Zanclognatha cruralis,1,0.00513402,wood,5,generalist
+14,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,6,4.358077192,wood,26,generalist
+14,"Zanclognatha cruralis (Guenée, 1854)",Zanclognatha cruralis,3,0.00513402,wood,5,generalist
+14,"Acleris schalleriana (Linnaeus, 1761)",Acleris schalleriana,1,0.033781853,wood,3,generalist
+14,"Actrix nyssaecolella (Dyar, 1904)",Actrix nyssaecolella,1,0.010370721,wood,1,specialist
+14,"Adoxophyes negundana (McDunnough, 1923)",Adoxophyes negundana,3,1.145002012,wood,1,specialist
+14,"Anacampsis rhoifructella (Clemens, 1860) ",Anacampsis rhoifructella,2,0.033781853,wood,1,specialist
+14,"Antaeotricha schlaegeri (Zeller, 1854)",Antaeotricha schlaegeri,1,0.00513402,wood,2,generalist
+14,"Udea rubigalis (Guenée, 1854)",Udea rubigalis,2,0.20234457,wood,1,specialist
+14,"Abagrotis anchocelioides (Guenée, 1852)",Abagrotis anchocelioides,1,0,wood,2,generalist
+14,"Lomographa vestaliata (Guenée, [1858])",Lomographa vestaliata,1,1.223321489,wood,10,generalist
+14,"Arogalea cristifasciella (Chambers, 1878)",Arogalea cristifasciella,1,0.00513402,wood,1,specialist
+14,"Blastobasis glandulella (Riley, 1871)",Blastobasis glandulella,1,0.00513402,wood,3,generalist
+14,"Bucculatrix coronatella Clemens, 1860",Bucculatrix coronatella,1,0,wood,1,specialist
+14,"Bucculatrix coronatella Clemens, 1860",Bucculatrix coronatella,2,0,wood,1,specialist
+14,"Chionodes fuscomaculella (Chambers, 1872)",Chionodes fuscomaculella,1,0.00513402,wood,3,generalist
+14,"Chionodes obscurusella (Chambers, 1872)",Chionodes obscurusella,1,1.145002012,wood,1,specialist
+14,"Chionodes obscurusella (Chambers, 1872)",Chionodes obscurusella,13,1.145002012,wood,1,specialist
+14,"Chionodes obscurusella (Chambers, 1872) ",Chionodes obscurusella,1,1.145002012,wood,1,specialist
+14,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,4,3.153790082,wood,4,generalist
+14,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,49,3.153790082,wood,4,generalist
+14,"Choristoneura rosaceana (Harris, 1841)",Choristoneura rosaceana,1,1.425666059,wood,29,generalist
+14,Chytolita morbidalis,Chytolita morbidalis,1,0.00513402,wood,3,generalist
+14,"Datana ministra (Drury, 1773)",Datana ministra,3,1.391884206,wood,23,generalist
+14,"Elophila obliteralis (Walker, 1859)",Elophila obliteralis,1,0,wood,1,specialist
+14,"Emmelina monodactyla (Linnaeus, 1758)",Emmelina monodactyla,1,0.006995102,wood,2,generalist
+14,"Epicallima argenticinctella (Clemens, 1860) ",Epicallima argenticinctella,1,0.00513402,wood,4,generalist
+14,Epimecis hortaria,Epimecis hortaria,1,0.90641126,wood,5,generalist
+14,"Euchlaena muzaria (Walker, 1860)",Euchlaena muzaria,1,0.02427108,wood,1,specialist
+14,"Eulogia ochrifrontella (Zeller, 1876) ",Eulogia ochrifrontella,1,0.020266544,wood,3,generalist
+14,"Euzophera semifuneralis (Walker, 1863)",Euzophera semifuneralis,1,3.176071729,wood,13,generalist
+14,"Grapholita packardi (Zeller, 1875)",Grapholita packardi,2,0.241748174,wood,5,generalist
+14,"Gretchena bolliana (Slingerland, 1896",Gretchena bolliana,1,0,wood,2,generalist
+14,Haploa clymene,Haploa clymene,1,0.0294051,wood,3,generalist
+14,"Heterocampa biundata Walker, 1855",Heterocampa biundata,1,1.174407112,wood,14,generalist
+14,Hypagyrtis unipunctata,Hypagyrtis unipunctata,2,4.501136664,wood,23,generalist
+14,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,1,4.501136664,wood,23,generalist
+14,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,23,4.501136664,wood,23,generalist
+14,Hypsopygia olinalis,Hypsopygia olinalis,1,0.00513402,wood,3,generalist
+14,Macaria aemulataria,Macaria aemulataria,1,1.169273092,wood,5,generalist
+14,"Machimia tentoriferella Clemens, 1860 ",Machimia tentoriferella,1,1.223321489,wood,19,generalist
+14,"Malacosoma americana (Fabricius, 1793)",Malacosoma americana,1,4.526639909,wood,24,generalist
+14,Meganola phylla,Meganola phylla,2,0.00513402,wood,2,generalist
+14,Melanolophia canadaria,Melanolophia canadaria,1,4.358077192,wood,26,generalist
+14,"Ochropleura implecta Lafontaine, 1998",Ochropleura implecta,1,0,wood,2,generalist
+14,"Orgyia leucostigma (Smith, 1797) ",Orgyia leucostigma,1,5.469053486,wood,50,generalist
+14,"Packardia elegans (Packard, 1864)",Packardia elegans,1,1.174407112,wood,6,generalist
+14,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,1,0,wood,1,specialist
+14,Parallelia bistriaris,Parallelia bistriaris,1,1.150136032,wood,4,generalist
+14,"Parornix conspicuella (Dietz, 1907)",Parornix conspicuella,1,0,wood,1,specialist
+14,"Phaecasiophora confixana (Walker, 1863)",Phaecasiophora confixana,1,0.006995102,wood,1,specialist
+14,"Phyprosopus callitrichoides Grote, 1872",Phyprosopus callitrichoides,1,0,wood,1,specialist
+14,"Platynota idaeusalis (Walker, 1859)",Platynota idaeusalis,1,0.073185457,wood,10,generalist
+14,"Prochoerodes lineola (Goeze, 1781)",Prochoerodes lineola,2,1.223321489,wood,18,generalist
+14,"Protolampra brunneicollis (Grote, 1865)",Protolampra brunneicollis,2,0,wood,1,specialist
+14,"Pyrrharctia isabella (Smith, 1797)",Pyrrharctia isabella,1,1.203054945,wood,8,generalist
+14,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,1,0,wood,2,generalist
+14,Sciota uvinella,Sciota uvinella,4,3.124384982,wood,1,specialist
+14,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,2,3.124384982,wood,1,specialist
+14,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,4,3.124384982,wood,1,specialist
+14,"Sciota uvinella (Ragonot, 1887) ",Sciota uvinella,5,3.124384982,wood,1,specialist
+14,"Scolecocampa liburna (Geyer, 1837)",Scolecocampa liburna,1,0.928821258,wood,7,generalist
+14,"Scolecocampa liburna (Geyer, 1837) ",Scolecocampa liburna,4,0.928821258,wood,7,generalist
+14,"Tetanolita floridana Smith, 1895 ",Tetanolita floridana,3,0.00513402,wood,2,generalist
+14,"Xestia dolosa Franclemont, 1980",Xestia dolosa,2,1.193916389,wood,8,generalist
+14,Zanclognatha cruralis,Zanclognatha cruralis,4,0.00513402,wood,5,generalist
+14,"Zanclognatha protumnusalis (Walker, 1859) ",Zanclognatha protumnusalis,2,0.00513402,wood,4,generalist
+14,"Euchlaena amoenaria (Guenée, [1858])",Euchlaena amoenaria,2,0.02427108,wood,2,generalist
+14,"Elaphria grata Hübner, 1818",Elaphria grata,2,0.00513402,wood,4,generalist
+14,"Orthotaenia undulana ([Denis & Schiffermüller], 1775)",Orthotaenia undulana,2,1.425666059,wood,17,generalist
+14,"Athetis tarda (Guenée, 1852)",Athetis tarda,5,0.00513402,wood,2,generalist
+14,"Macaria pustularia (Guenée, [1858])",Macaria pustularia,1,1.174407112,wood,4,generalist
+14,"Autographa precationis (Guenée, 1852)",Autographa precationis,1,0,wood,1,specialist
+15,"Eulithis gracilineata (Guenée, [1858]) ",Eulithis gracilineata,1,0,wood,3,generalist
+15,"Panopoda rufimargo (Hübner, 1818)",Panopoda rufimargo,1,0.085982003,wood,5,generalist
+15,"Autographa precationis (Guenée, 1852) ",Autographa precationis,1,0,wood,1,specialist
+15,"Elaphria grata Hübner, 1818",Elaphria grata,2,0.082978601,wood,4,generalist
+15,Acleris schalleriana,Acleris schalleriana,4,0.061698087,wood,3,generalist
+15,"Melanolophia canadaria (Guenée, [1858]) ",Melanolophia canadaria,3,3.562008861,wood,26,generalist
+15,"Idia aemula Hübner, 1814",Idia aemula,1,0.085982003,wood,4,generalist
+15,"Agrotis ipsilon (Hufnagel, 1766)",Agrotis ipsilon,1,0.011025309,wood,4,generalist
+15,"Anavitrinella pampinaria (Guenée, [1858]) ",Anavitrinella pampinaria,2,0.960908885,wood,20,generalist
+15,"Athetis tarda (Guenée, 1852)",Athetis tarda,2,0.082978601,wood,2,generalist
+15,"Catocala ultronia (Hübner, 1823)",Catocala ultronia,1,0.09400391,wood,7,generalist
+15,"Palthis angulalis (Hübner, 1796)",Palthis angulalis,1,0.816232197,wood,18,generalist
+15,"Antaeotricha schlaegeri (Zeller, 1854)",Antaeotricha schlaegeri,7,0.082978601,wood,2,generalist
+15,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,7,3.562008861,wood,26,generalist
+15,"Plagodis fervidaria (Herrich-Schäffer, [1855])",Plagodis fervidaria,1,0.891188891,wood,10,generalist
+15,"Bucculatrix coronatella Clemens, 1860",Bucculatrix coronatella,1,0,wood,1,specialist
+15,"Chionodes obscurusella (Chambers, 1872)",Chionodes obscurusella,1,0.805206888,wood,1,specialist
+15,"Chionodes obscurusella (Chambers, 1872)",Chionodes obscurusella,12,0.805206888,wood,1,specialist
+15,"Chionodes pereyra Clarke, 1947",Chionodes pereyra,2,0.082978601,wood,1,specialist
+15,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,6,2.687081979,wood,4,generalist
+15,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,18,2.687081979,wood,4,generalist
+15,"Choristoneura rosaceana (Harris, 1841)",Choristoneura rosaceana,2,0.965991565,wood,29,generalist
+15,Chytolita morbidalis,Chytolita morbidalis,2,0.082978601,wood,3,generalist
+15,Coleophora atromarginata,Coleophora atromarginata,1,0.085982003,wood,6,generalist
+15,Desmia funeralis,Desmia funeralis,2,0,wood,2,generalist
+15,"Dichomeris inversella (Zeller, 1873) ",Dichomeris inversella,1,0,wood,1,specialist
+15,"Euplexia benesimilis McDunnough, 1922",Euplexia benesimilis,1,0.061698087,wood,6,generalist
+15,"Eutrapela clemataria (Smith, 1797)",Eutrapela clemataria,1,3.56688618,wood,24,generalist
+15,"Eutrapela clemataria (Smith, 1797) ",Eutrapela clemataria,1,3.56688618,wood,24,generalist
+15,Haploa clymene,Haploa clymene,1,0.085982003,wood,3,generalist
+15,"Holcocera chalcofrontella Clemens, 1863",Holcocera chalcofrontella,1,0.008021907,wood,2,generalist
+15,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,1,3.497371547,wood,23,generalist
+15,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,2,3.497371547,wood,23,generalist
+15,Hypena palparia,Hypena palparia,1,0.082978601,wood,4,generalist
+15,"Hypena scabra (Fabricius, 1798) ",Hypena scabra,1,0.877930284,wood,10,generalist
+15,"Macaria aemulataria Walker, 1861 ",Macaria aemulataria,1,0.80821029,wood,5,generalist
+15,"Macaria bisignata Walker, 1866",Macaria bisignata,1,0,wood,3,generalist
+15,"Mythimna unipuncta (Haworth, 1809)",Mythimna unipuncta,1,0.008021907,wood,2,generalist
+15,Nadata gibbosa,Nadata gibbosa,2,0.896271571,wood,12,generalist
+15,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,1,0.896271571,wood,12,generalist
+15,Olethreutes nigranum,Olethreutes nigranum,3,0.805206888,wood,3,generalist
+15,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,1,0,wood,1,specialist
+15,"Pandemis lamprosana (Robinson, 1869)",Pandemis lamprosana,2,0.899210798,wood,14,generalist
+15,"Platynota idaeusalis (Walker, 1859) ",Platynota idaeusalis,1,0.072723396,wood,10,generalist
+15,"Prochoerodes lineola (Goeze, 1781)",Prochoerodes lineola,1,0.960908885,wood,18,generalist
+15,Psilocorsis cryptolechiella,Psilocorsis cryptolechiella,1,0.888185489,wood,7,generalist
+15,"Psilocorsis reflexella Clemens, 1860 ",Psilocorsis reflexella,2,0.888185489,wood,8,generalist
+15,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,1,2.601099976,wood,1,specialist
+15,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,3,2.601099976,wood,1,specialist
+15,"Sciota uvinella (Ragonot, 1887) ",Sciota uvinella,1,2.601099976,wood,1,specialist
+15,"Scolecocampa liburna (Geyer, 1837) ",Scolecocampa liburna,2,0.085982003,wood,7,generalist
+15,Speranza pustularia,Speranza pustularia,1,0.891188891,wood,4,generalist
+15,"Spilosoma virginica (Fabricius, 1798)",Spilosoma virginica,1,0.80821029,wood,18,generalist
+15,Tetanolita floridana,Tetanolita floridana,2,0.082978601,wood,2,generalist
+15,"Tetanolita floridana Smith, 1895",Tetanolita floridana,1,0.082978601,wood,2,generalist
+15,"Tetanolita floridana Smith, 1895 ",Tetanolita floridana,1,0.082978601,wood,2,generalist
+15,Zale horrida,Zale horrida,2,0.061698087,wood,1,specialist
+15,Zanclognatha cruralis,Zanclognatha cruralis,2,0.082978601,wood,5,generalist
+16,"Parallelia bistriaris Hübner, 1818",Parallelia bistriaris,1,1.272723599,wood,4,generalist
+16,"Hyperstrotia nana (Hübner, 1818) ",Hyperstrotia nana,1,0.150991533,wood,4,generalist
+16,"Zanclognatha cruralis (Guenée, 1854) ",Zanclognatha cruralis,2,0.156334123,wood,5,generalist
+16,"Athetis tarda (Guenée, 1852)",Athetis tarda,1,0.142315039,wood,2,generalist
+16,"Orthodes majuscula Herrich-Schäffer, 1868",Orthodes majuscula,1,0,wood,2,generalist
+16,"Athetis tarda (Guenée, 1852) ",Athetis tarda,2,0.142315039,wood,3,generalist
+16,"Chytolita morbidalis (Guenée, 1854)",Chytolita morbidalis,1,0.142315039,wood,3,generalist
+16,"Eulithis gracilineata (Guenée, [1858])",Eulithis gracilineata,1,0,wood,3,generalist
+16,"Orthotaenia undulana ([Denis & Schiffermüller], 1775)",Orthotaenia undulana,5,1.326746326,wood,17,generalist
+16,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,1,3.740355094,wood,26,generalist
+16,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,7,3.740355094,wood,26,generalist
+16,"Zanclognatha cruralis (Guenée, 1854)",Zanclognatha cruralis,1,0.156334123,wood,5,generalist
+16,Acleris schalleriana,Acleris schalleriana,5,0.020625926,wood,3,generalist
+16,"Parallelia bistriaris Hübner, 1818",Parallelia bistriaris,2,1.272723599,wood,4,generalist
+16,"Melanolophia canadaria (Guenée, [1858]) ",Melanolophia canadaria,1,3.740355094,wood,26,generalist
+16,"Bleptina caradrinalis Guenée, 1854 ",Bleptina caradrinalis,2,0.164609522,wood,4,generalist
+16,"Acleris schalleriana (Linnaeus, 1761)",Acleris schalleriana,1,0.020625926,wood,3,generalist
+16,Acronicta impleta,Acronicta impleta,1,2.783357692,wood,20,generalist
+16,"Antaeotricha schlaegeri (Zeller, 1854)",Antaeotricha schlaegeri,1,0.146114214,wood,2,generalist
+16,"Argyresthia subreticulata Walsingham, 1882",Argyresthia subreticulata,4,1.126609385,wood,1,specialist
+16,"Argyrotaenia velutinana (Walker, 1863)",Argyrotaenia velutinana,1,1.332432253,wood,18,generalist
+16,Caloptilia bimaculatella,Caloptilia bimaculatella,1,1.126609385,wood,1,specialist
+16,"Cenopis reticulatana (Clemens, 1860)",Cenopis reticulatana,1,1.336221802,wood,14,generalist
+16,"Ceratomia undulosa (Walker, 1856)",Ceratomia undulosa,1,0.14386808,wood,5,generalist
+16,"Chionodes obscurusella (Chambers, 1872)",Chionodes obscurusella,4,1.126609385,wood,1,specialist
+16,"Chionodes obscurusella (Chambers, 1872)",Chionodes obscurusella,5,1.126609385,wood,1,specialist
+16,"Chionodes obscurusella (Chambers, 1872) ",Chionodes obscurusella,1,1.126609385,wood,1,specialist
+16,"Chionodes soter Hodges, 1999 ",Chionodes soter,2,0.142315039,wood,1,specialist
+16,Chionodes thoraceochrella,Chionodes thoraceochrella,1,1.641115216,wood,4,generalist
+16,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,2,1.641115216,wood,4,generalist
+16,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,3,1.641115216,wood,4,generalist
+16,"Choristoneura rosaceana (Harris, 1841)",Choristoneura rosaceana,1,1.346862058,wood,29,generalist
+16,"Clemensia albata Packard, 1864",Clemensia albata,1,0,wood,2,generalist
+16,"Dichomeris inversella (Zeller, 1873)",Dichomeris inversella,1,0,wood,1,specialist
+16,"Elophila obliteralis (Walker, 1859)",Elophila obliteralis,2,0,wood,1,specialist
+16,"Epiblema strenuana (Walker, 1863)",Epiblema strenuana,2,0,wood,1,specialist
+16,"Epicallima argenticinctella (Clemens, 1860)",Epicallima argenticinctella,1,0.150991533,wood,4,generalist
+16,"Euplexia benesimilis McDunnough, 1922",Euplexia benesimilis,1,0.02421974,wood,6,generalist
+16,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,4,2.796183116,wood,23,generalist
+16,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,5,2.796183116,wood,23,generalist
+16,Hypsopygia olinalis,Hypsopygia olinalis,1,0.142315039,wood,3,generalist
+16,"Laetilia coccidivora (Comstock, 1879)",Laetilia coccidivora,1,1.268924424,wood,4,generalist
+16,"Leucania ursula (Forbes, 1936)",Leucania ursula,1,0,wood,1,specialist
+16,"Malacosoma americana (Fabricius, 1793)",Malacosoma americana,5,3.721076848,wood,24,generalist
+16,Melanolophia canadaria,Melanolophia canadaria,1,3.740355094,wood,26,generalist
+16,Olethreutes nigranum,Olethreutes nigranum,1,1.126609385,wood,3,generalist
+16,"Oreta rosea (Walker, 1855)",Oreta rosea,1,0.02421974,wood,2,generalist
+16,Orgyia leucostigma,Orgyia leucostigma,1,4.550298114,wood,50,generalist
+16,"Orgyia leucostigma (Smith, 1797) ",Orgyia leucostigma,3,4.550298114,wood,50,generalist
+16,Palthis asopialis,Palthis asopialis,7,0.142315039,wood,2,generalist
+16,Parallelia bistriaris,Parallelia bistriaris,3,1.272723599,wood,4,generalist
+16,Phaecasiophora confixana,Phaecasiophora confixana,1,0,wood,1,specialist
+16,"Phaecasiophora confixana (Walker, 1863)",Phaecasiophora confixana,3,0,wood,1,specialist
+16,"Platynota idaeusalis (Walker, 1859) ",Platynota idaeusalis,1,0.048323965,wood,10,generalist
+16,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,2,1.286742683,wood,8,generalist
+16,"Psilocorsis reflexella Clemens, 1860 ",Psilocorsis reflexella,1,1.286742683,wood,8,generalist
+16,"Pyrrharctia isabella (Smith, 1797)",Pyrrharctia isabella,1,1.181800102,wood,8,generalist
+16,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,2,0,wood,2,generalist
+16,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,1,1.476300333,wood,1,specialist
+16,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,2,1.476300333,wood,1,specialist
+16,"Sciota uvinella (Ragonot, 1887) ",Sciota uvinella,1,1.476300333,wood,1,specialist
+16,Tetanolita floridana,Tetanolita floridana,3,0.142315039,wood,2,generalist
+16,"Tetanolita floridana Smith, 1895 ",Tetanolita floridana,4,0.142315039,wood,2,generalist
+16,"Xestia dolosa Franclemont, 1980",Xestia dolosa,1,1.148839692,wood,8,generalist
+16,"Xestia dolosa Franclemont, 1980",Xestia dolosa,2,1.148839692,wood,8,generalist
+16,Zanclognatha cruralis,Zanclognatha cruralis,1,0.156334123,wood,5,generalist
+16,"Hypena baltimoralis Guenée, 1854",Hypena baltimoralis,1,1.268924424,wood,3,generalist
+16,"Allotria elonympha (Hübner, 1818) ",Allotria elonympha,1,0.923289351,wood,3,generalist
+16,"Lomographa vestaliata (Guenée, [1858])",Lomographa vestaliata,1,1.313243853,wood,10,generalist
+17,"Plagodis alcoolaria (Guenée, [1858])",Plagodis alcoolaria,1,2.057612602,wood,8,generalist
+17,"Lomographa vestaliata (Guenée, [1858])",Lomographa vestaliata,1,2.760690993,wood,10,generalist
+17,"Abagrotis magnicupida Lafontaine, 1998",Abagrotis magnicupida,1,0.145985863,wood,3,generalist
+17,Acleris schalleriana,Acleris schalleriana,1,0.018405463,wood,3,generalist
+17,"Chytolita morbidalis (Guenée, 1854)",Chytolita morbidalis,1,0.134742359,wood,3,generalist
+17,"Acleris schalleriana (Linnaeus, 1761)",Acleris schalleriana,1,0.018405463,wood,3,generalist
+17,"Idia americalis (Guenée, 1854)",Idia americalis,1,0,wood,3,generalist
+17,"Abagrotis anchocelioides (Guenée, 1852)",Abagrotis anchocelioides,1,0.01664706,wood,2,generalist
+17,"Polygrammate hebraeicum Hübner, 1818",Polygrammate hebraeicum,1,0.008676494,wood,2,generalist
+17,"Eulithis gracilineata (Guenée, [1858])",Eulithis gracilineata,2,0.017006441,wood,3,generalist
+17,"Hypsopygia olinalis (Guenée, 1854)",Hypsopygia olinalis,1,0.134742359,wood,3,generalist
+17,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,1,2.785834857,wood,26,generalist
+17,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,2,2.785834857,wood,26,generalist
+17,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,5,2.785834857,wood,26,generalist
+17,"Macaria pustularia (Guenée, [1858])",Macaria pustularia,1,2.163796973,wood,4,generalist
+17,"Eulithis gracilineata (Guenée, [1858]) ",Eulithis gracilineata,1,0.017006441,wood,3,generalist
+17,"Zanclognatha cruralis (Guenée, 1854)",Zanclognatha cruralis,3,0.135204421,wood,5,generalist
+17,"Amphipyra pyramidoides Guenée, 1852",Amphipyra pyramidoides,1,2.812993823,wood,25,generalist
+17,"Idia aemula Hübner, 1814 ",Idia aemula,1,0.259794255,wood,4,generalist
+17,"Palthis asopialis (Guenée, 1854) ",Palthis asopialis,1,0.134742359,wood,1,specialist
+17,Acrolophus morus,Acrolophus morus,1,0,wood,1,specialist
+17,"Agrotis ipsilon (Hufnagel, 1766)",Agrotis ipsilon,1,0.145985863,wood,4,generalist
+17,"Agrotis ipsilon (Hufnagel, 1766)",Agrotis ipsilon,2,0.145985863,wood,4,generalist
+17,Anavitrinella pampinaria,Anavitrinella pampinaria,1,2.766954498,wood,20,generalist
+17,Antaeotricha schlaegeri,Antaeotricha schlaegeri,1,0.134742359,wood,2,generalist
+17,"Dichomeris ligulella Hübner, 1818",Dichomeris ligulella,1,2.748549035,wood,13,generalist
+17,"Athetis tarda (Guenée, 1852)",Athetis tarda,2,0.134742359,wood,2,generalist
+17,"Orthodes cynica Guenée, 185",Orthodes cynica,1,0.129338803,wood,2,generalist
+17,"Desmia funeralis (Hübner, 1796)",Desmia funeralis,1,0.017006441,wood,2,generalist
+17,"Blastobasis glandulella (Riley, 1871)",Blastobasis glandulella,1,0.715002153,wood,3,generalist
+17,"Cenopis reticulatana (Clemens, 1860)",Cenopis reticulatana,1,2.216857072,wood,14,generalist
+17,Chytolita morbidalis,Chytolita morbidalis,1,0.134742359,wood,3,generalist
+17,"Coleophora laticornella Clemens, 1860",Coleophora laticornella,1,0.70531169,wood,3,generalist
+17,Dichomeris inversella,Dichomeris inversella,1,0.580259794,wood,1,specialist
+17,"Elophila obliteralis (Walker, 1859)",Elophila obliteralis,1,0.006263505,wood,1,specialist
+17,"Endothenia hebesana (Walker, 1863) ",Endothenia hebesana,1,0.001334845,wood,2,generalist
+17,"Eutrapela clemataria (Smith, 1797)",Eutrapela clemataria,1,2.781214238,wood,24,generalist
+17,"Euzophera semifuneralis (Walker, 1863)",Euzophera semifuneralis,1,0.85428812,wood,13,generalist
+17,"Grapholita packardi (Zeller, 1875)",Grapholita packardi,1,0.148860915,wood,5,generalist
+17,"Gretchena deludana (Clemens, 1864)",Gretchena deludana,1,0.580259794,wood,1,specialist
+17,"Halysidota tessellaris (Smith, 1797)",Halysidota tessellaris,1,2.81100439,wood,29,generalist
+17,Hypagyrtis unipunctata,Hypagyrtis unipunctata,4,2.78025161,wood,23,generalist
+17,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,3,2.78025161,wood,23,generalist
+17,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,4,2.78025161,wood,23,generalist
+17,"Hyphantria cunea (Drury, 1773)",Hyphantria cunea,1,2.840242635,wood,48,generalist
+17,"Machimia tentoriferella Clemens, 1860 ",Machimia tentoriferella,1,2.761153055,wood,19,generalist
+17,"Malacosoma americana (Fabricius, 1793)",Malacosoma americana,2,2.79293264,wood,24,generalist
+17,Melanolophia canadaria,Melanolophia canadaria,4,2.785834857,wood,26,generalist
+17,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,1,2.770304446,wood,12,generalist
+17,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,1,0,wood,1,specialist
+17,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,2,0,wood,1,specialist
+17,Palthis asopialis,Palthis asopialis,1,0.134742359,wood,2,generalist
+17,"Pandemis lamprosana (Robinson, 1869)",Pandemis lamprosana,1,2.169239035,wood,14,generalist
+17,"Paralobesia liriodendrana (Kearfott, 1904)",Paralobesia liriodendrana,1,0.016634225,wood,2,generalist
+17,Pero ancetaria,Pero ancetaria,1,2.035318119,wood,5,generalist
+17,"Phaecasiophora confixana (Walker, 1863) ",Phaecasiophora confixana,1,0.01275804,wood,1,specialist
+17,"Platynota idaeusalis (Walker, 1859)",Platynota idaeusalis,1,0.164391326,wood,10,generalist
+17,"Pococera asperatella (Clemens, 1860)",Pococera asperatella,1,2.625730438,wood,8,generalist
+17,Psilocorsis reflexella,Psilocorsis reflexella,1,2.625730438,wood,8,generalist
+17,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,3,2.625730438,wood,8,generalist
+17,"Pyrrharctia isabella (Smith, 1797)",Pyrrharctia isabella,2,2.058203013,wood,8,generalist
+17,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,1,0,wood,2,generalist
+17,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,3,0,wood,2,generalist
+17,Sciota uvinella,Sciota uvinella,1,0.009459432,wood,1,specialist
+17,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,1,0.009459432,wood,1,specialist
+17,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,2,0.009459432,wood,1,specialist
+17,"Spilosoma virginica (Fabricius, 1798",Spilosoma virginica,1,2.633418632,wood,18,generalist
+17,"Spilosoma virginica (Fabricius, 1798)",Spilosoma virginica,1,2.633418632,wood,18,generalist
+17,"Xestia dolosa Franclemont, 1980",Xestia dolosa,2,1.920431583,wood,8,generalist
+17,Zale horrida,Zale horrida,1,0.012141958,wood,1,specialist
+17,"Athetis tarda (Guenée, 1852)",Athetis tarda,6,0.134742359,wood,2,generalist
+17,"Anavitrinella pampinaria (Guenée, [1858])",Anavitrinella pampinaria,1,2.766954498,wood,20,generalist
+18,"Polygrammate hebraeicum Hübner, 1818",Polygrammate hebraeicum,1,0.00010268,wood,2,generalist
+18,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,4,3.708880342,wood,26,generalist
+18,"Hypsopygia olinalis (Guenée, 1854)",Hypsopygia olinalis,1,0.004030206,wood,3,generalist
+18,"Lithacodes fasciola (Herrich-Schäffer, 1854)",Lithacodes fasciola,1,1.577350684,wood,15,generalist
+18,"Iridopsis humaria (Guenée, [1858])",Iridopsis humaria,1,1.556673419,wood,11,generalist
+18,Abagrotis anchocelioides ,Abagrotis anchocelioides,1,0,wood,2,generalist
+18,"Acrolophus morus (Grote, 1881) ",Acrolophus morus,1,0,wood,1,specialist
+18,"Agrotis ipsilon (Hufnagel, 1766)",Agrotis ipsilon,1,0.011179329,wood,4,generalist
+18,Allotria elonympha,Allotria elonympha,1,0.093824218,wood,3,generalist
+18,"Blastobasis glandulella (Riley, 1871)",Blastobasis glandulella,1,0.097751744,wood,3,generalist
+18,"Callosamia angulifera (Walker, 1855)",Callosamia angulifera,1,0.260204977,wood,6,generalist
+18,"Cenopis reticulatana (Clemens, 1860)",Cenopis reticulatana,1,1.525779453,wood,14,generalist
+18,Chionodes bicostomaculella,Chionodes bicostomaculella,1,0.004030206,wood,1,specialist
+18,"Chionodes obscurusella (Chambers, 1872)",Chionodes obscurusella,1,1.446779717,wood,1,specialist
+18,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,1,2.118912803,wood,4,generalist
+18,"Epicallima argenticinctella (Clemens, 1860) ",Epicallima argenticinctella,1,0.097751744,wood,4,generalist
+18,Haploa clymene,Haploa clymene,1,0.013451133,wood,3,generalist
+18,"Haploa clymene (Brown, 1776)",Haploa clymene,1,0.013451133,wood,3,generalist
+18,"Udea rubigalis (Guenée, 1854)",Udea rubigalis,2,0.003696495,wood,1,specialist
+18,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,3,3.679873128,wood,23,generalist
+18,"Lochmaeus manteo Doubleday, 1841",Lochmaeus manteo,1,0.11355169,wood,12,generalist
+18,"Meganola phylla (Dyar, 1898)",Meganola phylla,1,0.017391493,wood,2,generalist
+18,Melanolophia canadaria,Melanolophia canadaria,1,3.708880342,wood,26,generalist
+18,"Mythimna unipuncta (Haworth, 1809)",Mythimna unipuncta,1,0.001758402,wood,2,generalist
+18,Nadata gibbosa,Nadata gibbosa,2,1.573731201,wood,12,generalist
+18,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,1,1.573731201,wood,12,generalist
+18,Palthis asopialis,Palthis asopialis,1,0.004030206,wood,2,generalist
+18,Paralobesia liriodendrana,Paralobesia liriodendrana,1,0.15530411,wood,2,generalist
+18,"Perimede erransella Chambers, 1874",Perimede erransella,1,0.253055854,wood,4,generalist
+18,"Platynota idaeusalis (Walker, 1859)",Platynota idaeusalis,1,0.045423244,wood,10,generalist
+18,"Pococera expandens (Walker, 1863)",Pococera expandens,1,0.004030206,wood,1,specialist
+18,Prochoerodes lineola,Prochoerodes lineola,2,1.494141053,wood,18,generalist
+18,Psilocorsis reflexella,Psilocorsis reflexella,1,1.557892748,wood,8,generalist
+18,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,1,1.557892748,wood,8,generalist
+18,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,1,0,wood,2,generalist
+18,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,2,0,wood,2,generalist
+18,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,5,2.10546167,wood,1,specialist
+18,"Scolecocampa liburna (Geyer, 1837) ",Scolecocampa liburna,3,0.262476781,wood,7,generalist
+18,"Xestia dolosa Franclemont, 1980",Xestia dolosa,2,1.483346776,wood,8,generalist
+18,"Yponomeuta multipunctella (Clemens, 1860)",Yponomeuta multipunctella,1,0,wood,1,specialist
+18,Zale horrida,Zale horrida,1,0.031522884,wood,1,specialist
+18,Zanclognatha cruralis,Zanclognatha cruralis,1,0.017391493,wood,5,generalist
+18,"Melanolophia canadaria (Guenée, [1858]) ",Melanolophia canadaria,1,3.708880342,wood,26,generalist
+18,"Chytolita morbidalis (Guenée, 1854)",Chytolita morbidalis,1,0.004030206,wood,3,generalist
+19,"Idia americalis (Guenée, 1854) ",Idia americalis,2,0.001848247,wood,3,generalist
+19,"Zanclognatha cruralis (Guenée, 1854) ",Zanclognatha cruralis,1,0.297221262,wood,5,generalist
+19,"Udea rubigalis (Guenée, 1854)",Udea rubigalis,1,0.016403194,wood,1,specialist
+19,"Palthis asopialis (Guenée, 1854) ",Palthis asopialis,4,0.266661007,wood,1,specialist
+19,"Acronicta hasta (Guenée, 1852)",Acronicta hasta,1,0.26872745,wood,2,generalist
+19,"Iridopsis larvaria (Guenée, [1858]) ",Iridopsis larvaria,1,2.148702955,wood,12,generalist
+19,"Abagrotis alternata (Grote, 1864) ",Abagrotis alternata,1,0.294269201,wood,9,generalist
+19,"Agrotis ipsilon (Hufnagel, 1766) ",Agrotis ipsilon,1,0.014991339,wood,4,generalist
+19,Blastobasis glandulella,Blastobasis glandulella,1,0.273181213,wood,3,generalist
+19,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,2,0.784439776,wood,4,generalist
+19,"Amphipyra pyramidoides Guenée, 1852 ",Amphipyra pyramidoides,2,2.947530822,wood,26,generalist
+19,"Palthis asopialis (Guenée, 1854)",Palthis asopialis,1,0.266661007,wood,1,specialist
+19,"Idia aemula Hübner, 1814 ",Idia aemula,1,0.270575697,wood,4,generalist
+19,"Idia americalis (Guenée, 1854)",Idia americalis,1,0.001848247,wood,3,generalist
+19,"Athetis tarda (Guenée, 1852)",Athetis tarda,1,0.266661007,wood,2,generalist
+19,"Athetis tarda (Guenée, 1852)",Athetis tarda,4,0.266661007,wood,2,generalist
+19,"Nemoria lixaria (Guenée, [1858])",Nemoria lixaria,1,2.39075917,wood,3,generalist
+19,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,2,2.963779997,wood,26,generalist
+19,"Euchlaena amoenaria (Guenée, [1858])",Euchlaena amoenaria,1,0.002066443,wood,2,generalist
+19,"Zanclognatha cruralis (Guenée, 1854)",Zanclognatha cruralis,1,0.297221262,wood,5,generalist
+19,"Campaea perlata (Guenée, [1858]) ",Campaea perlata,1,2.411077054,wood,13,generalist
+19,"Hypsopygia olinalis (Guenée, 1854) ",Hypsopygia olinalis,1,0.268509254,wood,3,generalist
+19,"Datana integerrima Grote & Robinson, 1866",Datana integerrima,1,0.320966106,wood,11,generalist
+19,"Dichomeris inversella (Zeller, 1873)",Dichomeris inversella,1,0.006520206,wood,1,specialist
+19,"Elophila obliteralis (Walker, 1859)",Elophila obliteralis,2,0,wood,1,specialist
+19,"Eupithecia miserulata Grote, 1863",Eupithecia miserulata,1,2.408599889,wood,22,generalist
+19,"Grapholita packardi (Zeller, 1875)",Grapholita packardi,1,0.031394533,wood,5,generalist
+19,"Homorthodes lindseyi (Benjamin, 1922)",Homorthodes lindseyi,1,0.26872745,wood,2,generalist
+19,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,2,2.95974979,wood,23,generalist
+19,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,3,2.95974979,wood,23,generalist
+19,"Hypena scabra (Fabricius, 1798) ",Hypena scabra,1,2.139833934,wood,10,generalist
+19,"Lacinipolia renigera (Stephens, 1829)",Lacinipolia renigera,1,0.001848247,wood,4,generalist
+19,"Lacinipolia renigera (Stephens, 1829) ",Lacinipolia renigera,1,0.001848247,wood,4,generalist
+19,"Natada nasoni (Grote, 1876)",Natada nasoni,2,0.305897757,wood,8,generalist
+19,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,3,0.004248402,wood,1,specialist
+19,"Paonias myops (Smith, 1797)",Paonias myops,1,2.134468883,wood,11,generalist
+19,"Paralobesia liriodendrana (Kearfott, 1904)",Paralobesia liriodendrana,1,0.907001672,wood,2,generalist
+19,"Phaecasiophora confixana (Walker, 1863)",Phaecasiophora confixana,2,0.037824894,wood,1,specialist
+19,"Platynota idaeusalis (Walker, 1859)",Platynota idaeusalis,1,0.024604792,wood,10,generalist
+19,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,5,2.419471178,wood,8,generalist
+19,"Pyrrharctia isabella (Smith, 1797)",Pyrrharctia isabella,1,2.125009451,wood,8,generalist
+19,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,6,0,wood,2,generalist
+19,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,1,0.515712326,wood,1,specialist
+19,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,2,0.515712326,wood,1,specialist
+19,"Xestia dolosa Franclemont, 1980",Xestia dolosa,1,2.135867904,wood,8,generalist
+19,"Yponomeuta multipunctella (Clemens, 1860)",Yponomeuta multipunctella,1,0,wood,1,specialist
+19,"Pseudeustrotia carneola (Guenée, 1852)",Pseudeustrotia carneola,1,0.266661007,wood,1,specialist
+20,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,1,4.951338893,wood,26,generalist
+20,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,2,4.951338893,wood,26,generalist
+20,"Amphipyra pyramidoides Guenée, 1852 ",Amphipyra pyramidoides,1,4.88169591,wood,26,generalist
+20,"Palthis asopialis (Guenée, 1854)",Palthis asopialis,1,0.000218196,wood,1,specialist
+20,"Zanclognatha cruralis (Guenée, 1854)",Zanclognatha cruralis,3,0.05476716,wood,5,generalist
+20,"Abagrotis alternata (Grote, 1864)",Abagrotis alternata,1,0.008406959,wood,9,generalist
+20,Abagrotis anchocelioides ,Abagrotis anchocelioides,1,0,wood,2,generalist
+20,"Hypsopygia olinalis (Guenée, 1854)",Hypsopygia olinalis,1,0.000218196,wood,3,generalist
+20,"Melanolophia canadaria (Guenée, [1858]) ",Melanolophia canadaria,1,4.951338893,wood,26,generalist
+20,"Udea rubigalis (Guenée, 1854)",Udea rubigalis,1,0.001026804,wood,1,specialist
+20,"Antaeotricha schlaegeri (Zeller, 1854)",Antaeotricha schlaegeri,2,0.000218196,wood,2,generalist
+20,"Chionodes obscurusella (Chambers, 1872)",Chionodes obscurusella,1,2.879787426,wood,1,specialist
+20,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,1,1.989933381,wood,4,generalist
+20,"Chionodes thoraceochrella (Chambers, 1872)",Chionodes thoraceochrella,12,1.989933381,wood,4,generalist
+20,"Clemensia albata Packard, 1864",Clemensia albata,1,0,wood,2,generalist
+20,"Coleophora rosacella Clemens, 186",Coleophora rosacella,1,0.001026804,wood,1,specialist
+20,"Colocasia flavicornis (Smith, 1884)",Colocasia flavicornis,1,2.934965308,wood,8,generalist
+20,"Cydia latiferreana (Walsingham, 1879) ",Cydia latiferreana,1,0.05476716,wood,7,generalist
+20,"Epiblema strenuana (Walker, 1863)",Epiblema strenuana,1,0,wood,1,specialist
+20,"Homorthodes lindseyi (Benjamin, 1922)",Homorthodes lindseyi,1,0.000218196,wood,2,generalist
+20,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,17,4.92637472,wood,23,generalist
+20,"Lacinipolia renigera (Stephens, 1829)",Lacinipolia renigera,1,0,wood,4,generalist
+20,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,1,2.936659535,wood,12,generalist
+20,"Ochropleura implecta Lafontaine, 1998",Ochropleura implecta,1,0,wood,2,generalist
+20,"Orthonama obstipata (Fabricius, 1794)",Orthonama obstipata,1,0,wood,1,specialist
+20,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,1,0.000667423,wood,1,specialist
+20,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,2,0.000667423,wood,1,specialist
+20,"Platynota idaeusalis (Walker, 1859)",Platynota idaeusalis,1,0.010537577,wood,10,generalist
+20,"Pococera expandens (Walker, 1863)",Pococera expandens,1,0.000218196,wood,1,specialist
+20,Polygrammate hebraeicum,Polygrammate hebraeicum,1,0.016120823,wood,2,generalist
+20,Prochoerodes lineola,Prochoerodes lineola,1,2.889875776,wood,18,generalist
+20,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,1,2.934965308,wood,8,generalist
+20,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,2,2.934965308,wood,8,generalist
+20,"Pyrrharctia isabella (Smith, 1797)",Pyrrharctia isabella,3,2.882546962,wood,8,generalist
+20,"Redectis vitrea (Grote, 1878)",Redectis vitrea,1,0,wood,1,specialist
+20,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,2,0,wood,2,generalist
+20,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,2,1.989715185,wood,1,specialist
+20,"Scopula limboundata (Haworth, 1809)",Scopula limboundata,1,0.007110618,wood,9,generalist
+20,"Sonia canadana McDunnough, 1925",Sonia canadana,2,2.879787426,wood,1,specialist
+20,Speranza pustularia,Speranza pustularia,1,2.880005622,wood,4,generalist
+20,"Xestia dolosa Franclemont, 1980",Xestia dolosa,1,2.88965758,wood,8,generalist
+20,"Anavitrinella pampinaria (Guenée, [1858]) ",Anavitrinella pampinaria,1,2.890953921,wood,20,generalist
+20,"Athetis tarda (Guenée, 1852)",Athetis tarda,1,0.000218196,wood,2,generalist
+20,"Athetis tarda (Guenée, 1852)",Athetis tarda,4,0.000218196,wood,2,generalist
+20,"Desmia funeralis (Hübner, 1796)",Desmia funeralis,2,0,wood,2,generalist
+20,"Palthis asopialis (Guenée, 1854) ",Palthis asopialis,1,0.000218196,wood,1,specialist
+21,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,2,1.590519447,wood,26,generalist
+21,"Cabera variolaria Guenée, [1858]",Cabera variolaria,1,0.457620887,wood,2,generalist
+21,"Zanclognatha cruralis (Guenée, 1854)",Zanclognatha cruralis,1,0.652546798,wood,5,generalist
+21,"Anavitrinella pampinaria (Guenée, [1858])",Anavitrinella pampinaria,2,1.542567699,wood,20,generalist
+21,"Orthotaenia undulana ([Denis & Schiffermüller], 1775)",Orthotaenia undulana,2,1.545904813,wood,17,generalist
+21,"Lomographa vestaliata (Guenée, [1858])",Lomographa vestaliata,1,1.218957573,wood,10,generalist
+21,"Acronicta afflicta (Grote, 1864) ",Acronicta afflicta,1,0.659169684,wood,2,generalist
+21,"Agrotis ipsilon (Hufnagel, 1766)",Agrotis ipsilon,1,0.523901087,wood,4,generalist
+21,"Ancylis burgessiana (Zeller, 1875)",Ancylis burgessiana,1,1.116123148,wood,4,generalist
+21,"Besma quercivoraria (Guenée, [1858])",Besma quercivoraria,1,0.772336324,wood,7,generalist
+21,"Hyperstrotia nana (Hübner, 1818)",Hyperstrotia nana,1,0.777829725,wood,4,generalist
+21,"Athetis tarda (Guenée, 1852)",Athetis tarda,2,0.652546798,wood,2,generalist
+21,"Udea rubigalis (Guenée, 1854)",Udea rubigalis,2,0,wood,1,specialist
+21,"Antaeotricha schlaegeri (Zeller, 1854)",Antaeotricha schlaegeri,1,0.652546798,wood,2,generalist
+21,"Argyrotaenia velutinana (Walker, 1863)",Argyrotaenia velutinana,1,1.457805026,wood,18,generalist
+21,"Arogalea cristifasciella (Chambers, 1878)",Arogalea cristifasciella,1,0.652546798,wood,1,specialist
+21,Baileya australis,Baileya australis,1,0.006622886,wood,1,specialist
+21,"Cleora sublunaria (Guenée, [1858])",Cleora sublunaria,1,1.136659229,wood,7,generalist
+21,"Orthodes majuscula Herrich-Schäffer, 1868",Orthodes majuscula,1,0,wood,2,generalist
+21,"Acronicta insularis (Herrich-Schäffer, 1868)",Acronicta insularis,1,0,wood,1,specialist
+21,"Acronicta insularis (Herrich-Schäffer, 1868)",Acronicta insularis,2,0,wood,1,specialist
+21,"Baileya australis (Grote, 1881)",Baileya australis,1,0.006622886,wood,1,specialist
+21,"Pero ancetaria (Hübner, 1806)",Pero ancetaria,2,0.577410413,wood,5,generalist
+21,"Baileya ophthalmica (Guenée, 1852)",Baileya ophthalmica,1,0.027621029,wood,7,generalist
+21,"Udea rubigalis (Guenée, 1854) ",Udea rubigalis,2,0,wood,1,specialist
+21,"Eulithis gracilineata (Guenée, [1858]) ",Eulithis gracilineata,1,0.016326184,wood,3,generalist
+21,"Anavitrinella pampinaria (Guenée, [1858])",Anavitrinella pampinaria,3,1.542567699,wood,20,generalist
+21,"Baileya australis (Grote, 1881)",Baileya australis,2,0.006622886,wood,1,specialist
+21,"Balsa tristrigella (Walker, 1866)",Balsa tristrigella,1,0.011551545,wood,3,generalist
+21,"Blastobasis glandulella (Riley, 1871)",Blastobasis glandulella,1,0.658502261,wood,3,generalist
+21,"Bucculatrix coronatella Clemens, 1860 ",Bucculatrix coronatella,1,0,wood,1,specialist
+21,"Caenurgina erechtea (Cramer, 1780)",Caenurgina erechtea,1,0.061659582,wood,1,specialist
+21,"Caenurgina erechtea (Cramer, 1780)",Caenurgina erechtea,2,0.061659582,wood,1,specialist
+21,Cameraria quercivorella,Cameraria quercivorella,1,0.652546798,wood,1,specialist
+21,"Chionodes pereyra Clarke, 1947",Chionodes pereyra,1,0.652546798,wood,1,specialist
+21,"Coleophora atromarginata Braun, 1914 ",Coleophora atromarginata,1,1.130703766,wood,6,generalist
+21,"Coleotechnites florae (Freeman, 1960) ",Coleotechnites florae,1,0.13481937,wood,1,specialist
+21,"Colocasia flavicornis (Smith, 1884)",Colocasia flavicornis,1,0.673544941,wood,8,generalist
+21,"Colocasia propinquilinea (Grote, 1873)",Colocasia propinquilinea,1,0.805450754,wood,10,generalist
+21,"Cyclophora packardi (Prout, 1936)",Cyclophora packardi,1,0.71420638,wood,4,generalist
+21,"Cydia latiferreana (Walsingham, 1879) ",Cydia latiferreana,2,1.122746034,wood,7,generalist
+21,"Datana angusii Grote & Robinson, 1866",Datana angusii,1,0.720829266,wood,8,generalist
+21,Datana ministra,Datana ministra,1,1.419402555,wood,23,generalist
+21,"Dryocampa rubicunda (Fabricius, 1793) ",Dryocampa rubicunda,1,0.659631746,wood,5,generalist
+21,"Epiblema strenuana (Walker, 1863)",Epiblema strenuana,1,0.13481937,wood,1,specialist
+21,"Episimus argutana (Clemens, 1860)",Episimus argutana,1,0.166457768,wood,8,generalist
+21,"Eubaphe mendica (Walker, 1854) ",Eubaphe mendica,1,0.062121644,wood,2,generalist
+21,"Eucopina tocullionana (Heinrich, 1920)",Eucopina tocullionana,2,0.13481937,wood,2,generalist
+21,"Eudryas grata (Fabricius, 1793)",Eudryas grata,2,0.004774639,wood,3,generalist
+21,"Grapholita packardi (Zeller, 1875)",Grapholita packardi,2,0.530832014,wood,5,generalist
+21,"Heterocampa guttivitta (Walker, 1855)",Heterocampa guttivitta,1,1.442556986,wood,27,generalist
+21,Heterocampa umbrata,Heterocampa umbrata,1,0.652546798,wood,5,generalist
+21,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,3,1.500982136,wood,23,generalist
+21,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,9,1.500982136,wood,23,generalist
+21,"Hypena scabra (Fabricius, 1798) ",Hypena scabra,1,0.597741133,wood,10,generalist
+21,Hyphantria cunea,Hyphantria cunea,5,1.761135771,wood,48,generalist
+21,"Hyphantria cunea (Drury, 1773)",Hyphantria cunea,17,1.761135771,wood,48,generalist
+21,"Lacinipolia renigera (Stephens, 1829)",Lacinipolia renigera,1,0.177585758,wood,4,generalist
+21,"Lacinipolia renigera (Stephens, 1829)",Lacinipolia renigera,2,0.177585758,wood,4,generalist
+21,"Lacinipolia renigera (Stephens, 1829) ",Lacinipolia renigera,2,0.177585758,wood,4,generalist
+21,"Lascoria ambigualis (Walker, 1866) ",Lascoria ambigualis,1,0.658964323,wood,3,generalist
+21,Macaria aemulataria,Macaria aemulataria,2,0.464705835,wood,5,generalist
+21,"Macaria bisignata Walker, 1866",Macaria bisignata,1,0.13481937,wood,3,generalist
+21,"Macaria bisignata Walker, 1866",Macaria bisignata,2,0.13481937,wood,3,generalist
+21,"Macaria bisignata Walker, 1866 ",Macaria bisignata,4,0.13481937,wood,3,generalist
+21,"Macaria minorata Packard, 1873 ",Macaria minorata,1,0.13481937,wood,2,generalist
+21,"Macaria minorata Packard, 1873 ",Macaria minorata,4,0.13481937,wood,2,generalist
+21,"Malacosoma americana (Fabricius, 1793)",Malacosoma americana,3,1.416270803,wood,24,generalist
+21,Meganola phylla,Meganola phylla,1,0.652546798,wood,2,generalist
+21,"Meganola phylla (Dyar, 1898)",Meganola phylla,2,0.652546798,wood,2,generalist
+21,"Meganola phylla (Dyar, 1898) ",Meganola phylla,1,0.652546798,wood,2,generalist
+21,Nadata gibbosa,Nadata gibbosa,1,1.172956752,wood,12,generalist
+21,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,1,1.172956752,wood,12,generalist
+21,"Ochropleura implecta Lafontaine, 1998 ",Ochropleura implecta,1,0.061659582,wood,2,generalist
+21,"Olethreutes nigranum (Heinrich, 1923) ",Olethreutes nigranum,1,0.000462062,wood,3,generalist
+21,"Orgyia leucostigma (Smith, 1797)",Orgyia leucostigma,1,1.756515153,wood,50,generalist
+21,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,1,0.05590948,wood,1,specialist
+21,"Pandemis lamprosana (Robinson, 1869)",Pandemis lamprosana,1,1.317954317,wood,14,generalist
+21,"Perimede erransella Chambers, 1874 ",Perimede erransella,3,0.778086426,wood,4,generalist
+21,"Phaecasiophora confixana (Walker, 1863)",Phaecasiophora confixana,2,0.010781442,wood,1,specialist
+21,Phalaenostola eumelusalis,Phalaenostola eumelusalis,1,0,wood,2,generalist
+21,"Platynota idaeusalis (Walker, 1859)",Platynota idaeusalis,1,0.734960657,wood,10,generalist
+21,"Pococera expandens (Walker, 1863)",Pococera expandens,1,0.652546798,wood,1,specialist
+21,Prochoerodes lineola,Prochoerodes lineola,2,1.498517806,wood,18,generalist
+21,"Prochoerodes lineola (Goeze, 1781) ",Prochoerodes lineola,1,1.498517806,wood,18,generalist
+21,"Pyrrharctia isabella (Smith, 1797)",Pyrrharctia isabella,1,0.604877421,wood,8,generalist
+21,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,1,0,wood,2,generalist
+21,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,1,0,wood,1,specialist
+21,"Scopula limboundata (Haworth, 1809)",Scopula limboundata,1,0.667717827,wood,9,generalist
+21,"Tetanolita floridana Smith, 1895",Tetanolita floridana,1,0.652546798,wood,2,generalist
+21,Xanthotype sospeta,Xanthotype sospeta,1,0.659400715,wood,10,generalist
+21,"Zale helata (Smith, 1908)",Zale helata,1,0.13481937,wood,1,specialist
+21,Zanclognatha cruralis,Zanclognatha cruralis,1,0.652546798,wood,5,generalist
+21,"Heterophleps triguttaria Herrich-Schäffer, [1854]",Heterophleps triguttaria,1,0.000462062,wood,1,specialist
+21,"Pseudeustrotia carneola (Guenée, 1852) ",Pseudeustrotia carneola,1,0.652546798,wood,1,specialist
+21,"Anavitrinella pampinaria (Guenée, [1858]) ",Anavitrinella pampinaria,1,1.542567699,wood,20,generalist
+21,"Anavitrinella pampinaria (Guenée, [1858]) ",Anavitrinella pampinaria,2,1.542567699,wood,20,generalist
+21,"Bleptina caradrinalis Guenée, 1854",Bleptina caradrinalis,1,1.110167685,wood,4,generalist
+22,"Anavitrinella pampinaria (Guenée, [1858]) ",Anavitrinella pampinaria,1,0.666036435,wood,20,generalist
+22,"Melanolophia canadaria (Guenée, [1858]) ",Melanolophia canadaria,1,0.887684919,wood,26,generalist
+22,"Eulithis gracilineata (Guenée, [1858]) ",Eulithis gracilineata,1,0,wood,3,generalist
+22,"Palthis angulalis (Hübner, 1796)",Palthis angulalis,1,0.563202011,wood,18,generalist
+22,"Athetis tarda (Guenée, 1852)",Athetis tarda,1,0.24453338,wood,2,generalist
+22,"Desmia funeralis (Hübner, 1796) ",Desmia funeralis,2,0,wood,2,generalist
+22,"Adoneta spinuloides (Herrich-Schäffer, 1854)",Adoneta spinuloides,1,0.732175449,wood,14,generalist
+22,"Cabera variolaria Guenée, [1858]",Cabera variolaria,2,0.318617291,wood,2,generalist
+22,"Elaphria grata Hübner, 1818",Elaphria grata,1,0.24453338,wood,4,generalist
+22,"Orthodes majuscula Herrich-Schäffer, 1868",Orthodes majuscula,1,0.002053608,wood,2,generalist
+22,"Heterophleps triguttaria Herrich-Schäffer, [1854]",Heterophleps triguttaria,1,0,wood,1,specialist
+22,"Udea rubigalis (Guenée, 1854)",Udea rubigalis,1,0,wood,1,specialist
+22,"Bleptina caradrinalis Guenée, 1854 ",Bleptina caradrinalis,1,0.563150671,wood,4,generalist
+22,"Spodoptera ornithogalli (Guenée, 1852)",Spodoptera ornithogalli,1,0.49912944,wood,5,generalist
+22,"Eulithis gracilineata (Guenée, [1858])",Eulithis gracilineata,1,0,wood,3,generalist
+22,"Catocala ultronia (Hübner, 1823)",Catocala ultronia,1,0.58846139,wood,7,generalist
+22,Acleris schalleriana,Acleris schalleriana,1,0.054523294,wood,3,generalist
+22,"Nemoria bistriaria Hübner, 1818",Nemoria bistriaria,1,0.615825718,wood,5,generalist
+22,Acronicta hasta,Acronicta hasta,1,0.563150671,wood,3,generalist
+22,"Actias luna (Linnaeus, 1758)",Actias luna,1,0.872847602,wood,22,generalist
+22,"Agrotis ipsilon (Hufnagel, 1766)",Agrotis ipsilon,1,0.327293785,wood,4,generalist
+22,"Agrotis ipsilon (Hufnagel, 1766) ",Agrotis ipsilon,1,0.327293785,wood,4,generalist
+22,"Athetis tarda (Guenée, 1852) ",Athetis tarda,2,0.24453338,wood,3,generalist
+22,"Cyclophora pendulinaria (Guenée, [1858])",Cyclophora pendulinaria,1,0.24704905,wood,4,generalist
+22,"Amorpha juglandis (Smith, 1797)",Amorpha juglandis,1,0.092630559,wood,7,generalist
+22,Anavitrinella pampinaria,Anavitrinella pampinaria,6,0.666036435,wood,20,generalist
+22,"Ancylis platanana (Clemens, 1860)",Ancylis platanana,2,0.351783061,wood,3,generalist
+22,Antaeotricha schlaegeri,Antaeotricha schlaegeri,6,0.24704905,wood,2,generalist
+22,Apatelodes torrefacta,Apatelodes torrefacta,1,0.705825091,wood,17,generalist
+22,"Argyrotaenia velutinana (Walker, 1863)",Argyrotaenia velutinana,1,0.628866129,wood,18,generalist
+22,Baileya australis,Baileya australis,2,0.041482883,wood,1,specialist
+22,Baileya australis,Baileya australis,3,0.041482883,wood,1,specialist
+22,"Balsa tristrigella (Walker, 1866)",Balsa tristrigella,1,0.008676494,wood,3,generalist
+22,"Blastobasis glandulella (Riley, 1871)",Blastobasis glandulella,1,0.248691936,wood,3,generalist
+22,"Choristoneura obsoletana (Walker, 1863) ",Choristoneura obsoletana,1,0.014529277,wood,4,generalist
+22,Choristoneura rosaceana,Choristoneura rosaceana,3,0.730840604,wood,29,generalist
+22,"Choristoneura rosaceana (Harris, 1841)",Choristoneura rosaceana,1,0.730840604,wood,29,generalist
+22,"Choristoneura rosaceana (Harris, 1841)",Choristoneura rosaceana,3,0.730840604,wood,29,generalist
+22,Chytolita morbidalis,Chytolita morbidalis,1,0.246586988,wood,3,generalist
+22,"Coleophora pruniella Clemens, 1861 ",Coleophora pruniella,1,0.378685327,wood,7,generalist
+22,"Colocasia flavicornis (Smith, 1884)",Colocasia flavicornis,1,0.293627448,wood,8,generalist
+22,Datana ministra,Datana ministra,2,0.692643494,wood,23,generalist
+22,"Dichomeris inversella (Zeller, 1873)",Dichomeris inversella,2,0,wood,1,specialist
+22,"Elaphria versicolor (Grote, 1875)",Elaphria versicolor,1,0.224510702,wood,7,generalist
+22,"Epiblema strenuana (Walker, 1863)",Epiblema strenuana,1,0,wood,1,specialist
+22,Epimecis hortaria,Epimecis hortaria,2,0.02798041,wood,5,generalist
+22,"Epimecis hortaria (Fabricius, 1794)",Epimecis hortaria,3,0.02798041,wood,9,generalist
+22,"Episimus argutana (Clemens, 1860)",Episimus argutana,1,0.052572366,wood,8,generalist
+22,Euchlaena marginaria,Euchlaena marginaria,1,0.081066178,wood,9,generalist
+22,Eudryas grata,Eudryas grata,2,0.005236701,wood,3,generalist
+22,"Eudryas grata (Fabricius, 1793)",Eudryas grata,2,0.005236701,wood,3,generalist
+22,"Halysidota tessellaris (Smith, 1797)",Halysidota tessellaris,1,0.900109249,wood,29,generalist
+22,Herpetogramma pertextalis,Herpetogramma pertextalis,3,0,wood,6,generalist
+22,"Herpetogramma pertextalis (Lederer, 1863)",Herpetogramma pertextalis,2,0,wood,6,generalist
+22,"Heterocampa guttivitta (Walker, 1855)",Heterocampa guttivitta,1,0.932145534,wood,27,generalist
+22,Heterocampa obliqua,Heterocampa obliqua,1,0.24453338,wood,1,specialist
+22,Heterocampa umbrata,Heterocampa umbrata,3,0.24453338,wood,5,generalist
+22,Hypagyrtis unipunctata,Hypagyrtis unipunctata,4,0.791216681,wood,23,generalist
+22,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,4,0.791216681,wood,23,generalist
+22,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,5,0.791216681,wood,23,generalist
+22,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,6,0.791216681,wood,23,generalist
+22,Hypena madefactalis,Hypena madefactalis,1,0.041482883,wood,2,generalist
+22,"Hypena scabra (Fabricius, 1798)",Hypena scabra,1,0.384332749,wood,10,generalist
+22,Hyperstrotia nana,Hyperstrotia nana,3,0.248691936,wood,4,generalist
+22,"Hyperstrotia pervertens (Barnes & McDunnough, 1918)",Hyperstrotia pervertens,1,0.270575697,wood,3,generalist
+22,"Hyphantria cunea (Drury, 1773)",Hyphantria cunea,7,1.145874794,wood,48,generalist
+22,Iridopsis larvaria,Iridopsis larvaria,5,0.400966974,wood,12,generalist
+22,"Lacinipolia renigera (Stephens, 1829) ",Lacinipolia renigera,3,0.180512149,wood,4,generalist
+22,"Lochmaeus manteo Doubleday, 1841",Lochmaeus manteo,5,0.3274093,wood,12,generalist
+22,Lomographa vestaliata,Lomographa vestaliata,4,0.688215402,wood,10,generalist
+22,Macaria aemulataria,Macaria aemulataria,2,0.362615844,wood,5,generalist
+22,"Macaria bisignata Walker, 1866 ",Macaria bisignata,1,0.00251567,wood,3,generalist
+22,"Macaria minorata Packard, 1873",Macaria minorata,1,0,wood,2,generalist
+22,"Macaria multilineata Packard, 1873",Macaria multilineata,1,0.180512149,wood,1,specialist
+22,Macaria pustularia,Macaria pustularia,1,0.565666341,wood,4,generalist
+22,"Malacosoma americana (Fabricius, 1793)",Malacosoma americana,6,0.753070911,wood,24,generalist
+22,"Meganola phylla (Dyar, 1898)",Meganola phylla,2,0.270575697,wood,2,generalist
+22,Melanolophia canadaria,Melanolophia canadaria,9,0.887684919,wood,26,generalist
+22,Misogada unicolor,Misogada unicolor,1,0.107249681,wood,2,generalist
+22,Mocis texana,Mocis texana,1,0,wood,1,specialist
+22,Mythimna unipuncta,Mythimna unipuncta,1,0.008676494,wood,2,generalist
+22,Nadata gibbosa,Nadata gibbosa,1,0.621948036,wood,12,generalist
+22,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,1,0.621948036,wood,12,generalist
+22,"Nadata gibbosa (Smith, 1797) ",Nadata gibbosa,1,0.621948036,wood,12,generalist
+22,"Natada nasoni (Grote, 1876)",Natada nasoni,1,0.666459991,wood,8,generalist
+22,Nemoria lixaria,Nemoria lixaria,4,0.24453338,wood,3,generalist
+22,"Olethreutes nigranum (Heinrich, 1923) ",Olethreutes nigranum,1,0,wood,3,generalist
+22,Omphalocera munroei,Omphalocera munroei,2,0,wood,1,specialist
+22,Oreana unicolorella,Oreana unicolorella,1,0.255725544,wood,8,generalist
+22,Orgyia leucostigma,Orgyia leucostigma,7,1.157888401,wood,50,generalist
+22,Palpita magniferalis,Palpita magniferalis,2,0.016634225,wood,1,specialist
+22,Palthis asopialis,Palthis asopialis,3,0.24453338,wood,2,generalist
+22,"Paonias myops (Smith, 1797)",Paonias myops,1,0.339256052,wood,11,generalist
+22,"Paralobesia liriodendrana (Kearfott, 1904)",Paralobesia liriodendrana,1,0.020536081,wood,2,generalist
+22,Pero ancetaria,Pero ancetaria,1,0.321132961,wood,5,generalist
+22,"Phaecasiophora confixana (Walker, 1863)",Phaecasiophora confixana,1,0,wood,1,specialist
+22,"Phaecasiophora confixana (Walker, 1863)",Phaecasiophora confixana,5,0,wood,1,specialist
+22,"Platynota idaeusalis (Walker, 1859)",Platynota idaeusalis,2,0.400966974,wood,10,generalist
+22,"Platynota idaeusalis (Walker, 1859) ",Platynota idaeusalis,1,0.400966974,wood,10,generalist
+22,Pleuroprucha insulsaria,Pleuroprucha insulsaria,1,0.30321523,wood,7,generalist
+22,Pococera militella,Pococera militella,1,0.107249681,wood,2,generalist
+22,Polygrammate hebraeicum,Polygrammate hebraeicum,1,0.052572366,wood,2,generalist
+22,"Prochoerodes lineola (Goeze, 1781)",Prochoerodes lineola,1,0.875555798,wood,18,generalist
+22,"Proteoteras aesculana Riley, 1881",Proteoteras aesculana,2,0.037991749,wood,4,generalist
+22,Psilocorsis reflexella,Psilocorsis reflexella,1,0.275144975,wood,8,generalist
+22,Schizura leptinoides,Schizura leptinoides,1,0.721188646,wood,14,generalist
+22,Sciota celtidella,Sciota celtidella,1,0,wood,1,specialist
+22,"Scopula limboundata (Haworth, 1809)",Scopula limboundata,2,0.339307392,wood,9,generalist
+22,"Scopula limboundata (Haworth, 1809) ",Scopula limboundata,2,0.339307392,wood,9,generalist
+22,"Sonia canadana McDunnough, 1925",Sonia canadana,5,0,wood,1,specialist
+22,"Tetanolita floridana Smith, 1895 ",Tetanolita floridana,2,0.24453338,wood,2,generalist
+22,"Tortricidia testacea Packard, 1864",Tortricidia testacea,1,0.64843958,wood,11,generalist
+22,"Xestia dolosa Franclemont, 1980",Xestia dolosa,1,0.075213395,wood,8,generalist
+22,"Xestia dolosa Franclemont, 1980",Xestia dolosa,4,0.075213395,wood,8,generalist
+22,Zanclognatha cruralis,Zanclognatha cruralis,1,0.272629305,wood,5,generalist
+22,"Pseudeustrotia carneola (Guenée, 1852).",Pseudeustrotia carneola,1,0.24453338,wood,1,specialist
+22,"Pseudohermonassa bicarnea (Guenée, 1852) ",Pseudohermonassa bicarnea,3,0.00251567,wood,3,generalist
+22,"Idia americalis (Guenée, 1854) ",Idia americalis,1,0,wood,3,generalist
+22,"Pseudeustrotia carneola (Guenée, 1852)",Pseudeustrotia carneola,2,0.24453338,wood,1,specialist
+22,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,1,0.887684919,wood,26,generalist
+22,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,3,0.887684919,wood,26,generalist
+23,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,3,2.139846769,wood,26,generalist
+23,"Pero ancetaria (Hübner, 1806)",Pero ancetaria,1,1.588132128,wood,5,generalist
+23,"Eulithis gracilineata (Guenée, [1858])",Eulithis gracilineata,2,0.00513402,wood,3,generalist
+23,"Zanclognatha cruralis (Guenée, 1854)",Zanclognatha cruralis,2,0.163890758,wood,5,generalist
+23,"Zanclognatha cruralis (Guenée, 1854) ",Zanclognatha cruralis,1,0.163890758,wood,5,generalist
+23,"Acronicta insularis (Herrich-Schäffer, 1868)",Acronicta insularis,1,0,wood,1,specialist
+23,"Acronicta insularis (Herrich-Schäffer, 1868)",Acronicta insularis,2,0,wood,1,specialist
+23,"Athetis tarda (Guenée, 1852)",Athetis tarda,1,0.147256533,wood,2,generalist
+23,"Melanolophia canadaria (Guenée, [1858]) ",Melanolophia canadaria,1,2.139846769,wood,26,generalist
+23,"Iridopsis larvaria (Guenée, [1858])",Iridopsis larvaria,1,1.758453247,wood,12,generalist
+23,"Catastega aceriella –  – Clemens, [1862] ",Catastega aceriella,2,0.174325654,wood,4,generalist
+23,"Nematocampa resistaria (Herrich-Schäffer, [1856])",Nematocampa resistaria,1,1.915259058,wood,21,generalist
+23,"Palthis angulalis (Hübner, 1796) ",Palthis angulalis,4,1.89170674,wood,18,generalist
+23,"Anavitrinella pampinaria (Guenée, [1858])",Anavitrinella pampinaria,1,1.973016784,wood,20,generalist
+23,"Elaphria grata Hübner, 1818",Elaphria grata,1,0.147256533,wood,4,generalist
+23,"Panopoda rufimargo (Hübner, 1818) ",Panopoda rufimargo,1,1.705585674,wood,5,generalist
+23,"Cabera variolaria Guenée, [1858]",Cabera variolaria,2,1.502843218,wood,2,generalist
+23,"Orthodes majuscula Herrich-Schäffer, 1868",Orthodes majuscula,1,0,wood,2,generalist
+23,"Pseudeustrotia carneola (Guenée, 1852)",Pseudeustrotia carneola,2,0.147256533,wood,1,specialist
+23,"Nemoria bistriaria Hübner, 1818",Nemoria bistriaria,1,1.838697982,wood,5,generalist
+23,"Orthotaenia undulana ([Denis & Schiffermüller], 1775)",Orthotaenia undulana,1,2.012330543,wood,17,generalist
+23,"Xanthorhoe lacustrata  (Guenée, [1858]) ",Xanthorhoe lacustrata,2,0.08142556,wood,3,generalist
+23,"Ectropis crepuscularia ([Denis & Schiffermüller], 1775)",Ectropis crepuscularia,2,1.934473128,wood,20,generalist
+23,"Athetis tarda (Guenée, 1852) ",Athetis tarda,3,0.147256533,wood,3,generalist
+23,"Pseudeustrotia carneola (Guenée, 1852) ",Pseudeustrotia carneola,2,0.147256533,wood,1,specialist
+23,"Spodoptera ornithogalli (Guenée, 1852)",Spodoptera ornithogalli,5,1.642385886,wood,5,generalist
+23,"Acronicta americana (Harris, 1841)",Acronicta americana,1,2.250792945,wood,23,generalist
+23,"Acronicta ovata (Grote, 1873)",Acronicta ovata,1,0.256226111,wood,6,generalist
+23,"Protoboarmia porcelaria (Guenée, [1858])",Protoboarmia porcelaria,1,0.242723638,wood,11,generalist
+23,"Aethalura intertexta (Walker, 1860)",Aethalura intertexta,1,1.728239538,wood,8,generalist
+23,"Agrotis ipsilon (Hufnagel, 1766) ",Agrotis ipsilon,1,1.583344654,wood,4,generalist
+23,"Amorpha juglandis (Smith, 1797)",Amorpha juglandis,1,0.220441991,wood,7,generalist
+23,Anavitrinella pampinaria,Anavitrinella pampinaria,2,1.973016784,wood,20,generalist
+23,"Ancylis burgessiana (Zeller, 1875)",Ancylis burgessiana,1,1.650099751,wood,4,generalist
+23,"Ancylis fuscociliana (Clemens, 1864)",Ancylis fuscociliana,2,1.737429434,wood,7,generalist
+23,"Apantesis virgo (Linnaeus, 1758)",Apantesis virgo,1,0,wood,1,specialist
+23,Apatelodes torrefacta,Apatelodes torrefacta,1,2.000689153,wood,17,generalist
+23,Argyrotaenia velutinana,Argyrotaenia velutinana,1,1.856564371,wood,18,generalist
+23,"Argyrotaenia velutinana (Walker, 1863)",Argyrotaenia velutinana,2,1.856564371,wood,18,generalist
+23,Baileya australis,Baileya australis,1,0.031805255,wood,1,specialist
+23,"Baileya australis (Grote, 1881)",Baileya australis,1,0.031805255,wood,1,specialist
+23,"Balsa tristrigella (Walker, 1866)",Balsa tristrigella,1,0.081938962,wood,3,generalist
+23,"Choristoneura rosaceana (Harris, 1841) ",Choristoneura rosaceana,1,1.985813329,wood,29,generalist
+23,Chytolita morbidalis,Chytolita morbidalis,4,0.147256533,wood,3,generalist
+23,"Coleophora pruniella Clemens, 1861",Coleophora pruniella,1,1.700117943,wood,7,generalist
+23,Datana angusii,Datana angusii,3,0.341566361,wood,8,generalist
+23,"Datana integerrima Grote & Robinson, 1866",Datana integerrima,4,0.305833581,wood,11,generalist
+23,Datana ministra,Datana ministra,2,2.061078065,wood,23,generalist
+23,Dichomeris inversella,Dichomeris inversella,1,0.007046443,wood,1,specialist
+23,"Drepana arcuata Walker, 1855 ",Drepana arcuata,1,0.078139787,wood,1,specialist
+23,"Dryocampa rubicunda (Fabricius, 1793)",Dryocampa rubicunda,1,0.202845136,wood,5,generalist
+23,Ectropis crepuscularia,Ectropis crepuscularia,3,1.934473128,wood,20,generalist
+23,"Elophila obliteralis (Walker, 1859) ",Elophila obliteralis,1,0,wood,1,specialist
+23,Epimecis hortaria,Epimecis hortaria,1,0.166367924,wood,5,generalist
+23,Euchlaena marginaria,Euchlaena marginaria,1,0.165122923,wood,9,generalist
+23,"Eudryas grata (Fabricius, 1793)",Eudryas grata,1,0.001848247,wood,3,generalist
+23,"Eupithecia miserulata Grote, 1863",Eupithecia miserulata,1,2.021494768,wood,22,generalist
+23,"Gretchena watchungana (Kearfott, 1907) ",Gretchena watchungana,1,0.22539632,wood,2,generalist
+23,"Halysidota tessellaris (Smith, 1797)",Halysidota tessellaris,1,2.311438558,wood,29,generalist
+23,"Halysidota tessellaris (Smith, 1797) ",Halysidota tessellaris,1,2.311438558,wood,29,generalist
+23,"Herpetogramma pertextalis (Lederer, 1863)",Herpetogramma pertextalis,1,0.010537576,wood,6,generalist
+23,Heterocampa obliqua,Heterocampa obliqua,1,0.147256533,wood,1,specialist
+23,Heterocampa umbrata,Heterocampa umbrata,1,0.147256533,wood,5,generalist
+23,Hypagyrtis unipunctata,Hypagyrtis unipunctata,5,1.969641166,wood,23,generalist
+23,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,2,1.969641166,wood,23,generalist
+23,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,3,1.969641166,wood,23,generalist
+23,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,7,1.969641166,wood,23,generalist
+23,"Hypena palparia Walker, 1861 ",Hypena palparia,1,0.234072814,wood,4,generalist
+23,Hyphantria cunea,Hyphantria cunea,1,2.564263381,wood,48,generalist
+23,"Hyphantria cunea (Drury, 1773)",Hyphantria cunea,7,2.564263381,wood,48,generalist
+23,Iridopsis larvaria,Iridopsis larvaria,5,1.758453247,wood,12,generalist
+23,"Lacinipolia renigera (Stephens, 1829)",Lacinipolia renigera,2,0.134459988,wood,4,generalist
+23,"Lascoria ambigualis (Walker, 1866)",Lascoria ambigualis,1,0.150388285,wood,3,generalist
+23,"Lascoria ambigualis (Walker, 1866) ",Lascoria ambigualis,1,0.150388285,wood,3,generalist
+23,Ledaea perditalis,Ledaea perditalis,1,0,wood,1,specialist
+23,Lochmaeus manteo,Lochmaeus manteo,1,0.385975636,wood,12,generalist
+23,Lomographa vestaliata,Lomographa vestaliata,2,1.891488544,wood,10,generalist
+23,Macaria multilineata,Macaria multilineata,2,0.134459988,wood,1,specialist
+23,"Malacosoma americana (Fabricius, 1793)",Malacosoma americana,1,2.134135172,wood,24,generalist
+23,"Meganola minuscula (Zeller, 1872)",Meganola minuscula,1,0.147256533,wood,2,generalist
+23,Melanolophia canadaria,Melanolophia canadaria,5,2.139846769,wood,26,generalist
+23,Nadata gibbosa,Nadata gibbosa,2,1.785612213,wood,12,generalist
+23,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,1,1.785612213,wood,12,generalist
+23,Nematocampa resistaria,Nematocampa resistaria,1,1.915259058,wood,21,generalist
+23,"Ochropleura implecta Lafontaine, 1998",Ochropleura implecta,1,0,wood,2,generalist
+23,"Ochropleura implecta Lafontaine, 1998 ",Ochropleura implecta,1,0,wood,2,generalist
+23,"Olethreutes nigranum (Heinrich, 1923)",Olethreutes nigranum,1,0.014452267,wood,3,generalist
+23,"Olethreutes nigranum (Heinrich, 1923) ",Olethreutes nigranum,1,0.014452267,wood,3,generalist
+23,Omphalocera munroei,Omphalocera munroei,8,0.04576979,wood,1,specialist
+23,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,1,0.021152163,wood,1,specialist
+23,Palthis asopialis,Palthis asopialis,1,0.147256533,wood,2,generalist
+23,Pero ancetaria,Pero ancetaria,1,1.588132128,wood,5,generalist
+23,"Phalaenostola metonalis (Walker, 1859)",Phalaenostola metonalis,2,0.078139787,wood,3,generalist
+23,Phobetron pithecium,Phobetron pithecium,1,1.985505288,wood,15,generalist
+23,"Phyllocnistis liriodendronella Clemens, 1863",Phyllocnistis liriodendronella,1,0.07382721,wood,2,generalist
+23,"Platynota idaeusalis (Walker, 1859)",Platynota idaeusalis,1,1.719922425,wood,10,generalist
+23,"Platynota idaeusalis (Walker, 1859)",Platynota idaeusalis,2,1.719922425,wood,10,generalist
+23,Prochoerodes lineola,Prochoerodes lineola,1,2.017849615,wood,18,generalist
+23,"Prochoerodes lineola (Goeze, 1781)",Prochoerodes lineola,1,2.017849615,wood,18,generalist
+23,Pseudeustrotia carneola,Pseudeustrotia carneola,1,0.147256533,wood,1,specialist
+23,"Psilocorsis quercicella Clemens, 1860",Psilocorsis quercicella,2,0.163890758,wood,3,generalist
+23,"Psilocorsis reflexella Clemens, 1860",Psilocorsis reflexella,1,0.256482812,wood,8,generalist
+23,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,1,0.02289773,wood,2,generalist
+23,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,2,0.02289773,wood,2,generalist
+23,"Renia adspergillus (Bosc, [1800]) ",Renia adspergillus,3,0.02289773,wood,2,generalist
+23,"Sciota uvinella (Ragonot, 1887)",Sciota uvinella,1,0.082144323,wood,1,specialist
+23,"Scopula limboundata (Haworth, 1809)",Scopula limboundata,1,1.645158257,wood,9,generalist
+23,"Scopula limboundata (Haworth, 1809) ",Scopula limboundata,4,1.645158257,wood,9,generalist
+23,"Sonia canadana McDunnough, 1925",Sonia canadana,1,0.007149123,wood,1,specialist
+23,"Sparganothis sulfureana (Clemens, 1860)",Sparganothis sulfureana,1,1.627150681,wood,11,generalist
+23,Spilosoma virginica,Spilosoma virginica,1,1.661997843,wood,18,generalist
+23,"Spilosoma virginica (Fabricius, 1798",Spilosoma virginica,3,1.661997843,wood,18,generalist
+23,"Spilosoma virginica (Fabricius, 1798)",Spilosoma virginica,1,1.661997843,wood,18,generalist
+23,"Tetanolita floridana Smith, 1895",Tetanolita floridana,1,0.147256533,wood,2,generalist
+23,Tetracis crocallata,Tetracis crocallata,2,1.607692745,wood,8,generalist
+23,"Xanthotype urticaria Swett, 1918 ",Xanthotype urticaria,1,0.010383556,wood,5,generalist
+23,"Xestia dolosa Franclemont, 1980",Xestia dolosa,1,0.123088133,wood,8,generalist
+23,"Xestia dolosa Franclemont, 1980",Xestia dolosa,5,0.123088133,wood,8,generalist
+23,Zale horrida,Zale horrida,1,0.037285821,wood,1,specialist
+23,"Zanclognatha protumnusalis (Walker, 1859)",Zanclognatha protumnusalis,1,0.147256533,wood,4,generalist
+23,"Pseudeustrotia carneola (Guenée, 1852).",Pseudeustrotia carneola,6,0.147256533,wood,1,specialist
+24,"Eulithis gracilineata (Guenée, [1858]) ",Eulithis gracilineata,1,0,wood,3,generalist
+24,"Nematocampa resistaria (Herrich-Schäffer, [1856])",Nematocampa resistaria,3,1.830751673,wood,21,generalist
+24,"Pseudeustrotia carneola (Guenée, 1852)",Pseudeustrotia carneola,1,0.287389614,wood,1,specialist
+24,"Pseudeustrotia carneola (Guenée, 1852).",Pseudeustrotia carneola,4,0.287389614,wood,1,specialist
+24,"Desmia funeralis (Hübner, 1796)",Desmia funeralis,2,0,wood,2,generalist
+24,"Desmia funeralis (Hübner, 1796)",Desmia funeralis,3,0,wood,2,generalist
+24,"Isa textula (Herrich-Schäffer, 1854)",Isa textula,1,1.798047965,wood,11,generalist
+24,"Spodoptera ornithogalli (Guenée, 1852)",Spodoptera ornithogalli,2,0.737181121,wood,5,generalist
+24,"Athetis tarda (Guenée, 1852)",Athetis tarda,1,0.287389614,wood,2,generalist
+24,"Eudryas unio (Hübner, [1831]) ",Eudryas unio,1,0,wood,2,generalist
+24,"Palthis asopialis (Guenée, 1854) ",Palthis asopialis,2,0.287389614,wood,1,specialist
+24,"Melanolophia canadaria (Guenée, [1858])",Melanolophia canadaria,2,2.089467784,wood,26,generalist
+24,"Cabera variolaria Guenée, [1858]",Cabera variolaria,5,0.681271641,wood,2,generalist
+24,"Protoboarmia porcelaria (Guenée, [1858]) ",Protoboarmia porcelaria,1,1.116776324,wood,11,generalist
+24,"Orthotaenia undulana ([Denis & Schiffermüller], 1775)",Orthotaenia undulana,2,1.074832791,wood,17,generalist
+24,"Idia americalis (Guenée, 1854) ",Idia americalis,1,0,wood,3,generalist
+24,"Eulithis gracilineata (Guenée, [1858])",Eulithis gracilineata,3,0,wood,3,generalist
+24,"Athetis tarda (Guenée, 1852) ",Athetis tarda,2,0.287389614,wood,3,generalist
+24,"Anavitrinella pampinaria (Guenée, [1858]) ",Anavitrinella pampinaria,1,1.835628992,wood,20,generalist
+24,"Udea rubigalis (Guenée, 1854)",Udea rubigalis,4,0,wood,1,specialist
+24,"Bleptina caradrinalis Guenée, 1854 ",Bleptina caradrinalis,1,1.785366936,wood,4,generalist
+24,"Iridopsis larvaria (Guenée, [1858]) ",Iridopsis larvaria,1,1.548239378,wood,12,generalist
+24,"Hypoprepia fucosa Hübner, [1831] ",Hypoprepia fucosa,2,0.298941159,wood,5,generalist
+24,"Nemoria bistriaria Hübner, 1818",Nemoria bistriaria,1,1.177166648,wood,5,generalist
+24,"Digrammia gnophosaria (Guenée, [1858]) ",Digrammia gnophosaria,1,0,wood,1,specialist
+24,"Nemoria bistriaria Hübner, 1818 ",Nemoria bistriaria,1,1.177166648,wood,5,generalist
+24,"Pero ancetaria (Hübner, 1806)",Pero ancetaria,3,0.69395267,wood,5,generalist
+24,"Pero ancetaria (Hübner, 1806)",Pero ancetaria,4,0.69395267,wood,5,generalist
+24,"Acharia stimulea (Clemens, 1860)",Acharia stimulea,1,2.084693146,wood,31,generalist
+24,"Acronicta americana (Harris, 1841)",Acronicta americana,1,2.051732736,wood,23,generalist
+24,"Acronicta betulae (Riley, 1884)",Acronicta betulae,1,0.011551545,wood,1,specialist
+24,Apantesis nais,Apantesis nais,2,0.681271641,wood,2,generalist
+24,"Argyrotaenia mariana (Fernald, 1882) ",Argyrotaenia mariana,1,1.018101868,wood,11,generalist
+24,"Argyrotaenia velutinana (Walker, 1863)",Argyrotaenia velutinana,1,1.018101868,wood,18,generalist
+24,Baileya australis,Baileya australis,1,0.165071583,wood,1,specialist
+24,"Balsa tristrigella (Walker, 1866)",Balsa tristrigella,1,0.031882265,wood,3,generalist
+24,"Balsa tristrigella (Walker, 1866)",Balsa tristrigella,2,0.031882265,wood,3,generalist
+24,Blastobasis glandulella,Blastobasis glandulella,1,1.104095295,wood,3,generalist
+24,"Caenurgina erechtea (Cramer, 1780)",Caenurgina erechtea,1,0,wood,1,specialist
+24,"Chionodes obscurusella (Chambers, 1872)",Chionodes obscurusella,1,0.001129484,wood,1,specialist
+24,Chionodes thoraceochrella,Chionodes thoraceochrella,1,0.968661255,wood,4,generalist
+24,"Choristoneura obsoletana (Walker, 1863) ",Choristoneura obsoletana,2,0.011551545,wood,4,generalist
+24,"Choristoneura parallela (Robinson, 1869)",Choristoneura parallela,1,0.037889068,wood,9,generalist
+24,Choristoneura rosaceana,Choristoneura rosaceana,1,1.835628992,wood,29,generalist
+24,"Clemensia albata Packard, 1864",Clemensia albata,1,0,wood,2,generalist
+24,"Coleophora laticornella Clemens, 186",Coleophora laticornella,1,1.663048905,wood,3,generalist
+24,"Costaconvexa centrostrigaria (Wollaston, 1858)",Costaconvexa centrostrigaria,1,0,wood,1,specialist
+24,"Cyclophora packardi (Prout, 1936) ",Cyclophora packardi,1,0.298941159,wood,4,generalist
+24,Datana drexelii,Datana drexelii,4,0.264928275,wood,6,generalist
+24,"Datana integerrima Grote & Robinson, 1866",Datana integerrima,1,1.301870586,wood,11,generalist
+24,"Datana integerrima Grote & Robinson, 1866",Datana integerrima,2,1.301870586,wood,11,generalist
+24,"Datana integerrima Grote & Robinson, 1866 ",Datana integerrima,8,1.301870586,wood,11,generalist
+24,"Dichomeris inversella (Zeller, 1873)",Dichomeris inversella,2,0.816705681,wood,1,specialist
+24,Digrammia gnophosaria,Digrammia gnophosaria,1,0,wood,1,specialist
+24,"Drepana arcuata Walker, 1855 ",Drepana arcuata,1,0.011551545,wood,1,specialist
+24,"Dryocampa rubicunda (Fabricius, 1793)",Dryocampa rubicunda,1,0.453590681,wood,5,generalist
+24,"Elophila obliteralis (Walker, 1859)",Elophila obliteralis,1,0,wood,1,specialist
+24,"Epimecis hortaria (Fabricius, 1794)",Epimecis hortaria,1,0.219171321,wood,9,generalist
+24,"Epimecis hortaria (Fabricius, 1794) ",Epimecis hortaria,1,0.219171321,wood,5,generalist
+24,"Epipaschia superatalis Clemens, 1860",Epipaschia superatalis,1,0,wood,1,specialist
+24,"Eubaphe mendica (Walker, 1854) ",Eubaphe mendica,2,0.001129484,wood,2,generalist
+24,"Eutrapela clemataria (Smith, 1797) ",Eutrapela clemataria,2,2.089005722,wood,24,generalist
+24,"Feltia subgothica (Haworth, 1809) ",Feltia subgothica,1,0.031882265,wood,1,specialist
+24,"Grapholita packardi (Zeller, 1875)",Grapholita packardi,1,0.713153906,wood,5,generalist
+24,"Grapholita packardi (Zeller, 1875)",Grapholita packardi,3,0.713153906,wood,5,generalist
+24,"Gretchena concitatricana  (Heinrich, 1923) ",Gretchena concitatricana,1,0.165071583,wood,1,specialist
+24,"Halysidota tessellaris (Smith, 1797) ",Halysidota tessellaris,8,2.123968399,wood,29,generalist
+24,"Hedya chionosema (Zeller, 1875) ",Hedya chionosema,1,0.319271879,wood,4,generalist
+24,"Herpetogramma bipunctalis (Fabricius, 1794) ",Herpetogramma bipunctalis,4,0,wood,1,specialist
+24,"Herpetogramma pertextalis (Lederer, 1863)",Herpetogramma pertextalis,1,0.001129484,wood,6,generalist
+24,"Herpetogramma pertextalis (Lederer, 1863)",Herpetogramma pertextalis,3,0.001129484,wood,6,generalist
+24,"Herpetogramma pertextalis (Lederer, 1863) ",Herpetogramma pertextalis,1,0.001129484,wood,6,generalist
+24,"Heterocampa guttivitta (Walker, 1855) ",Heterocampa guttivitta,1,2.001162637,wood,27,generalist
+24,Hypagyrtis unipunctata,Hypagyrtis unipunctata,5,1.963940991,wood,23,generalist
+24,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,4,1.963940991,wood,23,generalist
+24,"Hypagyrtis unipunctata (Haworth, 1809)",Hypagyrtis unipunctata,18,1.963940991,wood,23,generalist
+24,Hypena madefactalis,Hypena madefactalis,1,0.981777264,wood,2,generalist
+24,"Hypena scabra (Fabricius, 1798) ",Hypena scabra,1,0.730712254,wood,10,generalist
+24,Hyphantria cunea,Hyphantria cunea,1,2.268645088,wood,48,generalist
+24,"Hyphantria cunea (Drury, 1773)",Hyphantria cunea,1,2.268645088,wood,48,generalist
+24,"Hyphantria cunea (Drury, 1773)",Hyphantria cunea,30,2.268645088,wood,48,generalist
+24,"Ilexia intractata (Walker, [1863]) ",Ilexia intractata,2,0,wood,1,specialist
+24,"Isochaetes beutenmuelleri (Edwards, 1887) ",Isochaetes beutenmuelleri,4,0.287389614,wood,3,generalist
+24,"Lascoria ambigualis (Walker, 1866)",Lascoria ambigualis,1,0.287389614,wood,3,generalist
+24,"Lascoria ambigualis (Walker, 1866) ",Lascoria ambigualis,3,0.287389614,wood,3,generalist
+24,Ledaea perditalis,Ledaea perditalis,2,0,wood,1,specialist
+24,"Lochmaeus manteo Doubleday, 1841",Lochmaeus manteo,1,1.312600688,wood,12,generalist
+24,"Malacosoma americana (Fabricius, 1793)",Malacosoma americana,9,1.996285318,wood,24,generalist
+24,Melanolophia canadaria,Melanolophia canadaria,6,2.089467784,wood,26,generalist
+24,Misogada unicolor,Misogada unicolor,1,0.001129484,wood,2,generalist
+24,Nadata gibbosa,Nadata gibbosa,2,1.798869408,wood,12,generalist
+24,"Nadata gibbosa (Smith, 1797)",Nadata gibbosa,1,1.798869408,wood,12,generalist
+24,"Nadata gibbosa (Smith, 1797) ",Nadata gibbosa,1,1.798869408,wood,12,generalist
+24,Olethreutes tilianum,Olethreutes tilianum,1,0,wood,1,specialist
+24,"Omphalocera munroei Martin, 1956",Omphalocera munroei,1,0,wood,1,specialist
+24,"Oreana unicolorella (Hulst, 1887)",Oreana unicolorella,2,0.331952908,wood,8,generalist
+24,"Orgyia definita Packard, 1864",Orgyia definita,1,0.300070643,wood,11,generalist
+24,Orgyia leucostigma,Orgyia leucostigma,1,2.268645088,wood,50,generalist
+24,"Orgyia leucostigma (Smith, 1797) ",Orgyia leucostigma,1,2.268645088,wood,50,generalist
+24,"Orgyia leucostigma (Smith, 1797) ",Orgyia leucostigma,2,2.268645088,wood,50,generalist
+24,"Palpita magniferalis (Walker, 1861)",Palpita magniferalis,2,0.000821443,wood,1,specialist
+24,Palthis asopialis,Palthis asopialis,1,0.287389614,wood,2,generalist
+24,"Pandemis lamprosana (Robinson, 1869)",Pandemis lamprosana,1,1.102351139,wood,14,generalist
+24,"Paonias excaecata (Smith, 1797)",Paonias excaecata,1,1.018923311,wood,19,generalist
+24,Paralobesia liriodendrana,Paralobesia liriodendrana,1,0.123267824,wood,2,generalist
+24,"Peridea angulosa (Smith, 1797) ",Peridea angulosa,1,1.104095295,wood,3,generalist
+24,"Peridea angulosa (Smith, 1797) ",Peridea angulosa,2,1.104095295,wood,3,generalist
+24,Pero ancetaria,Pero ancetaria,1,0.69395267,wood,5,generalist
+24,"Phaecasiophora confixana (Walker, 1863)",Phaecasiophora confixana,2,0.00759835,wood,1,specialist
+24,Phobetron pithecium,Phobetron pithecium,1,1.995823256,wood,15,generalist
+24,"Platynota idaeusalis (Walker, 1859)",Platynota idaeusalis,3,0.730404213,wood,10,generalist
+24,"Platynota idaeusalis (Walker, 1859) ",Platynota idaeusalis,2,0.730404213,wood,10,generalist
+24,Prochoerodes lineola,Prochoerodes lineola,1,1.239082931,wood,18,generalist
+24,"Prochoerodes lineola (Goeze, 1781)",Prochoerodes lineola,1,1.239082931,wood,18,generalist
+24,"Protitame virginalis (Hulst, 1900)",Protitame virginalis,1,0.011551545,wood,2,generalist
+24,Pseudeustrotia carneola,Pseudeustrotia carneola,2,0.287389614,wood,1,specialist
+24,"Psilocorsis quercicella Clemens, 1860",Psilocorsis quercicella,2,0.287389614,wood,3,generalist
+24,"Pyrrharctia isabella (Smith, 1797)",Pyrrharctia isabella,1,0.698829989,wood,8,generalist
+24,"Pyrrharctia isabella (Smith, 1797)",Pyrrharctia isabella,2,0.698829989,wood,8,generalist
+24,"Redectis vitrea (Grote, 1878)",Redectis vitrea,4,0,wood,1,specialist
+24,"Renia adspergillus (Bosc, [1800])",Renia adspergillus,5,0,wood,2,generalist
+24,Schizura leptinoides,Schizura leptinoides,2,1.994334391,wood,14,generalist
+24,"Schizura unicornis (Smith, 1797) ",Schizura unicornis,2,1.830392292,wood,25,generalist
+24,"Scopula limboundata (Haworth, 1809) ",Scopula limboundata,5,0.713153906,wood,9,generalist
+24,"Sonia canadana McDunnough, 1925",Sonia canadana,1,0.001129484,wood,1,specialist
+24,Sparganothis sulfureana,Sparganothis sulfureana,1,0.718031225,wood,11,generalist
+24,Spilosoma virginica,Spilosoma virginica,4,1.676551377,wood,18,generalist
+24,"Spilosoma virginica (Fabricius, 1798",Spilosoma virginica,1,1.676551377,wood,18,generalist
+24,"Tarache terminimaculata Grote, 1873",Tarache terminimaculata,1,0,wood,1,specialist
+24,"Tetanolita floridana Smith, 1895 ",Tetanolita floridana,2,0.287389614,wood,2,generalist
+24,"Xanthotype sospeta (Drury, 1773)",Xanthotype sospeta,1,1.503984125,wood,10,generalist
+24,"Xanthotype sospeta (Drury, 1773) ",Xanthotype sospeta,1,1.503984125,wood,10,generalist
+24,"Xestia dolosa Franclemont, 1980",Xestia dolosa,1,0.037889068,wood,8,generalist
+24,"Xestia dolosa Franclemont, 1980",Xestia dolosa,2,0.037889068,wood,8,generalist
+24,"Yponomeuta multipunctella (Clemens, 1860)",Yponomeuta multipunctella,3,0,wood,1,specialist
+24,Zanclognatha cruralis,Zanclognatha cruralis,3,0.287389614,wood,5,generalist
+24,"Zanclognatha protumnusalis (Walker, 1859)",Zanclognatha protumnusalis,1,0.287389614,wood,4,generalist
+24,"Hypoprepia fucosa Hübner, [1831]",Hypoprepia fucosa,2,0.298941159,wood,5,generalist
+24,"Melanolophia canadaria (Guenée, [1858]) ",Melanolophia canadaria,6,2.089467784,wood,26,generalist
+24,"Catastega aceriella –  – Clemens, [1862] ",Catastega aceriella,1,0.288519098,wood,4,generalist
+24,"Cabera erythemaria Guenée, [1858]",Cabera erythemaria,1,0.011551545,wood,3,generalist
+24,"Protoboarmia porcelaria (Guenée, [1858])",Protoboarmia porcelaria,3,1.116776324,wood,11,generalist
+24,"Anavitrinella pampinaria (Guenée, [1858])",Anavitrinella pampinaria,1,1.835628992,wood,20,generalist
+24,"Acronicta insularis (Herrich-Schäffer, 1868)",Acronicta insularis,2,0,wood,1,specialist
+24,"Pseudeustrotia carneola (Guenée, 1852)",Pseudeustrotia carneola,2,0.287389614,wood,1,specialist
+24,"Panopoda rufimargo (Hübner, 1818)",Panopoda rufimargo,1,1.950438519,wood,5,generalist
+24,"Panopoda rufimargo (Hübner, 1818)",Panopoda rufimargo,2,1.950438519,wood,5,generalist

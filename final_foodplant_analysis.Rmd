@@ -1,0 +1,63 @@
+---
+title: "Relationships between host plant availability and species-specific captures"
+output: html_notebook
+---
+We also considered whether host plant availability predicted the abundance of moths captured for the species that rely on woody host plants. We did not consider non-phytophagous species, species with herbaceous host plants, or species where host plants are unknown. For each species captured in each plot, we determined the basal area of every host plant genus that the species has been recorded feeding on and summed values for the total basal area of host plants. We then used a linear mixed model with count as our response, host plant basal area as our predictor, a random intercept of species identity, and a Poisson distribution. We ran this model with all moths, specialists, and generalists. 
+
+1) Data
+```{r}
+leps_withplants<-read.csv("C:/Users/DesireeNarango/Documents/manuscripts/moths/finaldata/leps_withplants.csv")%>%
+  mutate(mothID_format=trimws(tolower(mothID_format)))%>%
+  group_by(plot,mothID_format,total_basal_all, planttype,num_hostplants,category)%>%
+  summarise(count=sum(count))
+
+
+```
+2)Analysis
+```{r}
+
+## all species
+model<-glmer(count~total_basal_all + (1|mothID_format), family=poisson, data=leps_withplants)
+summary(model)
+
+
+##Just specialists
+model2<-glmer(count~total_basal_all + (1|mothID_format), family=poisson, data=filter(leps_withplants, category=="specialist"))
+summary(model2)
+
+
+##Just Generalists
+model3<-glmer(count~total_basal_all + (1|mothID_format), family=poisson, data=filter(leps_withplants, category=="generalist"))
+summary(model3)
+```
+3) Predictions
+```{R}
+##Predictions
+specialists_lepdata<-filter(leps_withplants, category=="specialist")
+generalists_lepdata<-filter(leps_withplants, category=="generalist")
+
+newdata<-expand.grid(total_basal_all=seq(from=0,to=13.50,by=0.1),mothID_format=specialists_lepdata$mothID_format)
+
+newdata$spec_predict<-exp(predict(model2, newdata=newdata))
+
+newdata2<-expand.grid(total_basal_all=seq(from=0,to=13.50,by=0.1),mothID_format=generalists_lepdata$mothID_format)
+newdata2$gen_predict<-exp(predict(model3, newdata=newdata2))
+```
+4) Plots
+```{r}
+specialist_plot<-ggplot(data=filter(newdata, spec_predict<100))+
+  geom_line(aes(x=total_basal_all,y=spec_predict, group=mothID_format), color="darkseagreen",alpha=0.1, linewidth=3)+
+  theme_bw(18)+
+  labs(y="Predicted Abundance",x="Host Plant Basal Area",title="Specialists")
+
+
+generalist_plot<-ggplot(data=filter(newdata2, gen_predict<1000))+
+  geom_line(aes(x=total_basal_all,y=gen_predict, group=mothID_format), color="darkorange3",alpha=0.1, linewidth=3)+
+  theme_bw(18)+
+  labs(y="Predicted Abundance",x="Host Plant Basal Area",title="Generalists")
+
+#combine plots
+plot_grid(specialist_plot, generalist_plot, labels = c('A)', 'B)'))
+
+ggsave("C:/Users/DesireeNarango/Documents/manuscripts/moths/finalfigures/species_abundance.png", dpi=300, width=7,height=3.4)
+```
