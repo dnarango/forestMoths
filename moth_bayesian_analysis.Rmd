@@ -1,0 +1,566 @@
+---
+title: "Urban Moth Analysis"
+output: html_notebook
+author: D.Narango, dnarango@vtecostudies.org
+---
+
+```{r libraries}
+library(tidyverse)
+library(iNEXT)
+library(jagsUI)
+```
+
+```{r data}
+path <- "C:/Users/DesireeNarango/Documents/manuscripts/moths/revision/revision submission/"
+
+moths<-read.csv(paste0(path,"moth_data.csv"))
+```
+
+## Correlations
+```{r correlations}
+# genus level specialism (Table 1)
+cor(moths[c(4:5,7:9,11:13,15)],moths[c(4:5,7:9,11:13,15)])
+
+# family level specialism (table S6)
+cor(moths[c(16:17,19:21,23:25,27)],moths[c(16:17,19:21,23:25,27)])
+
+# correlation between genus-level specialism and family-level specialism
+cor(moths[c(4,8,12,16,20,24)],moths[c(4,8,12,16,20,24)])
+
+# covariate correlations (Table S3)
+cor(moths[c(31,32,33,40)],moths[c(31,32,33,40)])
+
+```
+## Bayesian Models
+```{r specialist abundance model}
+moth_abundance<-moths%>%
+  mutate(year_factor=as.numeric(as.factor(year)))%>%
+  mutate(rep=1:nrow(.))%>%
+  
+  ##scale covariates
+  mutate(scaled_imperv=
+           (imperv_1km_mean-mean(.$imperv_1km_mean))/sd(.$imperv_1km_mean))%>%
+  mutate(scaled_basal=(total_basal-mean(.$total_basal))/sd(.$total_basal))%>%
+  mutate(scaled_genera=
+           (genera_richness-mean(.$genera_richness))/sd(.$genera_richness))%>%
+  mutate(scaled_keystone=
+           (keystone_basal-mean(.$keystone_basal))/sd(.$keystone_basal))%>%
+  mutate(year_binary=ifelse(year==2018,1,0))
+
+#remove outlier
+moth_abundance[moth_abundance$specialist_abundance>300,5]<-150
+
+
+## create the jags list
+str(moth.data<-list(
+  N=round(moth_abundance$specialist_abundance),
+  n=length(moth_abundance$specialist_abundance),
+  basal=moth_abundance$scaled_basal,
+  genera=moth_abundance$scaled_genera,
+  keystone_basal=moth_abundance$scaled_keystone,
+  imperv=moth_abundance$scaled_imperv,
+  site=as.numeric(as.factor(moth_abundance$site_format)),
+  nsite=length(unique(moth_abundance$site_format)),
+  year=moth_abundance$year_binary,
+  pred.basal=c(-0.6095,0,0.3448),
+  pred.keystone=seq(from=min(moth_abundance$scaled_keystone),
+                    to=max(moth_abundance$scaled_keystone),length=100),
+  npred=100,
+  pred.imperv=c(-0.9134,0,1.1264),
+  predict.imperv=seq(from=min(moth_abundance$scaled_imperv),
+                     to=max(moth_abundance$scaled_imperv),length=100),
+  pred.genera=c(-0.5778,0,2.5505),
+  sitename=as.numeric(as.factor(tmp$site_format)),
+  nID=max(unique(moth_abundance$plot)),
+  plot=moth_abundance$plot
+)
+)
+
+##number of sites
+nsite=length(unique(moth_abundance$site_format))
+
+## initial values
+set.seed(42)
+
+inits<-function()list(
+  intercept=1,
+  beta=rep(1,8),
+  site.rand=rep(1,nsite),
+  tau=0.01,
+  w=rep(0.5,nrow(moth_abundance))
+)
+
+#parameters to monitor
+params<-c("intercept","site.rand","site.mean","tau","beta","alpha.year",
+          "Npred.keystone","Npred.keystone2","Npred.imperv",
+          "Npred.keystone3","mu","mu.year")
+
+n.adapt<-50000
+ni<-500000
+nt<-25
+nb<-250000
+nc<-3
+
+
+## call jags
+out<-jags(
+  moth.data,
+  inits,
+  params,
+  model=paste0(path,"forestMoths-main/JAGS_moth_analysis.txt"),
+  n.adapt=n.adapt,
+  n.chains=nc,
+  n.thin=nt,
+  n.iter=ni,
+  n.burnin=nb,
+  parallel = TRUE
+)
+
+summary<-out$summary
+```
+
+```{r specialist biomass model}
+## create the jags list
+str(moth.data<-list(
+  N=round(moth_abundance$specialist_biomass),
+  n=length(moth_abundance$specialist_biomass),
+  basal=moth_abundance$scaled_basal,
+  genera=moth_abundance$scaled_genera,
+  keystone_basal=moth_abundance$scaled_keystone,
+  imperv=moth_abundance$scaled_imperv,
+  site=as.numeric(as.factor(moth_abundance$site_format)),
+  nsite=length(unique(moth_abundance$site_format)),
+  year=moth_abundance$year_binary,
+  pred.basal=c(-0.6095,0,0.3448),
+  pred.keystone=seq(from=min(moth_abundance$scaled_keystone),
+                    to=max(moth_abundance$scaled_keystone),length=100),
+  npred=100,
+  pred.imperv=c(-0.9134,0,1.1264),
+  predict.imperv=seq(from=min(moth_abundance$scaled_imperv),
+                     to=max(moth_abundance$scaled_imperv),length=100),
+  pred.genera=c(-0.5778,0,2.5505)
+)
+)
+
+##number of sites
+nsite=length(unique(moth_abundance$site_format))
+
+## initial values
+set.seed(42)
+
+inits<-function()list(
+  intercept=1,
+  beta=rep(1,8),
+  site.rand=rep(1,nsite),
+  tau=0.01,
+  w=rep(0.5,nrow(moth_abundance))
+)
+## parameters to monitor
+params<-c("intercept","site.rand","tau","beta","alpha.year","Npred.keystone","Npred.keystone2","Npred.imperv","Npred.keystone3")
+
+n.adapt<-50000
+ni<-500000
+nt<-25
+nb<-25000
+nc<-3
+
+
+## call jags
+out3<-jags(
+  moth.data,
+  inits,
+  params,
+  model=paste0(path,"forestMoths-main/JAGS_moth_analysis.txt"),
+  n.adapt=n.adapt,
+  n.chains=nc,
+  n.thin=nt,
+  n.iter=ni,
+  n.burnin=nb,
+  parallel = TRUE
+)
+
+test<-out3$summary
+```
+Rarefied Species Richness
+```{r specialist species richness}
+species_richness_data <- read.csv(paste0(
+  path,"forestMoths-main/moth_rareifiedRichness_specialists.csv"))
+
+moth_community<-species_richness_data%>%
+  mutate(year_factor=as.numeric(as.factor(year)))%>%
+  mutate(rep=1:nrow(.))%>%
+  group_by(Site,plotID,year,scaled_imperv,scaled_basal, scaled_genera,scaled_keystone)%>%
+  mutate(year_binary=ifelse(year==2018,1,0))
+
+
+
+## create the jags list
+str(community.data<-list(
+  N=round(moth_community$Estimator),
+  n=length(moth_community$Estimator),
+  psd=(moth_community$s.e.+0.01),
+  basal=moth_community$scaled_basal,
+  genera=moth_community$scaled_genera,
+  keystone_basal=moth_community$scaled_keystone,
+  imperv=moth_community$scaled_imperv,
+  site=as.numeric(as.factor(moth_community$Site)),
+  nsite=length(unique(moth_community$Site)),
+  year=moth_community$year_binary,
+  pred.basal=c(-0.6095,0,0.3448),
+  pred.keystone=seq(from=min(moth_community$scaled_keystone),
+                    to=max(moth_community$scaled_keystone),length=100),
+  npred=100,
+  pred.imperv=c(-0.9134,0,1.1264),
+  predict.imperv=seq(from=min(moth_community$scaled_imperv),
+                     to=max(moth_community$scaled_imperv),length=100),
+  pred.genera=c(-0.5778,0,2.5505),
+  sitename=as.numeric(as.factor(tmp$ID)),
+  nID=max(unique(moth_community$plotID)),
+  plot=moth_community$plotID
+)
+)
+
+#number of sites
+nsite=length(unique(moth_community$Site))
+
+## initial values
+set.seed(42)
+
+inits<-function()list(
+  intercept=1,
+  beta=rep(1,8),
+  site.rand=rep(1,nsite),
+  tau=0.01
+)
+
+#Parameters to monitor
+params<-c("intercept","site.rand","tau","tau.resid","beta","alpha.year","Npred.keystone","Npred.keystone2","Npred.imperv","Npred.keystone3","mu","mu.year")
+
+n.adapt<-50000
+ni<-500000
+nt<-25
+nb<-25000
+nc<-3
+
+
+## call jags
+out4<-jags(
+  community.data,
+  inits,
+  params,
+  model=paste0(path,"forestMoths-main/JAGS_moth_richness_rarefied.txt"),
+  n.adapt=n.adapt,
+  n.chains=nc,
+  n.thin=nt,
+  n.iter=ni,
+  n.burnin=nb,
+  parallel = TRUE
+)
+
+test<-out4$summary
+```
+Generalist Abundance
+```{R generalist abundance}
+## create the jags list
+str(moth.data<-list(
+  N=round(moth_abundance$generalist_abundance),
+  n=length(moth_abundance$generalist_abundance),
+  basal=moth_abundance$scaled_basal,
+  genera=moth_abundance$scaled_genera,
+  keystone_basal=moth_abundance$scaled_keystone,
+  imperv=moth_abundance$scaled_imperv,
+  site=as.numeric(as.factor(moth_abundance$site_format)),
+  nsite=length(unique(moth_abundance$site_format)),
+  year=moth_abundance$year_binary,
+  pred.basal=c(-0.6095,0,0.3448),
+  pred.keystone=seq(from=min(moth_abundance$scaled_keystone),
+                    to=max(moth_abundance$scaled_keystone),length=100),
+  npred=100,
+  pred.imperv=c(-0.9134,0,1.1264),
+  predict.imperv=seq(from=min(moth_abundance$scaled_imperv),
+                     to=max(moth_abundance$scaled_imperv),length=100),
+  pred.genera=c(-0.5778,0,2.5505),
+  sitename=as.numeric(as.factor(tmp$site_factor)),
+  nID=max(unique(moth_abundance$plot)),
+  plot=moth_abundance$plot
+)
+)
+
+##number of sites
+nsite=length(unique(moth_abundance$site_format))
+
+## initial values
+set.seed(42)
+
+inits<-function()list(
+  intercept=1,
+  beta=rep(1,8),
+  site.rand=rep(1,nsite),
+  tau=0.01,
+  w=rep(0.5,nrow(moth_abundance))
+)
+##parameters to monitor
+params<-c("intercept","site.rand","site.mean","tau","beta","alpha.year","Npred.keystone",
+          "Npred.keystone2","Npred.imperv",
+          "Npred.keystone3","mu","mu.year")
+
+n.adapt<-50000
+ni<-500000
+nt<-25
+nb<-250000
+nc<-3
+
+
+## call jags
+out5<-jags(
+  moth.data,
+  inits,
+  params,
+  model=paste0(path,"forestMoths-main/JAGS_moth_analysis.txt"),
+  n.adapt=n.adapt,
+  n.chains=nc,
+  n.thin=nt,
+  n.iter=ni,
+  n.burnin=nb,
+  parallel = TRUE
+)
+
+test<-out5$summary
+```
+
+Generalist Biomass
+```{r generalist biomass}
+## create the jags list
+str(moth.data<-list(
+  N=round(moth_abundance$generalist_biomass),
+  n=length(moth_abundance$generalist_biomass),
+  basal=moth_abundance$scaled_basal,
+  genera=moth_abundance$scaled_genera,
+  keystone_basal=moth_abundance$scaled_keystone,
+  imperv=moth_abundance$scaled_imperv,
+  site=as.numeric(as.factor(moth_abundance$site_format)),
+  nsite=length(unique(moth_abundance$site_format)),
+  year=moth_abundance$year_binary,
+  pred.basal=c(-0.6095,0,0.3448),
+  pred.keystone=seq(from=min(moth_abundance$scaled_keystone),
+                    to=max(moth_abundance$scaled_keystone),length=100),
+  npred=100,
+  pred.imperv=c(-0.9134,0,1.1264),
+  predict.imperv=seq(from=min(moth_abundance$scaled_imperv),
+                     to=max(moth_abundance$scaled_imperv),length=100),
+  pred.genera=c(-0.5778,0,2.5505)
+)
+)
+
+##number of sites
+nsite=length(unique(moth_abundance$site_format))
+
+## initial values
+set.seed(42)
+
+inits<-function()list(
+  intercept=1,
+  beta=rep(1,8),
+  site.rand=rep(1,nsite),
+  tau=0.01,
+  w=rep(0.5,nrow(moth_abundance))
+)
+
+##parameters to monitor
+params<-c("intercept","site.rand","tau","beta","alpha.year","Npred.keystone","Npred.keystone2","Npred.imperv","Npred.keystone3")
+
+n.adapt<-50000
+ni<-500000
+nt<-25
+nb<-250000
+nc<-3
+
+
+## call jags
+out6<-jags(
+  moth.data,
+  inits,
+  params,
+  model=paste0(path,"forestMoths-main/JAGS_moth_analysis.txt"),
+  n.adapt=n.adapt,
+  n.chains=nc,
+  n.thin=nt,
+  n.iter=ni,
+  n.burnin=nb,
+  parallel = TRUE
+)
+test<-out6$summary
+```
+
+
+Generalist Species Richness
+```{r generalist species richness}
+species_richness_data <- read.csv(paste0(
+  path,"forestMoths-main/moth_rareifiedRichness_generalists.csv"))
+
+moth_community<-species_richness_data%>%
+  mutate(year_factor=as.numeric(as.factor(year)))%>%
+  mutate(rep=1:nrow(.))%>%
+  group_by(Site,plotID,year,scaled_imperv,scaled_basal, scaled_genera,scaled_keystone)%>%
+  mutate(year_binary=ifelse(year==2018,1,0))
+
+
+
+## create the jags list
+str(community.data<-list(
+  N=round(moth_community$Estimator),
+  n=length(moth_community$Estimator),
+  psd=(moth_community$s.e.+0.01),
+  basal=moth_community$scaled_basal,
+  genera=moth_community$scaled_genera,
+  keystone_basal=moth_community$scaled_keystone,
+  imperv=moth_community$scaled_imperv,
+  site=as.numeric(as.factor(moth_community$Site)),
+  nsite=length(unique(moth_community$Site)),
+  year=moth_community$year_binary,
+  pred.basal=c(-0.6095,0,0.3448),
+  pred.keystone=seq(from=min(moth_community$scaled_keystone),
+                    to=max(moth_community$scaled_keystone),length=100),
+  npred=100,
+  pred.imperv=c(-0.9134,0,1.1264),
+  predict.imperv=seq(from=min(moth_community$scaled_imperv),
+                     to=max(moth_community$scaled_imperv),length=100),
+  pred.genera=c(-0.5778,0,2.5505),
+  sitename=as.numeric(as.factor(tmp$ID)),
+  nID=max(unique(moth_community$plotID)),
+  plot=moth_community$plotID
+)
+)
+
+#number of sites
+nsite=length(unique(moth_community$Site))
+
+## initial values
+set.seed(42)
+
+inits<-function()list(
+  intercept=1,
+  beta=rep(1,8),
+  site.rand=rep(1,nsite),
+  tau=0.01
+)
+
+#Parameters to monitor
+params<-c("intercept","site.rand","tau","tau.resid","beta","alpha.year","Npred.keystone","Npred.keystone2","Npred.imperv","Npred.keystone3","mu","mu.year")
+
+n.adapt<-50000
+ni<-500000
+nt<-25
+nb<-25000
+nc<-3
+
+
+## call jags
+out7<-jags(
+  community.data,
+  inits,
+  params,
+  model=paste0(path,"forestMoths-main/JAGS_moth_richness_rarefied.txt"),
+  n.adapt=n.adapt,
+  n.chains=nc,
+  n.thin=nt,
+  n.iter=ni,
+  n.burnin=nb,
+  parallel = TRUE
+)
+
+test<-out7$summary
+
+```
+## Degree of specialization
+```{r Format community specialization}
+## this uses the good dataset
+community_specialist_format<-read.csv(paste0(path,"forestMoths-main/allmoths_traits_12feb2024_format.csv"))%>%
+  filter(exotic==0)%>%
+  filter(!is.na(specialization_distance))%>%
+  group_by(Site,plot,year,species_good,specialization_distance)%>%
+  dplyr::summarise()%>%
+  group_by(Site,plot,year)%>%
+  dplyr::summarise(mean_distance=mean(specialization_distance,na.rm=TRUE))%>%
+  ungroup()
+
+sitevariables<-moth_abundance%>%
+  select(plot,year,scaled_imperv:year_binary)
+
+community_specialist_format<-community_specialist_format%>%
+  left_join(sitevariables,by=c("plot","year"))
+
+```
+```{r commuity specialization model}
+moth_community <- community_specialist_format
+
+## create the jags list
+str(community.data<-list(
+  N=round(moth_community$mean_distance),
+  n=length(moth_community$mean_distance),
+  basal=moth_community$scaled_basal,
+  genera=moth_community$scaled_genera,
+  keystone_basal=moth_community$scaled_keystone,
+  imperv=moth_community$scaled_imperv,
+  site=as.numeric(as.factor(moth_community$Site)),
+  nsite=length(unique(moth_community$Site)),
+  year=moth_community$year_binary,
+  pred.basal=c(-0.6095,0,0.3448),
+  pred.keystone=seq(from=min(moth_community$scaled_keystone),
+                    to=max(moth_community$scaled_keystone),length=100),
+  npred=100,
+  pred.imperv=c(-0.9134,0,1.1264),
+  predict.imperv=seq(from=min(moth_community$scaled_imperv),
+                     to=max(moth_community$scaled_imperv),length=100),
+  pred.genera=c(-0.5778,0,2.5505),
+  sitename=as.numeric(as.factor(tmp$Site)),
+  nID=max(unique(moth_community$plot)),
+  plot=moth_community$plot
+)
+)
+
+#number of sites
+nsite=length(unique(moth_community$Site))
+
+## initial values
+set.seed(42)
+
+inits<-function()list(
+  intercept=1,
+  beta=rep(1,8),
+  site.rand=rep(1,nsite),
+  tau=0.01,
+  tau.resid=0.01
+)
+
+#parameters to monitor
+params<-c("intercept","site.rand","tau","beta","alpha.year","Npred.keystone",
+          "Npred.keystone2","Npred.imperv",
+          "Npred.keystone3","mu","mu.year")
+
+n.adapt<-50000
+ni<-500000
+nt<-25
+nb<-25000
+nc<-3
+
+
+## call jags
+out8<-jags(
+  community.data,
+  inits,
+  params,
+  model=paste0(path,
+            "forestMoths-main/JAGS_moth_specializationDistance_analysis.txt"),
+  n.adapt=n.adapt,
+  n.chains=nc,
+  n.thin=nt,
+  n.iter=ni,
+  n.burnin=nb,
+  parallel = TRUE
+)
+
+test<-out8$summary
+```
+
+
